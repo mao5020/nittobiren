@@ -1,3 +1,4 @@
 /wp/*
+/nittobiren/wp-content/plugins/
 !.gitignore
 !/nittobiren/wp-content/themes/nittobiren
