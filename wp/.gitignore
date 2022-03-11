@@ -1,0 +1,3 @@
+/wp/*
+!.gitignore
+!/nittobiren/wp-content/themes/nittobiren
