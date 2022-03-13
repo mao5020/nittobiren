@@ -1,6 +1,6 @@
 <?php get_header(); ?>
-<div class="about-cover">
-  <h1 class="about-cover-ttl">概要</h1>
+<div class="page_cover">
+  <h1 class="page_ttl">概要</h1>
 </div>
 <?php get_template_part('p-header'); ?>
 </body>
@@ -35,6 +35,7 @@
         <p class="company-table-row">FAX番号</p>
         <p class="company-table-data">03-5472-5747</p>
       </div>
+      <div class="company-"></div>
     </section>
   </div>  <!-- /l_inner -->
 </div>

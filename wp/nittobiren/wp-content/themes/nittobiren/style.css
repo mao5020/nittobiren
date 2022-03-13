@@ -59,6 +59,23 @@ component
   margin-top: 50px;
 }
 
+.page_ttl{
+  color: #747474;
+  font-size: 50px;
+  letter-spacing: 0.1rem;
+}
+
+.page_cover{
+  margin-top: 100px;
+  height: 150px;
+  background-image: url(/wp/nittobiren/wp-content/themes/nittobiren/image/common/cover.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .C_more_btn{
   margin-top: 15px;
   height: 100px;
@@ -360,20 +377,7 @@ top
 about
  ------------------------------ */
 /* about-cover */
-.about-cover{
-  margin-top: 100px;
-  height: 150px;
-  background-image: url(/wp/nittobiren/wp-content/themes/nittobiren/image/common/cover.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.about-cover-ttl{
-  font-size: 50px;
-  letter-spacing: 0.1rem;
-}
+
 
 /* company */
 .company-table{
@@ -393,5 +397,4 @@ about
 .company-table-data{
   padding: 20px;
   justify-self: center;
-
 }
