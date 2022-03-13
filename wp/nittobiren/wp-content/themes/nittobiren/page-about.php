@@ -35,9 +35,8 @@
         <p class="l_table_row">FAX番号</p>
         <p class="l_table_data">03-5472-5747</p>
       </div>
-      <div class="company-"></div>
     </section>
-    <section class="activities">
+    <div class="activities">
       <h4 class="h4_ttl">組織・広報対策活動</h4>
       <p class="activities-txt">全国の会員、行政・指導機関等のもっている情報を、どんどん発信します。</p>
       <ul class="md_box">
@@ -46,7 +45,125 @@
         <li class="md_box_list">出版物（鳶技能検定ガイドブックなど）の発行及び販売</li>
         <li class="md_box_list">（一財）建設業振興基金、（一社）建設産業専門団体連合会等の関係団体との連携</li>
       </ul>
+      <h4 class="h4_ttl">経営対策活動</h4>
+      <p class="activities-txt">会員企業の安定した基盤づくりを目指します。</p>
+      <ul class="md_box">
+        <li class="md_box_list">元請・下請関係の適正化の推進</li>
+        <li class="md_box_list">分発注・CM方式等に対応するため、専門工事業の責任施工体制、現場管理能力の強化支援事業</li>
+        <li class="md_box_list">入職促進用ビデオ等の作成</li>
+        <li class="md_box_list">国土交通省、厚生労働省、国会関係等への建議、陳情</li>
+      </ul>
+      <h4 class="h4_ttl">技術・技能の向上と安全対策活動</h4>
+      <p class="activities-txt">高度な施工機能を担う優秀な技能労働者の育成などを行います。</p>
+      <ul class="md_box">
+        <li class="md_box_list">登録教習機関としての作業主任者等技能講習会の実施<br>（足場・型枠・土止・地山・鉄骨・木造・玉掛け・コンクリート解体）<br>※その他、準備講習等も実施しております。詳しくは各都道府県連へお問い合わせ下さい。<br>※各講習の詳細は「講習会について」をご覧ください。</li>
+        <li class="md_box_list">とび技能士、土木・建築施工管理技士等の資格取得促進</li>
+        <li class="md_box_list">建設業労働災害防止協会の安全管理活動促進の推進事業の推進</li>
+      </ul>
+      <h4 class="h4_ttl">福祉対策活動</h4>
+      <p class="activities-txt">安全で快適な作業環境の整備等を図ります。</p>
+      <ul class="md_box">
+        <li class="md_box_list">川島共済基金による会員支援事業</li>
+        <li class="md_box_list">関係福祉活動団体の普及と加入促進事業<br>全国建設工事業国民健康保険組合<br>日本建設工事業厚生年金基金</li>
+        <li class="md_box_list">建設雇用改善支援事業</li>
+        <li class="md_box_list">環境問題に対応した工夫、新建築材等の調査研究</li>
+      </ul>
+    </div>
+    <section class="history sec_inner">
+      <h2 class="h2_ttl">沿革</h2>
+      <div class="l_table">
+        <p class="l_table_row">1965年 10月</p>
+        <p class="l_table_data">任意団体日本鳶工業連合会として発足</p>
+      </div>
+      <div class="l_table">
+        <p class="l_table_row">1966年 5月</p>
+        <p class="l_table_data">建設大臣の許可を得て社団法人設立</p>
+      </div>
+      <div class="l_table">
+        <p class="l_table_row">9月</p>
+        <p class="l_table_data">建設業法第27条の33により建設大臣に届出</p>
+      </div>
+      <div class="l_table">
+        <p class="l_table_row">2013年 4月</p>
+        <p class="l_table_data">法人格を一般社団法人へ変更</p>
+      </div>
     </section>
-  </div>  <!-- /l_inner -->
-</div>
+    <section class="member sec_inner">
+      <h2 class="h2_ttl">日鳶連役員等名簿</h2>
+      <h4 class="h4_ttl">名誉役員</h4>
+      <div class="l_table member">
+        <p class="l_table_row">顧問</p>
+        <p class="l_table_data member-table"><span class="member-name">石破 茂</span><span class="member-name">鈴木 隆道</span><span class="member-name">鴨下 一郎</span></p>
+      </div>
+      <div class="l_table">
+        <p class="l_table_row">相談役</p>
+        <p class="l_table_data member-table"><span class="member-name">向井 敏雄</span><span class="member-name">中村 隆輔</span><span class="member-name">小野 辰雄</span><span class="member-name">遠藤 信義</span></p>
+      </div>
+      <h4 class="h4_ttl member-ttl">理事・幹事</h4>
+      <div class="l_table">
+        <p class="l_table_row">会長</p>
+        <p class="l_table_data member-table">清水 武</p>
+      </div>
+      <div class="l_table">
+        <p class="l_table_row">副会長</p>
+        <p class="l_table_data member-table"><span class="member-name">山本 冨夫</span><span class="member-name">梅澤 昭夫</span></p>
+      </div>
+      <div class="l_table">
+        <p class="l_table_row">常務理事</p>
+        <p class="l_table_data member-table">岡本 啓志</p>
+      </div>
+      <div class="l_table">
+        <p class="l_table_row">理事</p>
+        <p class="l_table_data member-table"><span class="member-name">栗栖 龍男</span><span class="member-name">松原 繁光</span><span class="member-name">広川 幸則</span><span class="member-name">丹波 信二</span><span class="member-name">春瀬 隆昭</span><span class="member-name">遠藤 正樹</span><span class="member-name">筒井 弘</span></p>
+      </div>
+      <div class="l_table">
+        <p class="l_table_row">監事</p>
+        <p class="l_table_data member-table">大澤 勉</p>
+      </div>
+    </section>
+    <section class="document sec_inner">
+      <h2 class="h2_ttl">定款・事業・財務資料</h2>
+      <div class="docment_item">
+        <div class="C_more_btn document-more_btn">
+          <div class="C_more_btn_block">
+            <a href="" class="C_more_btn_block-link">
+              <p class="C_more_btn_block-link-txt">定款</p>
+              <p><img src="/wp/nittobiren/wp-content/themes/nittobiren/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+            </a>
+          </div>
+        </div>
+        <div class="C_more_btn document-more_btn">
+          <div class="C_more_btn_block">
+            <a href="" class="C_more_btn_block-link">
+              <p class="C_more_btn_block-link-txt">事業報告書</p>
+              <p><img src="/wp/nittobiren/wp-content/themes/nittobiren/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="docment_item">
+        <div class="C_more_btn document-more_btn">
+          <div class="C_more_btn_block">
+            <a href="" class="C_more_btn_block-link">
+              <p class="C_more_btn_block-link-txt">事業計画書</p>
+              <p><img src="/wp/nittobiren/wp-content/themes/nittobiren/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+            </a>
+          </div>
+        </div>
+        <div class="C_more_btn document-more_btn">
+          <div class="C_more_btn_block">
+            <a href="" class="C_more_btn_block-link">
+              <p class="C_more_btn_block-link-txt">財務資料</p>
+              <p><img src="/wp/nittobiren/wp-content/themes/nittobiren/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="sec_inner access">
+      <h2 class="h2_ttl">アクセスマップ</h2>
+      <iframe class="access-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.6838816224745!2d139.74280831561165!3d35.660159338734026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b9635b54d5f%3A0x458adc800c8f450d!2z44CSMTA1LTAwMTEg5p2x5Lqs6YO95riv5Yy66Iqd5YWs5ZyS77yT5LiB55uu77yV4oiS77yS77yQ!5e0!3m2!1sja!2sjp!4v1647184338913!5m2!1sja!2sjp" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </section>
+  </div><!-- /l_inner -->
+</div><!-- flex_inner -->
 <?php get_footer(); ?>
