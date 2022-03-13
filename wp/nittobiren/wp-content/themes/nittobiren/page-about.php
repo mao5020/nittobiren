@@ -15,27 +15,37 @@
     </section>
     <section class="company sec_inner">
       <h2 class="h2_ttl">会社概要</h2>
-      <div class="company-table">
-        <p class="company-table-row">名称</p>
-        <p class="company-table-data">一般社団法人 日本鳶工業連合会（略称：日鳶連）</p>
+      <div class="l_table">
+        <p class="l_table_row">名称</p>
+        <p class="l_table_data">一般社団法人 日本鳶工業連合会（略称：日鳶連）</p>
       </div>
-      <div class="company-table">
-        <p class="company-table-row">代表者</p>
-        <p class="company-table-data">清水　武</p>
+      <div class="l_table">
+        <p class="l_table_row">代表者</p>
+        <p class="l_table_data">清水　武</p>
       </div>
-      <div class="company-table">
-        <p class="company-table-row">住所</p>
-        <p class="company-table-data">〒 1105 - 0011<br>東京都港区芝公園 3-5-20 鳶連会館</p>
+      <div class="l_table">
+        <p class="l_table_row">住所</p>
+        <p class="l_table_data">〒 1105 - 0011<br>東京都港区芝公園 3-5-20 鳶連会館</p>
       </div>
-      <div class="company-table">
-        <p class="company-table-row">電話番号</p>
-        <p class="company-table-data">03-3434-8805</p>
+      <div class="l_table">
+        <p class="l_table_row">電話番号</p>
+        <p class="l_table_data">03-3434-8805</p>
       </div>
-      <div class="company-table">
-        <p class="company-table-row">FAX番号</p>
-        <p class="company-table-data">03-5472-5747</p>
+      <div class="l_table">
+        <p class="l_table_row">FAX番号</p>
+        <p class="l_table_data">03-5472-5747</p>
       </div>
       <div class="company-"></div>
+    </section>
+    <section class="activities">
+      <h4 class="h4_ttl">組織・広報対策活動</h4>
+      <p class="activities-txt">全国の会員、行政・指導機関等のもっている情報を、どんどん発信します。</p>
+      <ul class="md_box">
+        <li class="md_box_list">機関紙（日鳶連新聞）の発行</li>
+        <li class="md_box_list">出版物（鳶技能検定ガイドブックなど）の発行及び販売</li>
+        <li class="md_box_list">出版物（鳶技能検定ガイドブックなど）の発行及び販売</li>
+        <li class="md_box_list">（一財）建設業振興基金、（一社）建設産業専門団体連合会等の関係団体との連携</li>
+      </ul>
     </section>
   </div>  <!-- /l_inner -->
 </div>
