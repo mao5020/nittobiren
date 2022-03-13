@@ -2,15 +2,11 @@
 Theme Name: nittobiren
 */
 
-@charset "utf-8";
-
-/* ------------------------------ 
-base
- ------------------------------ */
+/* base */
 html{
   /* 1rem = 10px */
   font-size: 62.5%;
-  font-family: 'Noto Sans JP', sans-serif;
+  -wp-admin--admin-bar--height:0;
 }
 a{
   text-decoration: none;
@@ -18,16 +14,17 @@ a{
 }
 li{
   list-style: none;
-  letter-spacing: 0.05em;
 }
 p{
   font-size: 1.8rem;
-  letter-spacing: 0.05em;
+}
+.header{
+  width: 100%;
+  position:fixed;
+  top:0px;
+  background-color: rgba(255, 255, 255, 0.85);
 }
 
-/* ------------------------------ 
-component
- ------------------------------ */
 /* layout_inner */
 .l_inner{
   margin: 0 70px;
@@ -44,7 +41,6 @@ component
 /* component */
 .h2_ttl{
   font-size: 2.6rem;
-  letter-spacing: 0.1em;
   font-weight: bold;
   padding-left: 30px;
   border-left: 5px solid #B50000;
@@ -53,17 +49,15 @@ component
 
 .h3_ttl{
   font-size: 2rem;
-  letter-spacing: 0.1em;
   font-weight: bold;
   margin-bottom: 15px;
   margin-top: 50px;
 }
-
+/* ----------- .C_more_btn ------------- */
 .C_more_btn{
   margin-top: 15px;
   height: 100px;
   position: relative;
-  z-index: -1;
 }
 .C_more_btn_block{
   position: absolute;
@@ -102,22 +96,15 @@ component
 </div>
 */
 
-/* ------------------------------ 
-header
- ------------------------------ */
+/* ----------- /.C_more_btn ------------- */
+
+
 /* header */
-.header{
-  width: 100%;
-  position:fixed;
-  top:0px;
-  background-color: rgba(255, 255, 255, 1);
-}
 .header-content{
   position: relative;
   height: 100px;
   display: flex;
   z-index: 999;
-  box-shadow: 0 0 1px 1px #BFBFBF;
 }
 .header-content-ttl{
   width: 30%;
@@ -153,6 +140,9 @@ header
 }
 .header-content-form{
   background-color: #B50000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   position: absolute;
   right: 0;
   width: 10%;
@@ -160,18 +150,10 @@ header
   margin-left:10px;
 }
 .header-content-form-txt{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100%;
-  width: 100%;
   color: #FFFFFF;
   font-size: 1.5rem;
 }
 
-/* ------------------------------ 
-top
- ------------------------------ */
 /* main */
 .main{
   background-image: url(/wp/nittobiren/wp-content/themes/nittobiren/image/top/main.png);
@@ -271,7 +253,6 @@ top
   position: relative;
   border-bottom:solid 1px #000;
   font-size: 18px;
-  z-index: -1;
 }
 .new-topics-item-link{
   height: 100px;
@@ -329,8 +310,8 @@ top
 
 /* course */
 .course-right{
+  /* margin-top: -30px; */
   position: relative;
-  z-index: -1;
 }
 .course-right-img{
   position: absolute;
@@ -354,44 +335,4 @@ top
 .footer-txt{
   color: #fff;
   font-size: 1.3rem;
-}
-
-/* ------------------------------ 
-about
- ------------------------------ */
-/* about-cover */
-.about-cover{
-  margin-top: 100px;
-  height: 150px;
-  background-image: url(/wp/nittobiren/wp-content/themes/nittobiren/image/common/cover.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.about-cover-ttl{
-  font-size: 50px;
-  letter-spacing: 0.1rem;
-}
-
-/* company */
-.company-table{
-  width: 900px;
-  display: flex;
-  border-bottom: solid 1px #9F9F9F80;
-}
-.company-table:nth-of-type(1){
-  border-top: solid 1px #9F9F9F80;
-}
-.company-table-row{
-  justify-self: center;
-  width: 180px;
-  padding: 20px;
-  background-color: #EDEDED;
-}
-.company-table-data{
-  padding: 20px;
-  justify-self: center;
-
 }
