@@ -21,18 +21,22 @@
             経営事項審査の加点（3点）対象とされます。<br>
             ※特例講習は平成24年度で終了しました。
           </p>
-          <div class="C_more_btn kikan-more-btn">
-            <div class="C_more_btn_block">
-              <a href="" class="C_more_btn_block-link">
-                <p class="C_more_btn_block-link-txt kikan-more-btn-txt">お問い合わせはこちら</p>
-                <p><img src="/wp/nittobiren/wp-content/themes/nittobiren/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
-              </a>
-            </div>
+        </div>
+      </div>
+      <div class="kikan-corse">
+        <div class="kikan-corse-btn"></div>
+        <div class="C_more_btn kikan-corse-btn">
+          <div class="C_more_btn_block">
+            <a href="" class="C_more_btn_block-link">
+              <p class="C_more_btn_block-link-txt">お問い合わせはこちら</p>
+              <p><img src="/wp/nittobiren/wp-content/themes/nittobiren/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+            </a>
           </div>
-        </div>    
-      </div>  
+        </div>
+      </div>
     </section>
-    <section class="sec_inner">
+    <div class="sec_inner">
+      <p>登録鳶・土工基幹技能者講習会の受講資格、開催日程については下記の該当する項目をご確認ください。<p>
       <div class="kikan-corse">
         <div class="C_more_btn kikan-corse-btn">
           <div class="C_more_btn_block">
@@ -51,7 +55,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </div>
   </div><!-- /l_inner -->
 </div><!-- flex_inner -->
 <?php get_footer(); ?>

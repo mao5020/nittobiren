@@ -535,15 +535,16 @@ about
 .kitan-content-right{
   width: 90%;
 }
-.kikan-more-btn-txt{
-  width: 300px;
+.kikan-more-btn{
+  /* margin-left: 240px; */
 }
 .kikan-corse{
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 .kikan-corse-btn{
-  width: 400px;
+  width: 40%;
 }
 
 /* kikan-first */
@@ -566,3 +567,12 @@ about
 .kikan-box-list{
 
 }
+/* kikan-first */
+  .kikan-table-note{
+    text-align: right;
+  }
+  .kikan-table-note-txt{
+    font-size: 1.4rem;
+    color: #B50000;
+    
+  }
