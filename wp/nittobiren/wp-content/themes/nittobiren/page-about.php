@@ -2,10 +2,6 @@
 <div class="page_cover">
   <h1 class="page_ttl">概要</h1>
 </div>
-<?php get_template_part('p-header'); ?>
-</body>
-</html>
-
 <div class="flex_inner">
   <?php get_sidebar();?>
   <div class="l_inner">

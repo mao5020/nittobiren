@@ -199,8 +199,12 @@ header
   justify-content: center;
   align-items: center;
 }
+.header-content-ttl-com{
+  font-size: 1.8rem;
+  margin-bottom: -10px;
+}
 .header-content-ttl-ja{
-  font-size: 4rem;
+  font-size: 3rem;
 }
 .header-content-ttl-en{
   font-size: 1.4rem;
