@@ -154,7 +154,7 @@ component
   -webkit-transform: translate(0, -50%);
   -ms-transform: translate(0, -50%);
   font-size: 18px;
-  width: 150px;
+  width: 300px;
   border-bottom: solid 1px #000;
   display: flex;
   align-items: end;
@@ -515,8 +515,28 @@ about
   justify-content: space-between;
 }
 .kikan-content-img{
-  flex-basis: 50%;
+  width: 50%;
 }
-.kikan-txt{
-  flex-basis: 90%;
+.kitan-content-right{
+  width: 90%;
 }
+.kikan-more-btn-txt{
+  width: 300px;
+}
+.kikan-corse{
+  display: flex;
+  justify-content: space-between;
+}
+.kikan-corse-btn{
+  width: 400px;
+}
+
+  /* margin-top: 20px;
+  transform: translate(0, -50%);
+  -webkit-transform: translate(0, -50%);
+  -ms-transform: translate(0, -50%);
+  font-size: 18px;
+  width: 150px;
+  border-bottom: solid 1px #000;
+  display: flex;
+  align-items: end; */
