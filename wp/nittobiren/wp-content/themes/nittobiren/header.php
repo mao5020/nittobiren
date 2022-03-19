@@ -29,10 +29,10 @@
       </div>
       <nav class="header-content-nav">
         <ul class="header-content-nav-list">
-          <li class="header-content-nav-list-item"><a href="">TOP</a></li>
-          <li class="header-content-nav-list-item"><a href="/wp/nittobiren/wp-content/themes/nittobiren/about">概要</a></li>
+          <li class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/index">TOP</a></li>
+          <li class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/about">概要</a></li>
           <li class="header-content-nav-list-item"><a href="">活動方向</a></li>
-          <li class="header-content-nav-list-item"><a href="">都道府県連一覧</a></li>
+          <li class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/prefectures">都道府県連一覧</a></li>
           <li class="header-content-nav-list-item"><a href="">入会案内</a></li>
           <li class="header-content-nav-list-item"><a href="">各種支援事業</a></li>
           <li class="header-content-nav-list-item"><a href="">リンク</a></li>
