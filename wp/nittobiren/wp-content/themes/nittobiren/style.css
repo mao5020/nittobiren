@@ -508,3 +508,14 @@ about
   display: block;
   width: 100%;
 }
+/* kikan */
+.kikan-content{
+  display: flex;
+  justify-content: space-between;
+}
+.kikan-content-img{
+  flex-basis: 50%;
+}
+.kikan-txt{
+  flex-basis: 90%;
+}
