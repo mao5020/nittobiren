@@ -451,6 +451,52 @@ about
   width: 25%;
 }
 
+/* company */
+
+
+/* prefectures */
+.l_chart{
+
+  width: 900px;
+  display: flex;
+  border-bottom: solid 1px #9F9F9F80;
+}
+.l_chart:nth-of-type(1){
+  border-top: solid 1px #9F9F9F80;
+}
+.l_chart_row{
+  display: flex;
+  justify-self: center;
+  align-items: center;
+  width: 360px;
+  padding: 20px;
+}
+.l_chart_data{
+  padding: 20px;
+  justify-self: center;
+}
+.prefectures-link{
+  display: flex;
+  justify-self: center;
+  align-items: center;
+  color: #B50000;
+  width: 360px;
+  padding: 20px;
+  font-size: 1.8rem;
+}
+.prefectures-table-link:hover{
+  color: #B50000;
+}
+.prefectures-table-link::after{
+  content: " /";
+  display: inline;
+  margin: 0 1px;
+  color: #000;
+}
+
+.prefectures-table-link:last-child::after{
+  content: "";
+}
 .docment_item{
   display: flex;
 }
@@ -463,3 +509,9 @@ about
   display: block;
   width: 100%;
 }
+/* .anchor {
+  display: block;
+  position: relative;
+  top: -100px;
+  visibility: hidden;
+} */
