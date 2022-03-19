@@ -84,7 +84,7 @@ component
 .page_cover{
   margin-top: 100px;
   height: 150px;
-  background-image: url(/wp/nittobiren/wp-content/themes/nittobiren/image/common/cover.png);
+  background-image: url(image/common/cover.png);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
@@ -262,7 +262,7 @@ top
  ------------------------------ */
 /* main */
 .main{
-  background-image: url(/wp/nittobiren/wp-content/themes/nittobiren/image/top/main.png);
+  background-image: url(image/top/main.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
