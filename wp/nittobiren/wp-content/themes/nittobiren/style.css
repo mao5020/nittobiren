@@ -456,6 +456,7 @@ about
 
 /* prefectures */
 .l_chart{
+
   width: 900px;
   display: flex;
   border-bottom: solid 1px #9F9F9F80;
@@ -508,3 +509,9 @@ about
   display: block;
   width: 100%;
 }
+/* .anchor {
+  display: block;
+  position: relative;
+  top: -100px;
+  visibility: hidden;
+} */
