@@ -20,7 +20,7 @@
 <header class="header">
     <div class="header-content">
       <div class="header-content-ttl">
-        <p><img class="header-content-ttl-icon" src="/wp/nittobiren/wp-content/themes/nittobiren/image/common/logo_black.png" alt="" width="70px" height="70px"></p>
+        <p><img class="header-content-ttl-icon" src="<?php echo get_theme_file_uri()?>/image/common/logo_black.png" alt="" width="70px" height="70px"></p>
         <div>
           <p class="header-content-ttl-com">一般社団法人</p>
           <p class="header-content-ttl-ja">日本鳶工業連合会</p>
