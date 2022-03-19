@@ -4,7 +4,7 @@
 </div>
 <div class="flex_inner">
   <?php get_sidebar();?>
-  <div class="l-inner">
+  <div class="l_inner">
     <section class="sec_inner">
       <h2 class="h2_ttl">新規講習</h2>
       <h4 class="h4_ttl">開催日程</h4>
@@ -124,6 +124,49 @@
           </a>
         </div>
       </div>
+    </section>
+    <section class="sec_inner">
+      <h4 class="h4_ttl">受講資格</h4>
+      <p class="activities-txt">下記条件を全てを充たす必要がある。</p>
+      <ul class="kikan-box">
+        <li class="kikan-box-list">10年以上のとび・土工工事の実務経験を有する者</li>
+        <li class="kikan-box-list">8年以上のとび・土工工事の職長経験のある者</li>
+        <li class="kikan-box-list">下記の条件を充たしている者<br> - 安衛法第60条に基づき安衛則第40条第2項で定める職長教育を受講し、修了後5年以上経過している者</li>
+        <li class="kikan-box-list">下記の資格のいずれかを有する者<br> - 1級とび技能士<br> - 1・2級建築士施工管理技師<br> - 1・2級土木施工管理技士</li>
+      </ul>
+      <h4 class="h4_ttl">開催受講申込提出書類</h4>
+      <ul class="kikan-box">
+        <li class="kikan-box-list">受講申込書（事業主が証明したもの）：　[ PDF ・ Excel　／　記入例 ] </li>
+        <li class="kikan-box-list">実務経験証明書：　[ PDF ・ Excel 　／　記入例 ] <br> - 労働安全衛生法第60条に規定する職長教育修了証の写し、または事業主以外の元請の建設業者による証明書類の写し<br> - ※ただし、修了証及び証明書類は、修了後5年以上経過しているもの </li>
+        <li class="kikan-box-list">資格証の写し（上記2．(4)の資格）</li>
+        <li class="kikan-box-list">下記の資格のいずれかを有する者<br> - 1級とび技能士<br> - 1・2級建築士施工管理技師<br> - 1・2級土木施工管理技士</li>
+      </ul>
+      <h4 class="h4_ttl">講習内容</h4>
+      <ul class="kikan-box">
+        <li class="kikan-box-list">講義（10時間）　／　修了試験（45分）</li>
+      </ul>
+      <h4 class="h4_ttl">振込先口座</h4>
+      <ul class="kikan-box">
+        <li class="kikan-box-list">三井住友銀行　日比谷支店（店番632） </li>
+        <li class="kikan-box-list">普通預金　口座番号 7100898</li>
+        <li class="kikan-box-list">資格証の写し（上記2．(4)の資格）</li>
+        <li class="kikan-box-list">名義　一般社団法人日本鳶工業連合会</li>
+      </ul>
+      <h4 class="h4_ttl">受講票送付</h4>
+      <ul class="kikan-box">
+        <li class="kikan-box-list">受講申込みをされた方には、受講資格及び申請手数料入金等確認後、 「受講票」を送付する。</li>
+      </ul>
+      <h4 class="h4_ttl">助成金</h4>
+      <ul class="kikan-box">
+        <li class="kikan-box-list">当講習会は、｢人材開発支援助成金｣の対象講習会です。 詳細及び申請様式は厚生労働省ホームページをご確認ください。 申請様式はこちら</li>
+      </ul>
+      <h4 class="h4_ttl">問い合せ先及び申請書送付先</h4>
+      <ul class="kikan-box">
+        <li class="kikan-box-list">一般社団法人日本鳶工業連合会</li>
+        <li class="kikan-box-list">〒105-0011　東京都港区芝公園3-5-20　日鳶連会館内</li>
+        <li class="kikan-box-list">TEL：03-3434-8805</li>
+        <li class="kikan-box-list">※角2封筒（A4用紙用）に受講申込書等を折らずに入れ、必ず配達記録が残る方法(簡易書留、特定記録など)で郵送してください</li>
+      </ul>
     </section>
   </div>
 </div>
