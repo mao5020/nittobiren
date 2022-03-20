@@ -1,6 +1,6 @@
 <?php get_header(); ?>
   <div class="page_cover">
-    <h1 class="page_ttl">概要</h1>
+    <h1 class="page_ttl">活動報告</h1>
   </div>
 <div class="flex_inner">
   <?php get_sidebar();?>
