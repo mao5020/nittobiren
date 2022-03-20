@@ -539,6 +539,7 @@ about
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  margin-top: 20px;
 }
 .kikan-corse-btn{
   width: 40%;
