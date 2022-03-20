@@ -535,9 +535,6 @@ about
 .kitan-content-right{
   width: 90%;
 }
-.kikan-more-btn{
-  /* margin-left: 240px; */
-}
 .kikan-corse{
   display: flex;
   justify-content: space-between;
@@ -562,17 +559,34 @@ about
   margin-left: 1.8rem;
   line-height: 3.2rem;
   margin-bottom: 50px;
-
-}
-.kikan-box-list{
-
 }
 /* kikan-first */
-  .kikan-table-note{
-    text-align: right;
-  }
-  .kikan-table-note-txt{
-    font-size: 1.4rem;
-    color: #B50000;
-    
-  }
+.kikan-table-note{
+  text-align: right;
+}
+.kikan-table-note-txt{
+  font-size: 1.4rem;
+  color: #B50000;
+}
+/* report */
+.report-txt{
+  margin-bottom: 20px;
+}
+.report-img{
+  width: 600px;
+}
+.report-img-txt{
+  font-size: 1rem;
+}
+.report-content{
+  display: flex;
+}
+.report-content-txt{
+  margin-bottom: 20px;
+}
+.report-box-list{
+  font-size: 1.4rem;
+}
+.report-box-second{
+  margin-top: 20px;
+}
