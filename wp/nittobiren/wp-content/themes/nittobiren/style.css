@@ -614,3 +614,19 @@ about
 .join-content-exp{
   margin-top: 60px;
 }
+
+/* link */
+.link-content{
+  margin-top: 20px;
+}
+.link-content-txt{
+  font-size: 1.4rem;
+  color: #B50000;
+}
+.niigata-tobiren{
+  display: flex;
+}
+.niigata-tobiren-txt{
+  font-size: 1rem;
+  margin-top: 20px;
+}
