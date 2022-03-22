@@ -174,6 +174,45 @@
         <li class="kikan-box-list">※角2封筒（A4用紙用）に受講申込書等を折らずに入れ、必ず配達記録が残る方法(簡易書留、特定記録など)で郵送してください</li>
       </ul>
     </section>
+    
+    <section class="sec_inner">
+      <div class="kikan_second-box">
+        <div class="kikan_second-box-txt">
+          <h4 class="h3_ttl">【登録基幹技能者に関する個人情報保護について】</h4>
+          <div class="kikan_second-box-txt-num">
+            <h4 class="kikan_second-box-ttl">1．法令の遵守</h4>
+            <p>
+              (一社)日本建設躯体工事業団体連合会及び(一社)日本鳶工業連合会は、<br>
+              登録鳶・土工基幹技能者の個人情報を取り扱うにあたり、個人情報保護に関する法令等を遵守します。
+            </p>
+          </div>
+          
+          <div class="kikan_second-box-txt-num">
+            <h4 class="kikan_second-box-ttl">2．利用目的</h4>
+            <p>
+              利用目的は次の通りです。
+            </p>
+            <ol class="kikan_second-box-list">
+              <li class="kikan_second-box-list-num">登録鳶・土工基幹技能者講習申込の資格審査及び個人認証のため</li>
+              <li class="kikan_second-box-list-num">登録鳶・土工基幹技能者にとび・土工工事に関連した情報を提供するため</li>
+              <li class="kikan_second-box-list-num">登録鳶・土工基幹技能者の修了証等の再発行、更新講習のため</li>
+              <li class="kikan_second-box-list-num">資格制度に関するデータベースのため</li>
+              <li class="kikan_second-box-list-num">登録鳶・土工基幹技能者の登録データベースとして規則による公表のため</li>
+            </ol>
+          </div>
+          
+          <div class="kikan_second-box-txt-num">
+            <h4 class="kikan_second-box-ttl">3．安全管理</h4>
+            <ol class="kikan_second-box-list">
+              <li class="kikan_second-box-list-num">個人情報の漏洩、滅失または毀損の防止その他安全管理のための必要かつ適切な措置を講じます。</li>
+              <li class="kikan_second-box-list-num">個人情報を取り扱うにあたっては、個人情報の安全管理が図られるように指導、適切な監督を行ないます。</li>
+              <li class="kikan_second-box-list-num">個人情報の取扱いを全部または一部委託する場合は、その取扱いを委託された個人情報の安全管理が図られるよう、委託を受けた者に対する必要かつ適切な監督を行ないます。</li>
+              <li class="kikan_second-box-list-num">個人情報の取扱いに関するお申出につきましては、適切かつ迅速な対応をいたします。</li>
+            </ol>
+          </div>
+        </div>  
+      </div>
+    </section>
   </div>
 </div>
 <?php get_footer(); ?>

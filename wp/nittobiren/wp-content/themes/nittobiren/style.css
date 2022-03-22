@@ -561,7 +561,6 @@ about
   line-height: 3.2rem;
   margin-bottom: 50px;
 }
-/* kikan-first */
 .kikan-table-note{
   text-align: right;
 }
@@ -569,6 +568,31 @@ about
   font-size: 1.4rem;
   color: #B50000;
 }
+/* kikan-second */
+.kikan_second-box{
+  border:1px solid #000000;
+  width: 100%;
+}
+.kikan_second-box-ttl{
+  font-size: 1.8rem;
+  letter-spacing: 0.05em;
+  margin-bottom: 10px;
+  font-weight: normal;
+}
+.kikan_second-box-txt{
+  margin: 0 0 40px 20px;
+}
+.kikan_second-box-txt-num{
+  margin-top: 20px;
+}
+.kikan_second-box-list{
+  margin-left: 10px;
+}
+.kikan_second-box-list-num{
+  list-style-type: inherit;
+  margin-left: 40px;
+}
+
 /* report */
 .report-txt{
   margin-bottom: 20px;
