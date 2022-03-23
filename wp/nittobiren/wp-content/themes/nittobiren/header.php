@@ -29,14 +29,14 @@
       </div>
       <nav class="header-content-nav">
         <ul class="header-content-nav-list">
-          <li class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/index">TOP</a></li>
-          <li class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/about">概要</a></li>
-          <li class="header-content-nav-list-item"><a href="">活動方向</a></li>
-          <li class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/prefectures">都道府県連一覧</a></li>
-          <li class="header-content-nav-list-item"><a href="">入会案内</a></li>
-          <li class="header-content-nav-list-item"><a href="">各種支援事業</a></li>
-          <li class="header-content-nav-list-item"><a href="">リンク</a></li>
-          <li class="header-content-nav-list-item"><a href="">とび技能者能力評価について</a></li>
+          <li id="index" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/index">TOP</a></li>
+          <li id="about" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/about">概要</a></li>
+          <li id="report" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/report">活動方向</a></li>
+          <li id="prefectures" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/prefectures">都道府県連一覧</a></li>
+          <li id="join" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/join">入会案内</a></li>
+          <li id="support" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/support">各種支援事業</a></li>
+          <li id="link" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/link">リンク</a></li>
+          <li id="evaluation" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/evaluation">とび技能者能力評価について</a></li>
         </ul>
       </nav>
       <div class="header-content-form">
