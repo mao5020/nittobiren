@@ -33,6 +33,7 @@
       </div>
     </section>
     <div class="activities">
+      <h2 class="h2_ttl">主な事業活動</h2>
       <h4 class="h4_ttl">組織・広報対策活動</h4>
       <p class="activities-txt">全国の会員、行政・指導機関等のもっている情報を、どんどん発信します。</p>
       <ul class="md_box">

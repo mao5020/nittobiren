@@ -12,7 +12,7 @@
     <div class="l_inner">
       <section class="notice sec_inner">
         <h2 class="notice-ttl h2_ttl">お知らせ</h2>
-        <p class="notice-txt">日鳶連では建設分野における外国人の受け入れ事業を行なっています。<br>詳しくは<a href="" class="notice-ttl-link">こちら</a>をご覧ください。</p>
+        <p class="notice-txt">日鳶連では建設分野における外国人の受け入れ事業を行なっています。<br>詳しくは<a href="<?php echo get_theme_file_uri() ?>/foreigner" class="notice-ttl-link">こちら</a>をご覧ください。</p>
       </section>
       <section class="new sec_inner">
         <h2 class="new-ttl h2_ttl">新着情報</h2>
@@ -82,7 +82,7 @@
           <p class="course-two-txt">登録鳶・土工基幹技能者は、 建設業法に基づき国土交通省により認定された資格です。</p>
           <div class="C_more_btn">
             <div class="C_more_btn_block E_more_btn_center">
-              <a href="" class="C_more_btn_block-link">
+              <a href="<?php echo get_theme_file_uri() ?>/kikan" class="C_more_btn_block-link">
                 <p class="C_more_btn_block-link-txt">講習を受ける</p>
                 <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
               </a>
