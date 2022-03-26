@@ -1,4 +1,5 @@
 <?php
-global $h_uri;
-$h_uri = rtrim($_SERVER["REQUEST_URI"], '/');
-$h_uri = substr($uri, strrpos($uri, '/') + 1);
+function twpp_deregister_styles() {
+  wp_deregister_style( 'wp-block-library' );
+}
+add_action( 'wp_enqueue_scripts', 'twpp_deregister_styles' );

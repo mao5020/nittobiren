@@ -9,20 +9,8 @@ $(function() {
     return false;
   });
 
-  // let uri = location.href;
-  // let l_uri = uri.split("/").filter(e => Boolean(e));
-  let h_menu = [
-    'index',
-    'about',
-    'report',
-    'prefectures',
-    'join',
-    'support',
-    'link',
-    'evaluation'
-  ]
-
-  // let h_menu = document.getElementsByClassName('header-content-nav-list-item');
-  let test = "aaa";
-  console.log(h_menu);
+  h_uri = location.href.split("/");
+  h_uri = h_uri[h_uri.length - 2];
+  console.log(h_uri);
+  $('#'+h_uri).addClass("is-h_active");
 });

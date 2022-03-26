@@ -12,7 +12,6 @@
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&display=swap" rel="stylesheet">
   <script type="text/javascript" src="<?php echo get_template_directory_uri() ?>/js/jquery-3.6.0.min.js"></script>
   <link href="<?php echo get_stylesheet_directory_uri()?>/css/ress.css" rel="stylesheet">
-  <link href="<?php echo get_stylesheet_directory_uri()?>/css/ress.css" rel="stylesheet">
   <link href="<?php echo get_stylesheet_directory_uri()?>/style.css" rel="stylesheet">
   <?php wp_head();?>
 </head>
@@ -29,7 +28,7 @@
       </div>
       <nav class="header-content-nav">
         <ul class="header-content-nav-list">
-          <li id="index" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/index">TOP</a></li>
+          <li id="top" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/top">TOP</a></li>
           <li id="about" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/about">概要</a></li>
           <li id="report" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/report">活動方向</a></li>
           <li id="prefectures" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/prefectures">都道府県連一覧</a></li>
