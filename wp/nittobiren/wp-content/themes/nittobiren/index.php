@@ -61,57 +61,75 @@
         <p class="ducument-txt">労災の対応や工事中断における措置などの告知・資料等を掲載しております。</p>
       </section>
       <section class="sec_inner course">
-        <div class="course-one">
-          <h2 class="h2_ttl">技能検定、各種講習</h2>
-          <div class="course-right">
-            <img class="course-right-img" src="<?php echo get_theme_file_uri()?>/image/top/top1.png" alt="" width="350px">
+        <div class="course-left">
+          <div class="course-one">
+            <h2 class="h2_ttl">技能検定、各種講習</h2>
+            <h3 class="h3_ttl">講習会について</h3>
+            <p class="course-one-txt">日鳶連では、各種作業主任者技能講習、 <br>及び玉掛け技能講習を全国で開催し、数多くの作業主任者を育成しています。</p>
+            <div class="C_more_btn">
+              <div class="C_more_btn_block ">
+                <a href="" class="C_more_btn_block-link">
+                  <p class="C_more_btn_block-link-txt">講習を受ける</p>
+                  <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+                </a>
+              </div>
+            </div>
           </div>
-          <h3 class="h3_ttl">講習会について</h3>
-          <p class="course-one-txt">日鳶連では、各種作業主任者技能講習、 <br>及び玉掛け技能講習を全国で開催し、数多くの作業主任者を育成しています。</p>
-          <div class="C_more_btn">
-            <div class="C_more_btn_block E_more_btn_center">
-              <a href="" class="C_more_btn_block-link">
-                <p class="C_more_btn_block-link-txt">講習を受ける</p>
-                <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
-              </a>
+          <div class="course-two">
+            <h3 class="h3_ttl">登録鳶基幹技能者講習</h3>
+            <p class="course-two-txt">登録鳶・土工基幹技能者は、 建設業法に基づき国土交通省により認定された資格です。</p>
+            <div class="C_more_btn">
+              <div class="C_more_btn_block ">
+                <a href="" class="C_more_btn_block-link">
+                  <p class="C_more_btn_block-link-txt">講習を受ける</p>
+                  <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+                </a>
+              </div>
             </div>
           </div>
         </div>
-        <div class="course-two">
-          <h3 class="h3_ttl">登録鳶基幹技能者講習</h3>
-          <p class="course-two-txt">登録鳶・土工基幹技能者は、 建設業法に基づき国土交通省により認定された資格です。</p>
-          <div class="C_more_btn">
-            <div class="C_more_btn_block E_more_btn_center">
-              <a href="<?php echo get_theme_file_uri() ?>/kikan" class="C_more_btn_block-link">
-                <p class="C_more_btn_block-link-txt">講習を受ける</p>
-                <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
-              </a>
-            </div>
-          </div>
+        <div class="course-right">
+          <img class="course-right-img" src="<?php echo get_theme_file_uri()?>/image/top/top1.png" alt="" width="350px">
         </div>
       </section><!-- course -->
-      <section class="support sec_inner">
-        <div class="support-one">
-          <h2 class="h2_ttl">各種支援事業</h2>
-          <div class="course-right">
-            <img class="course-right-img" src="<?php echo get_theme_file_uri()?>/image/top/top2.png" alt="" width="350px">
+      <section class="course sec_inner">
+        <div class="course-left">
+          <div class="support-one">
+            <h2 class="h2_ttl">各種支援事業</h2>
+            <h3 class="h3_ttl">建設キャリアアップシステム</h3>
+            <p>ダミーテキストダミーテキストダミーテキストダミーテキスト ダミーテキストダミーテキスト</p>
+            <div class="C_more_btn">
+              <div class="C_more_btn_block ">
+                <a href="" class="C_more_btn_block-link">
+                  <p class="C_more_btn_block-link-txt">申請手続き</p>
+                  <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+                </a>
+              </div>
+            </div>
           </div>
-          <h3 class="h3_ttl">建設キャリアアップシステム</h3>
-          <p>ダミーテキストダミーテキストダミーテキストダミーテキスト ダミーテキストダミーテキスト</p>
-          <div class="C_more_btn">
-            <div class="C_more_btn_block E_more_btn_center">
-              <a href="" class="C_more_btn_block-link">
-                <p class="C_more_btn_block-link-txt">申請手続き</p>
-                <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
-              </a>
+          <div class="support-two">
+            <h3 class="h3_ttl">CCUSに伴うレベル判定</h3>
+            <p>ダミーテキストダミーテキストダミーテキストダミーテキスト ダミーテキストダミーテキスト</p>
+            <div class="C_more_btn">
+              <div class="C_more_btn_block ">
+                <a href="" class="C_more_btn_block-link">
+                  <p class="C_more_btn_block-link-txt">お問い合わせ</p>
+                  <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+                </a>
+              </div>
             </div>
           </div>
         </div>
-        <div class="support-two">
-          <h3 class="h3_ttl">CCUSに伴うレベル判定</h3>
-          <p>ダミーテキストダミーテキストダミーテキストダミーテキスト ダミーテキストダミーテキスト</p>
+        <div class="course-right">
+          <img class="course-right-img" src="<?php echo get_theme_file_uri()?>/image/top/top2.png" alt="" width="350px">
+        </div>
+      </section><!-- /support -->
+      <section class="sec_inner course">
+        <div class="course-left">
+          <h2 class="h2_ttl">外国人受け入れ事業</h2>
+          <p>日鳶連では令和２年１月31日付けで厚生労働省より<r>外国人実習生に係る監理団体の許可が承認されたことを受けて、<br>外国人技能実習生の受入事業を行っています。</p>
           <div class="C_more_btn">
-            <div class="C_more_btn_block E_more_btn_center">
+            <div class="C_more_btn_block ">
               <a href="" class="C_more_btn_block-link">
                 <p class="C_more_btn_block-link-txt">お問い合わせ</p>
                 <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
@@ -119,20 +137,8 @@
             </div>
           </div>
         </div>
-      </section><!-- /support -->
-      <section class="sec_inner Foreigner">
-        <h2 class="h2_ttl">外国人受け入れ事業</h2>
         <div class="course-right">
-            <img class="course-right-img" src="<?php echo get_theme_file_uri()?>/image/top/top3.png" alt="" width="350px">
-          </div>
-        <p>日鳶連では令和２年１月31日付けで厚生労働省より<r>外国人実習生に係る監理団体の許可が承認されたことを受けて、<br>外国人技能実習生の受入事業を行っています。</p>
-        <div class="C_more_btn">
-          <div class="C_more_btn_block E_more_btn_center">
-            <a href="" class="C_more_btn_block-link">
-              <p class="C_more_btn_block-link-txt">お問い合わせ</p>
-              <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
-            </a>
-          </div>
+          <img class="course-right-img" src="<?php echo get_theme_file_uri()?>/image/top/top3.png" alt="" width="350px">
         </div>
       </section>
     </div><!-- /l_inner -->

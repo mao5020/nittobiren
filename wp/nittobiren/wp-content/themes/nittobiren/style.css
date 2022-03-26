@@ -175,6 +175,7 @@ component
 .E_more_btn_center{
   right: 50%;
 }
+
 /* 
 <div class="C_more_btn">
   <div class="C_more_btn_block test">
@@ -185,6 +186,10 @@ component
   </div>
 </div>
 */
+
+header .is-h_active{
+  border-bottom: solid 3px #B50000;
+}
 
 /* ------------------------------ 
 header
@@ -416,20 +421,21 @@ top
 }
 
 /* course */
+.course{
+  display: flex;
+  justify-content: space-between;
+  min-height: 480px;
+}
+.course-left{
+  margin-right: 30px;
+}
 .course-right{
-  position: relative;
-  z-index: -1;
+  margin-top: 30px;
 }
 .course-right-img{
-  position: absolute;
-  top: -30px;
-  right:0;
-  max-width:350px
+  width: 350px;
 }
 
-.Foreigner{
-  height: 480px;
-}
 /* footer */
 .footer{
   display: flex;
