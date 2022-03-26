@@ -18,13 +18,13 @@
         </a>
       </div>
       <div class="menu-card">
-        <a class="menu-card-link" href="<?php echo get_theme_file_uri() ?>/index">
+        <a class="menu-card-link" href="https://kensetsu-welcome.com/" target="blank">
           <img class="menu-card-link-icon" src="<?php echo get_theme_file_uri()?>/image/common/card_04.png" alt="" width="44px" height="40px">
           <p class="menu-card-link-txt">建設労働者緊急<br>育成支援事業</p>
         </a>
       </div>
       <div class="menu-card">
-        <a class="menu-card-link" href="<?php echo get_theme_file_uri() ?>/index">
+        <a class="menu-card-link" href="https://www.kentaikyo.taisyokukin.go.jp/osirase/osirase.html" target="blank">
           <img class="menu-card-link-icon" src="<?php echo get_theme_file_uri()?>/image/common/card_05.png" alt="" width="44px" height="40px">
           <p class="menu-card-link-txt">建設業退職金<br>共済制度</p>
         </a>

@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>般社団法人日本鳶工業連合会</title>
+  <title>一般社団法人日本鳶工業連合会</title>
   <meta name="description" content="一般社団法人日本鳶工業連合会は、鳶・土工工事業の技術と経営の向上をめざします。">
   <meta name="keywords" content="日鳶連,鳶,土工工事業,とび,基幹技能者,技能士,土木連合会">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -30,7 +30,7 @@
         <ul class="header-content-nav-list">
           <li id="top" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/top">TOP</a></li>
           <li id="about" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/about">概要</a></li>
-          <li id="report" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/report">活動方向</a></li>
+          <li id="report" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/report">活動報告</a></li>
           <li id="prefectures" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/prefectures">都道府県連一覧</a></li>
           <li id="join" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/join">入会案内</a></li>
           <li id="support" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/support">各種支援事業</a></li>
