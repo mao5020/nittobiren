@@ -28,7 +28,7 @@
           <p class="join-content-left-number">1</p>
           <div class="under-line"></div>
         </div>
-        <p class="join-content-right"><img src="<?php echo get_theme_file_uri()?>/image/join/入会案内1.png" alt=""></p>
+        <p><img class="join-content-right" src="<?php echo get_theme_file_uri()?>/image/join/入会案内1.png" alt=""></p>
       </div>
       
       <div class="join-content">
@@ -36,31 +36,31 @@
           <p class="join-content-left-number">2</p>
           <div class="under-line"></div>
         </div>
-        <p class="join-content-right"><img src="<?php echo get_theme_file_uri()?>/image/join/入会案内2.png" alt=""></p>
+        <p><img class="join-content-right" src="<?php echo get_theme_file_uri()?>/image/join/入会案内2.png" alt=""></p>
       </div>
       
       <div class="join-content">
         <div class="join-content-left">
           <p class="join-content-left-number">3</p>
         </div>
-        <p class="join-content-right"><img src="<?php echo get_theme_file_uri()?>/image/join/入会案内3.png" alt=""></p>
+        <p><img class="join-content-right" src="<?php echo get_theme_file_uri()?>/image/join/入会案内3.png" alt=""></p>
       </div>
       
       <div class="join-content-txt">
         <p class="join-content-left-number">※</p>
-        <p class="join-content-right">会費の内１ヶ月あたり５０円を川島共済基金として、<br>２００円を日鳶連新聞購読料として充当いたします。</p>
+        <p>会費の内１ヶ月あたり５０円を川島共済基金として、<br>２００円を日鳶連新聞購読料として充当いたします。</p>
       </div>
       
       <div class="join-content-exp">
         <p class="join-content-exp-txt">入会についてのお問い合わせは、最寄りの県連にお気軽にお尋ねください。</p>
-        <div class="C_more_btn kikan-corse-btn">
-          <div class="C_more_btn_block">
-            <a href="<?php echo get_theme_file_uri() ?>/prefectures" class="C_more_btn_block-link">
-              <p class="C_more_btn_block-link-txt">都道府県連一覧</p>
-              <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
-            </a>
+        <div class="C_more_btn">
+            <div class="C_more_btn_block">
+              <a href="<?php echo get_theme_file_uri() ?>/prefectures" class="C_more_btn_block-link">
+                <p class="C_more_btn_block-link-txt">都道府県連一覧</p>
+                <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+              </a>
+            </div>
           </div>
-        </div>
       </div>
     </section>
   </div><!-- /l_inner -->

@@ -8,7 +8,7 @@
     <section class="report sec_inner">
       <h2 class="h2_ttl">技能五輪</h2>
       <p class="report-txt">第５９回技能五輪全国大会の実施結果</p>
-      <p class="report-img"><img src="<?php echo get_theme_file_uri()?>/image/report/技能五輪.png" alt=""></p>
+      <p><img class="report-img" src="<?php echo get_theme_file_uri()?>/image/report/技能五輪.png" alt=""></p>
       <p class="report-img-txt">第５９回技能五輪全国大会出場選手</p>
     </section>
     
@@ -35,9 +35,9 @@
         </div>   
         <div class="report-content-right">
           <p class="report-img-txt">競技課題取組の様子</p>
-          <p><img src="<?php echo get_theme_file_uri()?>/image/report/技能五輪作業.png" alt=""></p>
+          <p><img classa="report-img" src="<?php echo get_theme_file_uri()?>/image/report/技能五輪作業.png" alt=""></p>
         </div> 
-      </div>         
+      </div>
     </div>
     
     <section class="report sec_inner">
