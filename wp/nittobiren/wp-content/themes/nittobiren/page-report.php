@@ -19,7 +19,7 @@
           <ul class="report-box">
             <li class="report-box-list">日　　程：2021年12月18日（土）～19日（日）</li>
             <li class="report-box-list">競技会場：東京都江東区「東京港湾局用地」</li>
-            <li class="report-box-list">詳　　細：<a class="report-box-list-link"　href="https://www.javada.or.jp/jigyou/gino/zenkoku/index.html" target="blank">中央職業能力開発協会ホームページ</a></li>
+            <li class="report-box-list">詳　　細：<a class="report-box-list-link" href="https://www.javada.or.jp/jigyou/gino/zenkoku/index.html" target="blank">中央職業能力開発協会ホームページ</a></li>
             <li class="report-box-list">競技課題：「コの字方高床式切妻小屋組」</li>
           </ul>
           <ul class="report-box-second">
