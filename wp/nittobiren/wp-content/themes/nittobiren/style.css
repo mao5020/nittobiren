@@ -34,6 +34,9 @@ p{
 .modal-sp{
   display: none;
 }
+.no-scroll{
+  overflow: hidden;
+}
 
 /* ------------------------------ 
 component
@@ -191,9 +194,9 @@ component
 
 /* 
 <div class="C_more_btn">
-  <div class="C_more_btn_block test">
+  <div class="C_more_btn_block">
     <a href="" class="C_more_btn_block-link">
-      <p class="C_more_btn_block-link-txt">テキスト</p>
+      <p class="C_more_btn_block-link-txt">View All</p>
       <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
     </a>
   </div>
@@ -286,7 +289,6 @@ top
   height: 100vh;
   width: auto;
   position: relative;
-  z-index: -1;
 }
 .main-ttl{
   display: flex;
@@ -419,7 +421,6 @@ top
   display: flex;
   position: relative;
   margin-top: 20px;
-  z-index: -1;
   justify-content: right;
 
 }
@@ -712,7 +713,82 @@ about
   text-align: right;
   font-size: 1.4rem;
 }
+.lecture-num-img{
+  position: absolute;
+  right: 0;
+}
 
+.lecture-modal-open{
+  cursor: pointer;
+  position: relative;
+}
+
+.lecture-modal{
+  display: none;
+  z-index: 2;
+  position: fixed;
+  top: 100px;
+  right: 0;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: auto;
+  overflow: scroll;
+}
+.lecture-modal-wrapper{
+  width: 80%;
+  margin: 20px auto;
+}
+
+.lecture-modal-ttl{
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+.lecture-modal-txt{
+  margin-bottom: 30px;
+}
+.lecture-modal-table{
+  display: flex;
+  border-bottom: solid 1px #000;
+  width: 20%;
+}
+.lecture-modal-table:nth-of-type(3){
+  margin-top: 10px;
+}
+.lecture-modal-table-txt{
+  line-height: 2;
+  width: 33%;
+}
+.lecture-modal-flex{
+  display: flex;
+  justify-content: end;
+}
+.lecture-modal-close {
+  cursor: pointer;
+  display: block;
+	width: 80px;
+	height: 80px;
+	position: relative;
+	cursor: pointer;
+}
+.lecture-modal-close::before,
+.lecture-modal-close::after {
+	display: block;
+	content: "";
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 84%;
+	height: 5%;
+	margin: -8% 0 0 -42%;
+	background: #000;
+}
+.lecture-modal-close::before {
+	transform: rotate(-45deg);
+}
+.lecture-modal-close::after {
+	transform: rotate(45deg);
+}
 @media all and (max-width: 480px) { 
   /* ------------------------------ 
   base

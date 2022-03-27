@@ -38,33 +38,223 @@
           当会登録種目は以下のとおり。
         </p>
       </div>
-      <div class="l_chart">
+      <div class="l_chart lecture-modal-open" data-target="lecture-modal01">
         <p class="lecture-num l_chart_row">01</p>
         <p class="lecture-num-txt l_chart_data">足場の組立て等作業主任者技能講習</p>
+        <img class="lecture-num-img" src="<?php echo get_theme_file_uri()?>/image/common/arrow.svg" alt="">
+        <img class="lecture-num-img" src="<?php echo get_theme_file_uri()?>/image/common/arrow.svg" alt="">
       </div>
-      <div class="l_chart">
+      <div id="lecture-modal01" class="lecture-modal">
+        <div class="lecture-modal-wrapper">
+          <div class="lecture-modal-flex">
+            <span class="lecture-modal-close"></span>
+          </div>
+          <p class="lecture-modal-ttl">足場の組み立て等作業主任者技能講習</p>
+          <p class="lecture-modal-txt">つり足場（ゴンドラのつり足場を除く）張出し足場又は５ｍ以上の構造の足場の組立て、解体又は変更の作業。</p>
+          <h2 class="h2_ttl">受講資格</h2>
+          <p class="lecture-modal-txt">足場組立等の作業経験3年以上（高校・高専・大学において建築、土木、造船を専攻卒業した者は、作業経験２年以上。 ただし2年以上3年未満の場合、卒業証明書添付） <br>※上記の受講資格は、満18歳以上からの経験年数。</p>
+          <h2 class="h2_ttl">講習時間合計</h2>
+          <p class="lecture-modal-txt">13時間（2日間）※試験時間は含まない。</p>
+          <div class="C_more_btn">
+            <div class="C_more_btn_block">
+              <a href="<?php echo get_theme_file_uri()?>/image/lecture/asiba.pdf" target="_brank" class="C_more_btn_block-link">
+                <p class="C_more_btn_block-link-txt">講習範囲詳細ダウンロード</p>
+                <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+              </a>
+            </div>
+          </div>
+          <h2 class="h2_ttl">講習日程</h2>
+          <div class="lecture-modal-table">
+            <p class="lecture-modal-table-txt">北海道</p>
+            <p class="lecture-modal-table-txt">帯広市</p>
+            <p class="lecture-modal-table-txt">2月</p>
+          </div>
+          <div class="lecture-modal-table">
+            <p class="lecture-modal-table-txt">岡山県</p>
+            <p class="lecture-modal-table-txt">倉敷市</p>
+            <p class="lecture-modal-table-txt">2月</p>
+          </div>
+        </div>
+      </div>
+      <div class="l_chart lecture-modal-open" data-target="lecture-modal02">
         <p class="lecture-num l_chart_row">02</p>
         <p class="lecture-num-txt l_chart_data">型枠支保工の組立て等作業主任者技能講習</p>
+        <img class="lecture-num-img" src="<?php echo get_theme_file_uri()?>/image/common/arrow.svg" alt="">
       </div>
-      <div class="l_chart">
+      <div id="lecture-modal02" class="lecture-modal">
+        <div class="lecture-modal-wrapper">
+          <div class="lecture-modal-flex">
+            <span class="lecture-modal-close"></span>
+          </div>
+          <p class="lecture-modal-ttl">型枠支保工の組立て等作業主任者技能講習</p>
+          <p class="lecture-modal-txt">型枠支保工（支柱、はり、つなぎ、筋かい等の部材により構成され、建設物におけるスラブ、けた等のコンクリートの打設に用いる型枠を支持する仮設の設備）の組立て又は、解体の作業。</p>
+          <h2 class="h2_ttl">受講資格</h2>
+          <p class="lecture-modal-txt">型枠支保工組立等の作業経験３年以上（高校、高専、大学において建築、土木を専攻卒業した者は２年以上。ただし２年以上３年未満の場合、卒業証明書添付）。<br>※上記の受講資格は、満１８歳以上からの経験年数。</p>
+          <h2 class="h2_ttl">講習時間合計</h2>
+          <p class="lecture-modal-txt">13時間（2日間）※試験時間は含まない。</p>
+          <div class="C_more_btn">
+            <div class="C_more_btn_block">
+              <a href="<?php echo get_theme_file_uri()?>/image/lecture/katawaku.pdf" target="_blank" class="C_more_btn_block-link">
+                <p class="C_more_btn_block-link-txt">講習範囲詳細ダウンロード</p>
+                <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+              </a>
+            </div>
+          </div>
+          <h2 class="h2_ttl">講習日程</h2>
+          <div class="lecture-modal-table">
+            <p class="lecture-modal-table-txt">岡山県</p>
+            <p class="lecture-modal-table-txt">倉敷市</p>
+            <p class="lecture-modal-table-txt">2月</p>
+          </div>
+        </div>
+      </div>
+      <div class="l_chart lecture-modal-open" data-target="lecture-modal03">
         <p class="lecture-num l_chart_row">03</p>
         <p class="lecture-num-txt l_chart_data">地山の掘削及び土止支保工作業主任技能講習</p>
+        <img class="lecture-num-img" src="<?php echo get_theme_file_uri()?>/image/common/arrow.svg" alt="">
       </div>
-      <div class="l_chart">
+      <div id="lecture-modal03" class="lecture-modal">
+        <div class="lecture-modal-wrapper">
+          <div class="lecture-modal-flex">
+            <span class="lecture-modal-close"></span>
+          </div>
+          <p class="lecture-modal-ttl">地山の掘削及び土止め支保工作業主任者技能講習</p>
+          <p class="lecture-modal-txt">掘削面の高さが２m以上となる地山の掘削（ずい道及びたて坑以外の坑の掘削を除く）の作業。土止め支保工の切ばり又は腹おこしの取付け、又は取りはずしの作業。</p>
+          <h2 class="h2_ttl">受講資格</h2>
+          <p class="lecture-modal-txt">地山掘削又は土止め支保工の切りばり若しくは腹おこしの取付け若しくは取りはずしに関する作業経験３年以上（高校・高専・大学において建築、土木、農業土木を専攻卒業した者は２年以上。ただし２年以上３年未満の場合、卒業証明書添付）。<br>※上記の受講資格は、満１８歳以上からの経験年数。</p>
+          <h2 class="h2_ttl">講習時間合計</h2>
+          <p class="lecture-modal-txt">１７時間（３日間）※試験時間は含まない。</p>
+          <div class="C_more_btn">
+            <div class="C_more_btn_block">
+              <a href="<?php echo get_theme_file_uri()?>/image/lecture/jimen.pdf" target="_blank" class="C_more_btn_block-link">
+                <p class="C_more_btn_block-link-txt">講習範囲詳細ダウンロード</p>
+                <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+              </a>
+            </div>
+          </div>
+          <h2 class="h2_ttl">講習日程</h2>
+          <div class="lecture-modal-table">
+            <p class="lecture-modal-table-txt">北海道</p>
+            <p class="lecture-modal-table-txt">帯広市</p>
+            <p class="lecture-modal-table-txt">2月</p>
+          </div>
+        </div>
+      </div>
+      <div class="l_chart lecture-modal-open" data-target="lecture-modal04">
         <p class="lecture-num l_chart_row">04</p>
         <p class="lecture-num-txt l_chart_data">建築物等の鉄骨の組立て等作業主任者技能講習</p>
+        <img class="lecture-num-img" src="<?php echo get_theme_file_uri()?>/image/common/arrow.svg" alt="">
       </div>
-      <div class="l_chart">
+      <div id="lecture-modal04" class="lecture-modal">
+        <div class="lecture-modal-wrapper">
+          <div class="lecture-modal-flex">
+            <span class="lecture-modal-close"></span>
+          </div>
+          <p class="lecture-modal-ttl">建築物等の鉄骨の組立て等作業主任者技能講習</p>
+          <p class="lecture-modal-txt">建築物の骨組み、又は塔であって、金属製の部材により構成されるもの（その高さが５ｍ以上であるものに限る）の組立て、解体又は変更の作業。</p>
+          <h2 class="h2_ttl">受講資格</h2>
+          <p class="lecture-modal-txt">鉄骨組立等の作業経験３年以上（高校、高専、大学において建築、土木を専攻卒業した者は２年以上。ただし２年以上３年未満の場合、卒業証明書添付）。※上記の受講資格は、満１８歳以上からの経験年数。</p>
+          <h2 class="h2_ttl">講習時間合計</h2>
+          <p class="lecture-modal-txt">11時間（2日間）※試験時間は含まない。</p>
+          <div class="C_more_btn">
+            <div class="C_more_btn_block">
+              <a href="<?php echo get_theme_file_uri()?>/image/lecture/tekkotu.pdf" target="_blank" class="C_more_btn_block-link">
+                <p class="C_more_btn_block-link-txt">講習範囲詳細ダウンロード</p>
+                <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+              </a>
+            </div>
+          </div>
+          <h2 class="h2_ttl">講習日程</h2>
+          <div class="lecture-modal-table">
+            <p class="lecture-modal-table-txt">北海道</p>
+            <p class="lecture-modal-table-txt">帯広市</p>
+            <p class="lecture-modal-table-txt">2月</p>
+          </div>
+        </div>
+      </div>
+      <div class="l_chart lecture-modal-open" data-target="lecture-modal05">
         <p class="lecture-num l_chart_row">05</p>
         <p class="lecture-num-txt l_chart_data">木造建築物の組立て等作業主任者技能講習</p>
+        <img class="lecture-num-img" src="<?php echo get_theme_file_uri()?>/image/common/arrow.svg" alt="">
       </div>
-      <div class="l_chart">
+      <div id="lecture-modal05" class="lecture-modal">
+        <div class="lecture-modal-wrapper">
+          <div class="lecture-modal-flex">
+            <span class="lecture-modal-close"></span>
+          </div>
+          <p class="lecture-modal-ttl">木造建築物の組立て等作業主任者技能講習</p>
+          <p class="lecture-modal-txt">軒の高さが５ｍ以上の木造建築物の構造部材の組立て又はこれに伴う屋根下地若しくは外壁下地の取付け作業。</p>
+          <h2 class="h2_ttl">受講資格</h2>
+          <p class="lecture-modal-txt">木造建築物の組立等の作業経験３年以上（高校、高専、大学において建築、土木を専攻卒業した者は２年以上。ただし２年以上３年未満の場合、卒業証明書添付）。※上記の受講資格は、満１８歳以上からの経験年数。</p>
+          <h2 class="h2_ttl">講習時間合計</h2>
+          <p class="lecture-modal-txt">13時間（2日間）※試験時間は含まない。</p>
+          <div class="C_more_btn">
+            <div class="C_more_btn_block">
+              <a href="<?php echo get_theme_file_uri()?>/image/lecture/mokuzou.pdf" target="_blank" class="C_more_btn_block-link">
+                <p class="C_more_btn_block-link-txt">講習範囲詳細ダウンロード</p>
+                <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="l_chart lecture-modal-open" data-target="lecture-modal06">
         <p class="lecture-num l_chart_row">06</p>
         <p class="lecture-num-txt l_chart_data">コンクリート造の工作物の解体等作業主任者技能講習</p>
+        <img class="lecture-num-img" src="<?php echo get_theme_file_uri()?>/image/common/arrow.svg" alt="">
       </div>
-      <div class="l_chart">
+      <div id="lecture-modal06" class="lecture-modal">
+        <div class="lecture-modal-wrapper">
+          <div class="lecture-modal-flex">
+            <span class="lecture-modal-close"></span>
+          </div>
+          <p class="lecture-modal-ttl">コンクリート造の工作物の解体等作業主任者技能講習</p>
+          <p class="lecture-modal-txt">コンクリート造の工作物（その高さが５ｍ以上であるものに限る）の解体又は破壊の作業。</p>
+          <h2 class="h2_ttl">受講資格</h2>
+          <p class="lecture-modal-txt">コンクリート造工作物の解体等の作業経験３年以上（高校、高専、大学において建築、土木を専攻卒業した者は２年以上。ただし２年以上３年未満の場合、卒業証明書添付）。※上記の受講資格は、満１８歳以上からの経験年数。</p>
+          <h2 class="h2_ttl">講習時間合計</h2>
+          <p class="lecture-modal-txt">13時間（2日間）※試験時間は含まない。</p>
+          <div class="C_more_btn">
+            <div class="C_more_btn_block">
+              <a href="<?php echo get_theme_file_uri()?>/image/lecture/konkuri.pdf" target="_blank" class="C_more_btn_block-link">
+                <p class="C_more_btn_block-link-txt">講習範囲詳細ダウンロード</p>
+                <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+              </a>
+            </div>
+          </div>
+          <h2 class="h2_ttl">講習日程</h2>
+          <div class="lecture-modal-table">
+            <p class="lecture-modal-table-txt">北海道</p>
+            <p class="lecture-modal-table-txt">帯広市</p>
+            <p class="lecture-modal-table-txt">2月</p>
+          </div>
+        </div>
+      </div>
+      <div class="l_chart lecture-modal-open" data-target="lecture-modal07">
         <p class="lecture-num l_chart_row">07</p>
         <p class="lecture-num-txt l_chart_data">鋼橋架設等作業主任者技能講習</p>
+        <img class="lecture-num-img" src="<?php echo get_theme_file_uri()?>/image/common/arrow.svg" alt="">
+      </div>
+      <div id="lecture-modal07" class="lecture-modal">
+        <div class="lecture-modal-wrapper">
+          <div class="lecture-modal-flex">
+            <span class="lecture-modal-close"></span>
+          </div>
+          <p class="lecture-modal-ttl">鋼橋架設等作業主任者技能講習</p>
+          <p class="lecture-modal-txt">橋梁の上部構造であって、金属製の部材により構成されるもの（その高さが５ｍ以上であるもの又は当該上部構造のうち橋梁の支間が３０ｍ以上である部分に限る）の架設、解体又は変更の作業。</p>
+          <h2 class="h2_ttl">受講資格</h2>
+          <p class="lecture-modal-txt">鋼橋架設等作業経験３年以上ある者（高校、高専、大学において建築、土木を専攻卒業した者は２年以上。ただし２年以上３年未満の場合、卒業証明書添付）。※上記の受講資格は、満１８歳以上からの経験年数。</p>
+          <h2 class="h2_ttl">講習時間合計</h2>
+          <p class="lecture-modal-txt">11時間（2日間）※試験時間は含まない。</p>
+          <div class="C_more_btn">
+            <div class="C_more_btn_block">
+              <a href="<?php echo get_theme_file_uri()?>/image/lecture/koukyou.pdf" target="_blank" class="C_more_btn_block-link">
+                <p class="C_more_btn_block-link-txt">講習範囲詳細ダウンロード</p>
+                <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+              </a>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
     
@@ -76,17 +266,95 @@
           当会登録種目は以下のとおり。
         </p>
       </div>
-      <div class="l_chart">
+      <div class="l_chart lecture-modal-open" data-target="lecture-modal08">
         <p class="lecture-num l_chart_row">01</p>
         <p class="lecture-num-txt l_chart_data">足場の組立て等作業主任者技能講習</p>
+        <img class="lecture-num-img" src="<?php echo get_theme_file_uri()?>/image/common/arrow.svg" alt="">
       </div>
-      <div class="l_chart">
+      <div id="lecture-modal08" class="lecture-modal">
+        <div class="lecture-modal-wrapper">
+          <div class="lecture-modal-flex">
+            <span class="lecture-modal-close"></span>
+          </div>
+          <p class="lecture-modal-ttl">玉掛け技能講習</p>
+          <p class="lecture-modal-txt">制限荷重が１トン以上の揚貨装置又はつり上げ荷重が１トン以上のクレーン、移動式クレーン若しくはデリックの玉掛けの業務。</p>
+          <h2 class="h2_ttl">受講資格</h2>
+          <p class="lecture-modal-txt">満１８歳以上</p>
+          <h2 class="h2_ttl">講習時間合計</h2>
+          <p class="lecture-modal-txt">19時間（3日間）※試験時間は含まない。</p>
+          <div class="C_more_btn">
+            <div class="C_more_btn_block">
+              <a href="<?php echo get_theme_file_uri()?>/image/lecture/tamagake.pdf" target="_blank" class="C_more_btn_block-link">
+                <p class="C_more_btn_block-link-txt">講習範囲詳細ダウンロード</p>
+                <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+              </a>
+            </div>
+          </div>
+          <h2 class="h2_ttl">講習日程</h2>
+          <div class="lecture-modal-table">
+            <p class="lecture-modal-table-txt">北海道</p>
+            <p class="lecture-modal-table-txt">帯広市</p>
+            <p class="lecture-modal-table-txt">3月</p>
+          </div>
+        </div>
+      </div>
+      <div class="l_chart lecture-modal-open" data-target="lecture-modal09">
         <p class="lecture-num l_chart_row">02</p>
         <p class="lecture-num-txt l_chart_data">小型移動式クレーン運転技能講習</p>
+        <img class="lecture-num-img" src="<?php echo get_theme_file_uri()?>/image/common/arrow.svg" alt="">
       </div>
-      <div class="l_chart">
+      <div id="lecture-modal09" class="lecture-modal">
+        <div class="lecture-modal-wrapper">
+          <div class="lecture-modal-flex">
+            <span class="lecture-modal-close"></span>
+          </div>
+          <p class="lecture-modal-ttl">小型移動式クレーン運転技能講習</p>
+          <p class="lecture-modal-txt">つり上げ荷重１トン以上、５トン未満の小型移動式クレーン。</p>
+          <h2 class="h2_ttl">受講資格</h2>
+          <p class="lecture-modal-txt">満18歳以上</p>
+          <h2 class="h2_ttl">講習時間合計</h2>
+          <p class="lecture-modal-txt">20時間（3日間）※試験時間は含まない。</p>
+          <div class="C_more_btn">
+            <div class="C_more_btn_block">
+              <a href="<?php echo get_theme_file_uri()?>/image/lecture/kuren.pdf" target="_blank" class="C_more_btn_block-link">
+                <p class="C_more_btn_block-link-txt">講習範囲詳細ダウンロード</p>
+                <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+              </a>
+            </div>
+          </div>
+          <h2 class="h2_ttl">講習日程</h2>
+          <div class="lecture-modal-table">
+            <p class="lecture-modal-table-txt">北海道</p>
+            <p class="lecture-modal-table-txt">帯広市</p>
+            <p class="lecture-modal-table-txt">3月</p>
+          </div>
+        </div>
+      </div>
+      <div class="l_chart lecture-modal-open" data-target="lecture-modal10">
         <p class="lecture-num l_chart_row">03</p>
         <p class="lecture-num-txt l_chart_data">足場の組立て等作業主任者技能講習</p>
+        <img class="lecture-num-img" src="<?php echo get_theme_file_uri()?>/image/common/arrow.svg" alt="">
+      </div>
+      <div id="lecture-modal10" class="lecture-modal">
+        <div class="lecture-modal-wrapper">
+          <div class="lecture-modal-flex">
+            <span class="lecture-modal-close"></span>
+          </div>
+          <p class="lecture-modal-ttl">高所作業者運転技能講習</p>
+          <p class="lecture-modal-txt">作業床の高さが１０ｍ以上の高所作業車の運転（道路上を走行させる運転を除く）の業務</p>
+          <h2 class="h2_ttl">受講資格</h2>
+          <p class="lecture-modal-txt">満18才以上</p>
+          <h2 class="h2_ttl">講習時間合計</h2>
+          <p class="lecture-modal-txt">17時間（3日間）※試験時間は含まない</p>
+          <div class="C_more_btn">
+            <div class="C_more_btn_block">
+              <a href="<?php echo get_theme_file_uri()?>/image/lecture/kousyo.pdf" target="_blank" class="C_more_btn_block-link">
+                <p class="C_more_btn_block-link-txt">講習範囲詳細ダウンロード</p>
+                <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+              </a>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
     
