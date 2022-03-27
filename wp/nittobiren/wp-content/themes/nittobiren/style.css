@@ -574,7 +574,6 @@ about
 }
 /* evaluation */
 .evaluation-link{
-  font-size: 2rem;
   margin-bottom: 10px;
 }
 
@@ -731,11 +730,11 @@ about
   position: fixed;
   top: 100px;
   right: 0;
-  height: 100vh;
+  bottom: 0;
+  left: 0;
   width: 100vw;
   background-color: rgba(255, 255, 255, 1);
   overflow: auto;
-  overflow: scroll;
 }
 .lecture-modal-wrapper{
   width: 80%;
@@ -817,6 +816,7 @@ about
   }
   .flex_inner{
     display: block;
+    margin: 0;
   }
 
   .h2_ttl{
@@ -825,14 +825,18 @@ about
     margin-bottom: 5.333vw;
   }
   .h3_ttl{
-    font-size: 4.8vw;
-    margin-top: 0;
+    font-size: 4.4vw;
+    margin-top:30px;
   }
   .page_ttl{
     font-size: 25px;
   }
+  .sp-ttl{
+    font-size: 18px;
+  }
   p{
     font-size: 4vw;
+    line-height: 1.5;
   }
   li{
     font-size: 4vw;
@@ -846,9 +850,10 @@ about
   ------------------------------ */
   .C_more_btn{
     height: 13.667vw;
+    margin-top: 20px;
   }
   .C_more_btn_block-link-txt{
-    min-width: 53.333vw;
+    min-width: 62.333vw;
     font-size: 4vw;
   }
   .C_more_btn_block-link-img{
@@ -961,11 +966,15 @@ about
     display: block;
     position: fixed;
     z-index: 2;
-    top: 13.333vw;
+    /* top: 13.333vw; */
+    top: 50px;
+    left: 0;
+    bottom: 0;
+    right: 0;
     left: 120%;
     background-color: rgba(0,0,0,1);
-    height: 100vh;
-    width: 100%;
+    /* height: 100vh; */
+    width: 100vw;
     transition: all 0.6s;
     overflow: auto;
     overflow: scroll;
@@ -1047,7 +1056,7 @@ about
   .new-topics-item-link-txt{
     margin: 2.667vw 0px 0px 0px;
     font-size: 4vw;
-    width: 82.667vw;
+    width: 88vw;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -1112,6 +1121,7 @@ about
   }
   .l_chart_data{
     padding: 10px 10px 20px 10px;
+    width: 90%;
   }
   /* ------------------------------ 
   join
@@ -1129,9 +1139,7 @@ about
   /* ------------------------------ 
   kikan
   ------------------------------ */
-  .kikan-ttl-sp{
-    font-size: 18px;
-  }
+
   .kikan-content{
     display: block;
   }
@@ -1143,9 +1151,7 @@ about
   }
   .sp-scroll{
     overflow: auto;
-    /*テーブルを入れた場合、セル内の文字を折り返ししないようにします*/
     white-space: nowrap;
-    /*惰性を与えてスムーズなスクロールにしますよ*/
     -webkit-overflow-scrolling: touch;
     width: 100%;
   }
@@ -1153,15 +1159,53 @@ about
     height: 5px;
   }
   .sp-scroll::-webkit-scrollbar-track{
-    /*スクロールバーの背景の色*/
     background: #F1F1F1;
   }
   .sp-scroll::-webkit-scrollbar-thumb {
-    /*スクロールバーの色を変えるなら*/
     background: #BCBCBC;
   }
   .kikan-table-note{
     text-align: left;
   }
-
+  /* ------------------------------ 
+  lecture
+  ------------------------------ */
+  .lecture-num{
+    font-size: 23px;
+  }
+  .lecture-num-img{
+    bottom: 20px;
+  }
+  .lecture-modal{
+    top: 50px;
+  }
+  .lecture-modal-close{
+    width: 40px;
+    height: 40px;
+  }
+  .lecture-modal-ttl{
+    
+    font-size: 20px;
+  }
+  .lecture-modal-txt{
+    margin-bottom: 15px;
+  }
+  .lecture-btn{
+    margin-top: 0;
+  }
+  .lecture-modal-table{
+    width: 100%;
+  }
+  /* ------------------------------ 
+  info
+  ------------------------------ */
+  .sp-new-topics-item-link-txt{
+  white-space:inherit;
+  overflow:inherit;
+  width: 100%;
+  padding-bottom: 10px;
+  }
+  .new-topics-item{
+    height: auto;
+  }
 }

@@ -44,7 +44,7 @@
         <ul class="modal-sp-nav-list">
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/top">TOP</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/about">概要</a></li>
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/report">活動方向</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/report">活動報告</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/prefectures">都道府県連一覧</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/join">入会案内</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/link">リンク</a></li>

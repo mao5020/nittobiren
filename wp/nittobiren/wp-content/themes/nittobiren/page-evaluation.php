@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 <div class="page_cover">
-  <h1 class="page_ttl">CCUSに伴うとび技能者能力評価について</h1>
+  <h1 class="page_ttl sp-ttl">CCUSに伴うとび技能者能力評価について</h1>
 </div>
 <?php get_template_part('p-header'); ?>
 </body>
@@ -28,7 +28,9 @@
           </div>
         </div>
       </div>
-      
+    </section>
+
+    <section class="evaluation sec_inner">
       <h2 class="h2_ttl">とび技能者能力評価基準・実施規程</h2>
       <div class="evaluation-content">
         <p class="evaluation-txt">
@@ -92,7 +94,7 @@
     <section class="evaluation sec_inner">  
       <h2 class="h2_ttl">とび技能者レベル判定申請書等様式(申請書、職務経歷書)</h2>
       <p class="evaluation-link">・経歴証明書：　[ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/evaluation/経歴証明書.xlsx" download>Excel</a>　／　<a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/evaluation/経歴証明書（記載例）.xlsx" download>記入例</a> ] </p>
-      <p class="evaluation-link">・経歴証明書（一人親方用）：　[ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/evaluation/経歴証明書（一人親方用）.xlsx" download>Excel</a>　／　<a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/evaluation/経歴証明書（一人親方用）（記載例）.xlsx" download>記入例</a> ] </p>
+      <p class="evaluation-link">・経歴証明書（一人親方用）：<br class="sp_br">　[ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/evaluation/経歴証明書（一人親方用）.xlsx" download>Excel</a>　／　<a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/evaluation/経歴証明書（一人親方用）（記載例）.xlsx" download>記入例</a> ] </p>
       <p class="evaluation-link">・交付申請書：　[ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/evaluation/交付申請書.xlsx" download>Excel</a>　／　<a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/evaluation/交付申請書（記載例）.xlsx" download>記入例</a> ] </p>
     </section>
   </div><!-- /l_inner -->

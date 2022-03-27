@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 <div class="page_cover">
-  <h1 class="page_ttl kikan-ttl-sp">登録鳶・土工基幹技能者講習会／更新</h1>
+  <h1 class="page_ttl sp-ttl">登録鳶・土工基幹技能者講習会／更新</h1>
 </div>
 <div class="flex_inner">
   <?php get_sidebar();?>
@@ -15,7 +15,6 @@
       </p>
       <h4 class="h4_ttl">開催日程</h4>
       <div class="sp-scroll">
-
         <table class="C_kikan-table" border="1">
           <tbody>
             <tr>
@@ -168,7 +167,7 @@
       <h4 class="h4_ttl">助成金</h4>
       <ul class="kikan-box">
         <li class="kikan-box-list">当講習会は、｢人材開発支援助成金｣の対象講習会です。 詳細及び申請様式は厚生労働省ホームページをご確認ください。 申請様式は<a class="kikan-box-list-link" href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kensetsu-kouwan/kensetsu-kaizen.html" target="blank">こちら</a></li>
-      </ul>https
+      </ul>
       <h4 class="h4_ttl">問い合せ先及び申請書送付先</h4>
       <ul class="kikan-box">
         <li class="kikan-box-list">一般社団法人日本鳶工業連合会</li>
