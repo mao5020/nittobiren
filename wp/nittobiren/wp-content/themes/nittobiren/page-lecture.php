@@ -29,6 +29,45 @@
         </div>
       </div>
     </section>
+    
+    <section class="lecture sec_inner">
+      <h2 class="h2_ttl">作業主任者技能講習</h2>
+      <div class="lecture-content">
+        <p class="lecture-txt">
+          労働安全衛生法第１４条に定める作業主任者を選任するための技能講習。<br>
+          当会登録種目は以下のとおり。
+        </p>
+      </div>
+      
+      <div class="l_chart">
+        <p class="l_chart_row">01</p>
+        <p class="l_chart_data">足場の組立て等作業主任者技能講習</p>
+      </div>
+      <div class="l_chart">
+        <p class="l_chart_row">02</p>
+        <p class="l_chart_data">型枠支保工の組立て等作業主任者技能講習</p>
+      </div>
+      <div class="l_chart">
+        <p class="l_chart_row">03</p>
+        <p class="l_chart_data">地山の掘削及び土止支保工作業主任技能講習</p>
+      </div>
+      <div class="l_chart">
+        <p class="l_chart_row">04</p>
+        <p class="l_chart_data">建築物等の鉄骨の組立て等作業主任者技能講習</p>
+      </div>
+      <div class="l_chart">
+        <p class="l_chart_row">05</p>
+        <p class="l_chart_data"></p>
+      </div>
+      <div class="l_chart">
+        <p class="l_chart_row">06</p>
+        <p class="l_chart_data"></p>
+      </div>
+      <div class="l_chart">
+        <p class="l_chart_row">07</p>
+        <p class="l_chart_data"></p>
+      </div>
+    </section>
   </div><!-- /l_inner -->
 </div><!-- flex_inner -->
 <?php get_footer(); ?>
