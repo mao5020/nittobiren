@@ -52,6 +52,9 @@ component
 }
 
 /* component */
+.c_red{
+  color: #B50000;
+}
 .h2_ttl{
   font-size: 2.6rem;
   letter-spacing: 0.1em;
@@ -374,7 +377,9 @@ top
   position: relative;
   border-bottom:solid 1px #000;
   font-size: 18px;
-  z-index: -1;
+  height: 100px;
+  display: flex;
+  align-items: center;
 }
 .new-topics-item-link{
   height: 100px;
@@ -396,6 +401,10 @@ top
 .new-topics-item-link-category,
 .new-topics-item-link-txt{
   margin-right: 25px;
+}
+.new-topics-item-link-txt{
+  width: 80%;
+  font-size: 16px;
 }
 .new-topics-item-link-date{
   color: #A2A5AC;

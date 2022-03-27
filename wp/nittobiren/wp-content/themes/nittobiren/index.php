@@ -1,7 +1,7 @@
 <?php get_header(); ?>
   <div class="main">
     <div class="main-ttl">
-      <p><img class="main-ttl-icon" src="<?php echo get_theme_file_uri()?>//image/common/logo_white.png" alt=""></p>
+      <p><img class="main-ttl-icon" src="<?php echo get_theme_file_uri()?>/image/common/logo_white.png" alt=""></p>
       <h1 class="main-ttl-txt">日本鳶工業連合会</h1>
     </div>
     <h2 class="main-catch">私たちは<br class="sp_br">鳶・土工工事事業の技術と<br>経営の向上を目指します</h2>
@@ -16,39 +16,25 @@
       </section>
       <section class="new sec_inner">
         <h2 class="new-ttl h2_ttl">新着情報</h2>
-        <ul class="new-tab">
-          <li class="new-tab-item"><a href="" class="new-tab-item-link">すべて</a></li>
-          <li class="new-tab-item"><a href="" class="new-tab-item-link">講習関連</a></li>
-          <li class="new-tab-item"><a href="" class="new-tab-item-link">その他</a></li>
-        </ul>
         <div class="new-topics">
           <div class="new-topics-item">
-            <a href="" class="new-topics-item-link">
-              <p class="new-topics-item-link-date">2022/06/25</p>
-              <span class="new-topics-item-link-category">講習関連</span>
-              <p class="new-topics-item-link-txt">登録鳶・土工基幹技能者講習の新規講習、更新講習のページを更新しました。</p>
-              <img class="new-topics-item-link-arrow" src="<?php echo get_theme_file_uri()?>/image/common/arrow.svg" alt="">
-            </a>
+            <p class="new-topics-item-link-date">2020/06/25</p>
+            <span class="new-topics-item-link-category">講習関連</span>
+            <p class="new-topics-item-link-txt">登録鳶・土工基幹技能者講習の<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_first">新規講習</a>、<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_second">更新講習</a>のページを更新しました。</p>
           </div>
           <div class="new-topics-item">
-            <a href="" class="new-topics-item-link">
-              <p class="new-topics-item-link-date">2022/06/25</p>
-              <span class="new-topics-item-link-category">その他</span>
-              <p class="new-topics-item-link-txt">新型コロナウイルス感染症で影響を受ける事業者の皆様へ【経済産業省】</p>
-              <img class="new-topics-item-link-arrow" src="<?php echo get_theme_file_uri()?>/image/common/arrow.svg" alt="">
-            </a>
+            <p class="new-topics-item-link-date">2020/05/26</p>
+            <span class="new-topics-item-link-category">講習関連</span>
+            <p class="new-topics-item-link-txt">登録鳶・土工基幹技能者講習の<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_first">新規講習</a>、<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_second">更新講習</a>のページを更新しました。</p>
           </div>
           <div class="new-topics-item">
-            <a href="" class="new-topics-item-link">
-              <p class="new-topics-item-link-date">2022/06/25</p>
-              <span class="new-topics-item-link-category">講習関連</span>
-              <p class="new-topics-item-link-txt">登録鳶・土工基幹技能者更新講習熊本開催の会場が変更となりました。更新</p>
-              <img class="new-topics-item-link-arrow" src="<?php echo get_theme_file_uri()?>/image/common/arrow.svg" alt="">
-            </a>
+            <p class="new-topics-item-link-date">2020/05/26</p>
+            <span class="new-topics-item-link-category">講習関連</span>
+            <p class="new-topics-item-link-txt">登録鳶・土工基幹技能者更新講習熊本開催の会場が変更となりました。<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_second">更新</a></p>
           </div>
           <div class="C_more_btn">
             <div class="C_more_btn_block E_more_btn_right">
-              <a href="" class="C_more_btn_block-link">
+              <a href="<?php echo get_theme_file_uri() ?>/info" class="C_more_btn_block-link">
                 <p class="C_more_btn_block-link-txt">View All</p>
                 <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
               </a>

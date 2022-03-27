@@ -123,29 +123,17 @@
       <div class="docment_item">
         <div class="C_more_btn document-more_btn">
           <div class="C_more_btn_block">
-<<<<<<< HEAD
-            <a href="" class="C_more_btn_block-link">
-              <p class="C_more_btn_block-link-txt">定款</p>
-              <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
-=======
             <a href="<?php echo get_theme_file_uri()?>/image/about/teiyaku20210723.pdf" class="C_more_btn_block-link" target="blank">
               <p class="C_more_btn_block-link-txt">定款（PDF形式）</p>
               <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
->>>>>>> 6451298882b54557d20b32b91cf41c824ff3029c
             </a>
           </div>
         </div>
         <div class="C_more_btn document-more_btn">
           <div class="C_more_btn_block">
-<<<<<<< HEAD
-            <a href="" class="C_more_btn_block-link">
-              <p class="C_more_btn_block-link-txt">事業報告書</p>
-              <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
-=======
             <a href="<?php echo get_theme_file_uri()?>/image/about/2020houkoku.pdf" class="C_more_btn_block-link" target="blank">
               <p class="C_more_btn_block-link-txt">事業報告書（PDF形式）</p>
               <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
->>>>>>> 6451298882b54557d20b32b91cf41c824ff3029c
             </a>
           </div>
         </div>
