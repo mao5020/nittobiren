@@ -710,7 +710,7 @@ about
   }
   .l_inner{
     width: 100%;
-    margin: 0 8vw;
+    margin: 0 5vw;
   }
   .sec_inner{
     margin-bottom: 13.333vw;
@@ -895,6 +895,7 @@ about
   }
   .new-topics-item{
     font-size: 4vw;
+    display: block;
   }
   .new-topics-item-link{
     display: block;
@@ -910,7 +911,9 @@ about
     padding: 1.333vw 0;
   }
   .new-topics-item-link-txt{
-    width: 74.667vw;
+    margin: 2.667vw 0px 0px 0px;
+    font-size: 4vw;
+    width: 82.667vw;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -923,5 +926,8 @@ about
   .new-topics-item-link-date,
   .new-topics-item-link-category{
     margin-top: 4vw;
+  }
+  .document-txt{
+    margin-bottom: 2vw;
   }
 }
