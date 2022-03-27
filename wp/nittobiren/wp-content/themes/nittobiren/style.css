@@ -572,6 +572,11 @@ about
 .kikan-corse-btn{
   width: 40%;
 }
+/* evaluation */
+.evaluation-link{
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
 
 /* kikan-first */
 .kikan-table-note{
