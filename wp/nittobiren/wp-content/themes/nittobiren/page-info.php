@@ -35,17 +35,17 @@
       </div>
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2020/03/27</p>
-        <span class="new-topics-item-link-category">講習関連</span>
+        <span class="new-topics-item-link-category">その他</span>
         <p class="new-topics-item-link-txt sp-new-topics-item-link-txt"><a class="c_red" href="<?php echo get_theme_file_uri()?>/image/info/korona13.pdf" target="blank">施工中の工事における新型コロナウイルス感染症の羅患に伴う対応等の解釈等について</a>【国土交通省】</p>
       </div>
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2020/03/27</p>
-        <span class="new-topics-item-link-category">講習関連</span>
-        <p class="new-topics-item-link-txt sp-new-topics-item-link-txt"><a class="c_red" href="<?php echo get_theme_file_uri()?>/image/info/korona12.pdf" target="blank">公共工事の代価の中間前受金払及び既済部分払の活用並びに手続の簡素化・迅速化の推進について【国土交通省】</a></p>
+        <span class="new-topics-item-link-category">その他</span>
+        <p class="new-topics-item-link-txt sp-new-topics-item-link-txt"><a class="c_red" href="<?php echo get_theme_file_uri()?>/image/info/korona12.pdf" target="blank">公共工事の代価の中間前受金払及び既済部分払の活用並びに手続の簡素化・迅速化の推進について</a>【国土交通省】</p>
       </div>
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2020/03/27</p>
-        <span class="new-topics-item-link-category">講習関連</span>
+        <span class="new-topics-item-link-category">その他</span>
         <p class="new-topics-item-link-txt sp-new-topics-item-link-txt"><a class="c_red" href="<?php echo get_theme_file_uri()?>/image/info/korona11.pdf" target="blank">新型コロナウイルス感染症で影響を受ける事業者の皆様へ</a>【経済産業省】</p>
       </div>
       <div class="new-topics-item">
@@ -80,22 +80,22 @@
       </div>
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2020/03/11</p>
-        <span class="new-topics-item-link-category">講習関連</span>
+        <span class="new-topics-item-link-category">その他</span>
         <p class="new-topics-item-link-txt sp-new-topics-item-link-txt"><a class="c_red" href="<?php echo get_theme_file_uri()?>/image/info/korona5.pdf" target="blank">新型コロナウイルス感染症の感染拡大防止に向けた工事及び業務の一時中止措置の延長等について</a>【国土交通省】</p>
       </div>
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2020/03/10</p>
-        <span class="new-topics-item-link-category">講習関連</span>
+        <span class="new-topics-item-link-category">その他</span>
         <p class="new-topics-item-link-txt sp-new-topics-item-link-txt"><a class="c_red" href="<?php echo get_theme_file_uri()?>/image/info/korona4.pdf" target="blank">新型コロナウイルス感染症に関する緊急対応策ー第2弾ー</a>【新型コロナウイルス感染症対策本部】（詳しくは<a class="c_red" href="https://corona.go.jp/" target="_blank">こちら</a>）</p>
       </div>
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2020/02/27</p>
-        <span class="new-topics-item-link-category">講習関連</span>
+        <span class="new-topics-item-link-category">その他</span>
         <p class="new-topics-item-link-txt sp-new-topics-item-link-txt"><a class="c_red" href="<?php echo get_theme_file_uri()?>/image/info/korona3.pdf" target="blank">新型コロナウイルス感染症の感染拡大防止に向けた工事及び業務の一時中止措置等について</a>【国土交通省】</p>
       </div>
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2020/02/25</p>
-        <span class="new-topics-item-link-category">講習関連</span>
+        <span class="new-topics-item-link-category">その他</span>
         <p class="new-topics-item-link-txt sp-new-topics-item-link-txt"><a class="c_red" href="<?php echo get_theme_file_uri()?>/image/info/korona2.pdf" target="blank">施工中の工事における新型コロナウイルス感染症の罹患に伴う対応について</a>【国土交通省】</p>
       </div>
       <div class="new-topics-item">
@@ -105,7 +105,7 @@
       </div>
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2019/12/05</p>
-        <span class="new-topics-item-link-category">講習関連</span>
+        <span class="new-topics-item-link-category">その他</span>
         <p class="new-topics-item-link-txt sp-new-topics-item-link-txt"><a class="c_red" href="<?php echo get_theme_file_uri() ?>/report">活動報告</a>のページを更新しました。</p>
       </div>
       <div class="new-topics-item">
@@ -115,12 +115,12 @@
       </div>
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2019/09/05</p>
-        <span class="new-topics-item-link-category">講習関連</span>
+        <span class="new-topics-item-link-category">その他</span>
         <p class="new-topics-item-link-txt sp-new-topics-item-link-txt"><a class="c_red" href="http://www.nittobiren.or.jp/kain/kaiin.html">会員のページ</a>を更新しました。</p>
       </div>
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2019/07/02</p>
-        <span class="new-topics-item-link-category">講習関連</span>
+        <span class="new-topics-item-link-category">その他</span>
         <p class="new-topics-item-link-txt sp-new-topics-item-link-txt"><a class="c_red" href="http://www.nittobiren.or.jp/kain/kaiin.html">会員のページ</a>を更新しました。</p>
       </div>
       <div class="new-topics-item">

@@ -18,7 +18,6 @@ $(function() {
   //スクロールを固定
   function bodyFixedOn() {
     scrollTop = $(window).scrollTop();
-    
     $body.css({
       position: 'fixed',
       top: -scrollTop

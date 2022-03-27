@@ -121,7 +121,7 @@
       <div class="C_more_btn">
         <div class="C_more_btn_block test">
           <a href="https://nihonkutai.or.jp/basic_technician/workshop/" class="C_more_btn_block-link" target="blank">
-            <p class="C_more_btn_block-link-txt">開催についてはこちら。</p>
+            <p class="C_more_btn_block-link-txt">開催についてはこちら</p>
             <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
           </a>
         </div>
