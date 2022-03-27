@@ -312,6 +312,10 @@ top
   -webkit-transform: translate(0, -75%);
   -ms-transform: translate(0, -75%);
 }
+.document-link{
+  color: #B50000;
+  margin-bottom: 5px;
+}
 /* menu */
 .menu{
   width: 300px;
@@ -698,16 +702,16 @@ about
   }
   .l_inner{
     width: 100%;
-    margin: 0 30px;
+    margin: 0 8vw;
   }
   .sec_inner{
-    margin-bottom: 50px;
+    margin-bottom: 13.333vw;
   }
 
   .h2_ttl{
     font-size: 5.333vw;
-    padding-left: 20px;
-    margin-bottom: 20px;
+    padding-left: 5.333vw;
+    margin-bottom: 5.333vw;
   }
   .h3_ttl{
     font-size: 4.8vw;
@@ -719,10 +723,10 @@ about
   }
 
   .C_more_btn{
-    height: 100px;
+    height: 26.667vw;
   }
   .C_more_btn_block-link-txt{
-    min-width: 200px;
+    min-width: 53.333vw;
   }
   .C_more_btn_block-link-img{
     width: 70%;
@@ -735,7 +739,7 @@ about
   .header-content{
     justify-content: space-around;
     box-shadow: none;
-    height: 50px;
+    height: 13.333vw;
   }
   .header-content-ttl{
     width: 80%;
@@ -757,7 +761,7 @@ about
   }
   .header-content-ttl-ja{
     font-size: 5.333vw;
-    width: 200px;
+    width: 53.333vw;
     color: #fff;
   }
   .main{
@@ -769,35 +773,35 @@ about
     position: relative;
     background:rgba(255, 255, 255, 0);
     cursor: pointer;
-    width: 50px;
-    height:50px;
-    border-radius: 5px;
+    width: 13.333vw;
+    height:13.333vw;
+    border-radius: 1.333vw;
   }
   .open-modal span{
     display: inline-block;
     transition: all .4s;
     position: absolute;
-    left: 14px;
-    height: 3px;
-    border-radius: 2px;
+    left: 3.733vw;
+    height: 0.8vw;
+    border-radius: 0.533vw;
     background: #fff;
     width: 45%;
     }
   
   .open-modal span:nth-of-type(1) {
-    top:15px; 
+    top:4vw; 
   }
   
   .open-modal span:nth-of-type(2) {
-    top:23px;
+    top:6.133vw;
   }
   
   .open-modal span:nth-of-type(3) {
-    top:31px;
+    top:8.267vw;
   }
   .open-modal.is-active span:nth-of-type(1) {
-    top: 18px;
-    left: 18px;
+    top: 4.8vw;
+    left: 4.8vw;
     transform: translateY(6px) rotate(-45deg);
     width: 30%;
   }
@@ -807,8 +811,8 @@ about
   }
 
   .open-modal.is-active span:nth-of-type(3){
-    top: 30px;
-    left: 18px;
+    top: 8vw;
+    left: 4.8vw;
     transform: translateY(-6px) rotate(45deg);
     width: 30%;
   }
@@ -817,7 +821,7 @@ about
     display: block;
     position: fixed;
     z-index: 2;
-    top: 50px;
+    top: 13.333vw;
     left: 120%;
     background-color: rgba(0,0,0,1);
     height: 100vh;
@@ -838,11 +842,11 @@ about
   .modal-sp-nav-list-item::after{
     content: "";
     display: block;
-    width: 8px;
-    height: 8px;
+    width: 2.133vw;
+    height: 2.133vw;
     position: absolute;
-    right: 16px;
-    top: calc(50% - 2px);
+    right: 4.267vw;
+    top: calc(50% - 0.533vw);
     border-top: solid 2px #fff;
     border-right: solid 2px #fff;
     transform: rotate(45deg) translateY(-50%);
@@ -851,7 +855,7 @@ about
   .modal-sp-nav-list-item-link{
     display: block;
     color:#fff;
-    padding: 20px 0;
+    padding: 5.333vw 0;
   }
 
   /* top */
@@ -863,13 +867,13 @@ about
   }
   .main-catch{
     font-size: 6.666vw;
-    line-height: 40px;
+    line-height: 10.667vw;
     top: 60%;
-    left: 35px;
+    left: 9.333vw;
   }
 
   .course{
-    min-height: 300px;
+    min-height: 80vw;
   }
   .course-right{
     display: none;
@@ -886,7 +890,7 @@ about
   }
   .new-topics-item-link{
     display: block;
-    height: 90px;
+    height: 24vw;
   }
   .new-topics-item-link-date{
     display: inline-block;
@@ -894,22 +898,22 @@ about
   .new-topics-item-link-category{
     display: inline-block;
     text-align: center;
-    width: 120px;
-    padding: 5px 0;
+    width: 32vw;
+    padding: 1.333vw 0;
   }
   .new-topics-item-link-txt{
-    width: 280px;
+    width: 74.667vw;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    margin-top: 10px;
+    margin-top: 2.667vw;
   }
   .new-topics-item-link-arrow{
-    bottom: 10px;
-    right: 10px;
+    bottom: 2.667vw;
+    right: 2.667vw;
   }
   .new-topics-item-link-date,
   .new-topics-item-link-category{
-    margin-top: 15px;
+    margin-top: 4vw;
   }
 }
