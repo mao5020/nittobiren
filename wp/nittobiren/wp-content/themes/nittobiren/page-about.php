@@ -159,7 +159,7 @@
     </section>
     <section class="sec_inner access">
       <h2 class="h2_ttl">アクセスマップ</h2>
-      <iframe class="access-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.6838816224745!2d139.74280831561165!3d35.660159338734026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b9635b54d5f%3A0x458adc800c8f450d!2z44CSMTA1LTAwMTEg5p2x5Lqs6YO95riv5Yy66Iqd5YWs5ZyS77yT5LiB55uu77yV4oiS77yS77yQ!5e0!3m2!1sja!2sjp!4v1647184338913!5m2!1sja!2sjp" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+      <iframe class="access-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.6838816224745!2d139.74280831561165!3d35.660159338734026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b9635b54d5f%3A0x458adc800c8f450d!2z44CSMTA1LTAwMTEg5p2x5Lqs6YO95riv5Yy66Iqd5YWs5ZyS77yT5LiB55uu77yV4oiS77yS77yQ!5e0!3m2!1sja!2sjp!4v1647184338913!5m2!1sja!2sjp" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     </section>
   </div><!-- /l_inner -->
 </div><!-- flex_inner -->
