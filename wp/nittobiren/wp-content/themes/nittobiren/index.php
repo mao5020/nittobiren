@@ -46,9 +46,9 @@
         <h2 class="document-ttl h2_ttl">各省庁発表資料等</h2>
         <p class="document-txt">労災の対応や工事中断における措置などの告知・資料等を掲載しております。</p>
         <h3 class="h3_ttl">業界資料</h3>
-        <a href="<?php echo get_theme_file_uri()?>/image/top/kaitaisyaryou.pdf" target="blank"><p class="document-link">労働安全衛生規則（車両系建設機械（解体用））改正</p></a>
-        <a href="<?php echo get_theme_file_uri()?>/image/top/kaisei.pdf" target="blank"><p class="document-link">労働安全衛生規則（足場関係）改正</p></a>
-        <a href="https://www.mhlw.go.jp/new-info/kobetu/roudou/gyousei/anzen/120309-1.html" target="blank"><p class="document-link">足場からの墜落・転落災害防止総合対策推進要綱ポイント</p></a>
+        <a href="<?php echo get_theme_file_uri()?>/image/top/kaitaisyaryou.pdf" target="_blank" rel="noopener"><p class="document-link">労働安全衛生規則（車両系建設機械（解体用））改正</p></a>
+        <a href="<?php echo get_theme_file_uri()?>/image/top/kaisei.pdf" target="_blank" rel="noopener"><p class="document-link">労働安全衛生規則（足場関係）改正</p></a>
+        <a href="https://www.mhlw.go.jp/new-info/kobetu/roudou/gyousei/anzen/120309-1.html" target="_blank" rel="noopener"><p class="document-link">足場からの墜落・転落災害防止総合対策推進要綱ポイント</p></a>
       </section>
       <section class="sec_inner course">
         <div class="course-left">
@@ -92,7 +92,7 @@
             </p>
             <div class="C_more_btn">
               <div class="C_more_btn_block ">
-                <a href="https://www.ccus.jp/p/about" target="blank" class="C_more_btn_block-link">
+                <a href="https://www.ccus.jp/p/about" target="_blank" rel="noopener" class="C_more_btn_block-link">
                   <p class="C_more_btn_block-link-txt">CCUSについて</p>
                   <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
                 </a>

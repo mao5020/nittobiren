@@ -52,8 +52,8 @@
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="http://www.nittobiren.or.jp/kain/kaiin.html">会員ページ</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/lecture">講習会</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/kikan">登録基幹技能講習</a></li>
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="https://kensetsu-welcome.com/" target="blank">建設労働者緊急<br>育成支援事業</a></li>
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="https://www.kentaikyo.taisyokukin.go.jp/osirase/osirase.html" target="blank">建設業退職金<br>共済制度</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="https://kensetsu-welcome.com/" target="_blank" rel="noopener">建設労働者緊急<br>育成支援事業</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="https://www.kentaikyo.taisyokukin.go.jp/osirase/osirase.html" target="_blank" rel="noopener">建設業退職金<br>共済制度</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/foreigner">外国人受入事業</a></li>
         </ul>
       </nav>

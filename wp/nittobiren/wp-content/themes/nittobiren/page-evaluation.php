@@ -21,7 +21,7 @@
         <div class="kikan-corse-btn"></div>
         <div class="C_more_btn kikan-corse-btn">
           <div class="C_more_btn_block">
-            <a href="https://www.ccus.jp/p/about" target="blank" class="C_more_btn_block-link">
+            <a href="https://www.ccus.jp/p/about" target="_blank" rel="noopener" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">CCUSについて</p>
               <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>
@@ -42,7 +42,7 @@
       <div class="kikan-corse">
         <div class="C_more_btn kikan-corse-btn">
           <div class="C_more_btn_block">
-            <a href="<?php echo get_theme_file_uri()?>/image/evaluation/とび技能者能力評価基準.pdf" target="blank" class="C_more_btn_block-link">
+            <a href="<?php echo get_theme_file_uri()?>/image/evaluation/とび技能者能力評価基準.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">とび技能者能力評価基準詳細</p>
               <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>
@@ -50,7 +50,7 @@
         </div>
         <div class="C_more_btn kikan-corse-btn">
           <div class="C_more_btn_block">
-            <a href="<?php echo get_theme_file_uri()?>/image/evaluation/とび技能者能力評価実施規程.pdf" target="blank" class="C_more_btn_block-link">
+            <a href="<?php echo get_theme_file_uri()?>/image/evaluation/とび技能者能力評価実施規程.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">とび技能者能力評価実施規程詳細</p>
               <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>
@@ -64,7 +64,7 @@
       <div class="kikan-corse">
         <div class="C_more_btn kikan-corse-btn">
           <div class="C_more_btn_block">
-            <a href="<?php echo get_theme_file_uri()?>/image/evaluation/「とび技能者」レベル判定申請の受付について.pdf" target="blank" class="C_more_btn_block-link">
+            <a href="<?php echo get_theme_file_uri()?>/image/evaluation/「とび技能者」レベル判定申請の受付について.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">レベル判定申請の受付について</p>
               <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>
@@ -72,7 +72,7 @@
         </div>
         <div class="C_more_btn kikan-corse-btn">
           <div class="C_more_btn_block">
-            <a href="<?php echo get_theme_file_uri()?>/image/evaluation/CCUS閲覧画面.pdf" target="blank" class="C_more_btn_block-link">
+            <a href="<?php echo get_theme_file_uri()?>/image/evaluation/CCUS閲覧画面.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">CCUS閲覧画面の操作説明</p>
               <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>
@@ -82,7 +82,7 @@
       <div class="kikan-corse">
         <div class="C_more_btn kikan-corse-btn">
           <div class="C_more_btn_block">
-            <a href="<?php echo get_theme_file_uri()?>/image/evaluation/能力評価基準（国交省掲載分）.pdf" target="blank" class="C_more_btn_block-link">
+            <a href="<?php echo get_theme_file_uri()?>/image/evaluation/能力評価基準（国交省掲載分）.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">能力評価基準(国交省掲載分)</p>
               <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>

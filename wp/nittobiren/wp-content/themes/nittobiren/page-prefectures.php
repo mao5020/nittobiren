@@ -81,7 +81,7 @@
         <p class="l_chart_data">〒003-0806<br>札幌市白石区菊水6条2丁目1-15　札幌鳶組合内<br>TEL：011-822-5635／FAX：011-822-9487</p>
       </div>
       <div id="aomori" class="l_chart">
-        <a class="prefectures-link" href="http://www.aochuken.or.jp/" target="_blank">（一社）青森県中小建設業協会</a>
+        <a class="prefectures-link" href="http://www.aochuken.or.jp/" target="_blank" rel="noopener">（一社）青森県中小建設業協会</a>
         <p class="l_chart_data">〒030-0822<br>青森市中央1-13-11　アパートしうら101号<br>TEL：017-723-7800／FAX：017-718-1278</p>
       </div>
       <div id="iwate" class="l_chart">
@@ -121,7 +121,7 @@
         <p class="l_chart_data">〒270-1416<br>白井市神々廻876　㈲石田組内<br>TEL：047-404-8906／FAX：047-404-8907</p>
       </div>
       <div id="tokyo" class="l_chart">
-        <a class="prefectures-link" href="http://www.tokyotobi.or.jp/" target="_blank">（一社）東京都鳶工業会</a>
+        <a class="prefectures-link" href="http://www.tokyotobi.or.jp/" target="_blank" rel="noopener">（一社）東京都鳶工業会</a>
         <p class="l_chart_data">〒105-0011<br>港区芝公園3-5-20　日鳶連会館4階<br>TEL：03-6435-9022／FAX：03-6435-9023</p>
       </div>
       <div id="sizuoka" class="l_chart">
@@ -129,7 +129,7 @@
         <p class="l_chart_data">〒411-0807<br>三島市竹倉286-1<br>TEL：055-972-5145／FAX：055-975-9610</p>
       </div>
       <div id="niigata" class="l_chart">
-        <a class="prefectures-link" href="https://www.chuokai-niigata.or.jp/nagaokatobi/index.html" target="_blank">新潟県鳶土工職組合連合会</a>
+        <a class="prefectures-link" href="https://www.chuokai-niigata.or.jp/nagaokatobi/index.html" target="_blank" rel="noopener">新潟県鳶土工職組合連合会</a>
         <p class="l_chart_data">〒940-0092<br>長岡市昭和2-1-15　鳶協会館内<br>TEL：0258-36-6310／FAX：0258-36-8681<br>※長岡鳶工業協同組合ホームページへのリンクになります</p>
       </div>
     </section>
@@ -141,7 +141,7 @@
         <p class="l_chart_data">〒444-0115<br>額田郡幸田町大字荻字研山11　㈱山本組内<br>TEL：0564-62-0520／FAX：0564-62-0407</p>
       </div>
       <div id="toyama" class="l_chart">
-        <a class="prefectures-link" href="http://toyama-tobi.jp/" target="_blank">富山県鳶土工業協同組合</a>
+        <a class="prefectures-link" href="http://toyama-tobi.jp/" target="_blank" rel="noopener">富山県鳶土工業協同組合</a>
         <p class="l_chart_data">〒930-0108<br>富山市本郷中部74　呉羽保温工業ビル2階<br>TEL：076-436-1821／FAX：076-436-1822</p>
       </div>
       <div id="ishikawa" class="l_chart">
@@ -165,7 +165,7 @@
     <section class="prefectures sec_inner">
       <h2 class="h2_ttl">第4ブロック</h2>
       <div id="kagawa" class="l_chart">
-        <a class="prefectures-link" href="https://www.tobiren.com/" target="_blank">香川県鳶土工連合協会</a>
+        <a class="prefectures-link" href="https://www.tobiren.com/" target="_blank" rel="noopener">香川県鳶土工連合協会</a>
         <p class="l_chart_data">〒763-0086<br>丸亀市飯野町西分甲505-1HKKフィール３F－G<br>TEL：0877-43-2050／FAX：0877-22-9594</p>
       </div>
       <div id="tokushima" class="l_chart">
@@ -181,7 +181,7 @@
         <p class="l_chart_data">〒791-8057<br>松山市大可賀2-3-17　㈱福崎組内<br>TEL：089-951-0730／FAX：089-951-6779</p>
       </div>
       <div id="hiroshima" class="l_chart">
-        <a class="prefectures-link" href="http://www.hiroshimatobi.jp/" target="_blank">（一社）広島県鳶土工業連合会</a>
+        <a class="prefectures-link" href="http://www.hiroshimatobi.jp/" target="_blank" rel="noopener">（一社）広島県鳶土工業連合会</a>
         <p class="l_chart_data">〒720-0836<br>福山市瀬戸町長和686番地1　㈱田畑技建工業内<br>TEL：084-944-7880／FAX：084-944-7881</p>
       </div>
       <div id="shimane" class="l_chart">
