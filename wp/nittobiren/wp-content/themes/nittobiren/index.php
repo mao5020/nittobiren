@@ -4,7 +4,7 @@
       <p><img class="main-ttl-icon" src="<?php echo get_theme_file_uri()?>//image/common/logo_white.png" alt=""></p>
       <h1 class="main-ttl-txt">日本鳶工業連合会</h1>
     </div>
-    <h2 class="main-catch">私たちは鳶・土工工事事業の技術と<br>経営の向上を目指します</h2>
+    <h2 class="main-catch">私たちは<br class="sp_br">鳶・土工工事事業の技術と<br>経営の向上を目指します</h2>
   </div><!-- main -->
 
   <div class="flex_inner">
@@ -50,7 +50,7 @@
             <div class="C_more_btn_block E_more_btn_right">
               <a href="" class="C_more_btn_block-link">
                 <p class="C_more_btn_block-link-txt">View All</p>
-                <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+                <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
               </a>
             </div>
           </div>
@@ -70,7 +70,7 @@
               <div class="C_more_btn_block ">
                 <a href="" class="C_more_btn_block-link">
                   <p class="C_more_btn_block-link-txt">講習を受ける</p>
-                  <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+                  <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
                 </a>
               </div>
             </div>
@@ -82,7 +82,7 @@
               <div class="C_more_btn_block ">
                 <a href="" class="C_more_btn_block-link">
                   <p class="C_more_btn_block-link-txt">講習を受ける</p>
-                  <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+                  <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
                 </a>
               </div>
             </div>
@@ -102,7 +102,7 @@
               <div class="C_more_btn_block ">
                 <a href="" class="C_more_btn_block-link">
                   <p class="C_more_btn_block-link-txt">申請手続き</p>
-                  <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+                  <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
                 </a>
               </div>
             </div>
@@ -114,7 +114,7 @@
               <div class="C_more_btn_block ">
                 <a href="" class="C_more_btn_block-link">
                   <p class="C_more_btn_block-link-txt">お問い合わせ</p>
-                  <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+                  <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
                 </a>
               </div>
             </div>
@@ -132,7 +132,7 @@
             <div class="C_more_btn_block ">
               <a href="" class="C_more_btn_block-link">
                 <p class="C_more_btn_block-link-txt">お問い合わせ</p>
-                <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+                <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
               </a>
             </div>
           </div>

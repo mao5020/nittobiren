@@ -25,6 +25,15 @@ p{
   font-size: 1.8rem;
   letter-spacing: 0.05em;
 }
+.sp_br{
+  display: none;
+}
+.header-content-ttl-icon-sp{
+  display: none;
+}
+.modal-sp{
+  display: none;
+}
 
 /* ------------------------------ 
 component
@@ -181,7 +190,7 @@ component
   <div class="C_more_btn_block test">
     <a href="" class="C_more_btn_block-link">
       <p class="C_more_btn_block-link-txt">テキスト</p>
-      <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+      <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
     </a>
   </div>
 </div>
@@ -339,9 +348,6 @@ top
 }
 
 /* notice */
-.notice-txt{
-  font-size: 18px;
-}
 .notice-ttl-link{
   color: #B50000;
 }
@@ -354,7 +360,7 @@ top
   margin-bottom: 45px;
 }
 .new-tab-item{
-  display: grid;
+  display: flex;
 }
 .new-tab-item-link{
   font-size: 2rem;
@@ -665,4 +671,238 @@ about
 }
 .kikan_second-txt-kink{
   color: #B50000;
+}
+
+@media all and (max-width: 480px) { 
+  .sp_br{
+    display: block;
+  }
+  .header-content-nav{
+    display: none;
+  }
+  .header-content-form{
+    display: none;
+  }
+  .menu{
+    display: none;
+  }
+  .l_inner{
+    width: 100%;
+    margin: 0 30px;
+  }
+  .sec_inner{
+    margin-bottom: 50px;
+  }
+
+  .h2_ttl{
+    font-size: 5.333vw;
+    padding-left: 20px;
+    margin-bottom: 20px;
+  }
+  .h3_ttl{
+    font-size: 4.8vw;
+    margin-top: 0;
+  }
+
+  p{
+    font-size: 4vw;
+  }
+
+  .C_more_btn{
+    height: 100px;
+  }
+  .C_more_btn_block-link-txt{
+    min-width: 200px;
+  }
+  .C_more_btn_block-link-img{
+    width: 70%;
+  }
+
+  /* header */
+  .header{
+    background-color: #000;
+  }
+  .header-content{
+    justify-content: space-around;
+    box-shadow: none;
+    height: 50px;
+  }
+  .header-content-ttl{
+    width: 80%;
+  }
+  .header-content-ttl-icon{
+    display: none;
+  }
+  .header-content-ttl-icon-sp{
+    display: block;
+    width: 15%;
+    height: auto;
+  }
+  .header-content-ttl-box{
+    width: 100%;
+  }
+  .header-content-ttl-com,
+  .header-content-ttl-en{
+    display: none;
+  }
+  .header-content-ttl-ja{
+    font-size: 5.333vw;
+    width: 200px;
+    color: #fff;
+  }
+  .main{
+    background-position: 75%;
+  }
+  /* header-modal */
+  .open-modal{
+    position: relative;/*ボタン内側の基点となるためrelativeを指定*/
+    background:rgba(255, 255, 255, 0);
+    cursor: pointer;
+    width: 50px;
+    height:50px;
+    border-radius: 5px;
+  }
+  
+  /*ボタン内側*/
+  .open-modal span{
+    display: inline-block;
+    transition: all .4s;/*アニメーションの設定*/
+    position: absolute;
+    left: 14px;
+    height: 3px;
+    border-radius: 2px;
+    background: #fff;
+    width: 45%;
+    }
+  
+  .open-modal span:nth-of-type(1) {
+    top:15px; 
+  }
+  
+  .open-modal span:nth-of-type(2) {
+    top:23px;
+  }
+  
+  .open-modal span:nth-of-type(3) {
+    top:31px;
+  }
+  .open-modal.is-active span:nth-of-type(1) {
+    top: 18px;
+    left: 18px;
+    transform: translateY(6px) rotate(-45deg);
+    width: 30%;
+  }
+
+  .open-modal.is-active span:nth-of-type(2) {
+    opacity: 0;/*真ん中の線は透過*/
+  }
+
+  .open-modal.is-active span:nth-of-type(3){
+    top: 30px;
+    left: 18px;
+    transform: translateY(-6px) rotate(45deg);
+    width: 30%;
+  }
+  .is-modal-active{
+    /* display: block; */
+  }
+  .modal-sp{
+    display: block;
+    position: fixed;
+    z-index: 2;
+    top: 50px;
+    left: 120%;
+    background-color: rgba(0,0,0,1);
+    height: 100vh;
+    width: 100%;
+    transition: all 0.6s;
+    overflow: auto;
+    overflow: scroll;
+  }
+  .is-modal-active.modal-sp{
+    left: 0%;
+  }
+  .modal-sp-nav-list-item{
+    border-bottom: solid 1px #fff;
+    width: 90%;
+    margin: 0 auto;
+    position: relative;
+  }
+  .modal-sp-nav-list-item::after{
+    content: "";
+    display: block;
+    width: 8px;
+    height: 8px;
+    position: absolute;
+    right: 16px;
+    top: calc(50% - 2px);
+    border-top: solid 2px #fff;
+    border-right: solid 2px #fff;
+    transform: rotate(45deg) translateY(-50%);
+    color: inherit;
+  }
+  .modal-sp-nav-list-item-link{
+    display: block;
+    color:#fff;
+    padding: 20px 0;
+  }
+
+  /* top */
+  .main-ttl-icon{
+    display: none;
+  }
+  .main-ttl-txt{
+    display: none;
+  }
+  .main-catch{
+    font-size: 6.666vw;
+    line-height: 40px;
+    top: 60%;
+    left: 35px;
+  }
+
+  .course{
+    min-height: 300px;
+  }
+  .course-right{
+    display: none;
+  }
+  .new-tab{
+    width: 70%;
+  }
+
+  .new-tab-item-link{
+    font-size: 4vw;
+  }
+  .new-topics-item{
+    font-size: 4vw;
+  }
+  .new-topics-item-link{
+    display: block;
+    height: 90px;
+  }
+  .new-topics-item-link-date{
+    display: inline-block;
+  }
+  .new-topics-item-link-category{
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+    padding: 5px 0;
+  }
+  .new-topics-item-link-txt{
+    width: 280px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-top: 10px;
+  }
+  .new-topics-item-link-arrow{
+    bottom: 10px;
+    right: 10px;
+  }
+  .new-topics-item-link-date,
+  .new-topics-item-link-category{
+    margin-top: 15px;
+  }
 }

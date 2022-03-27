@@ -9,6 +9,12 @@ $(function() {
     return false;
   });
 
+  // sp-modal 
+  $(".open-modal").click(function () {
+    $(this).toggleClass('is-active');
+    $(".modal-sp").toggleClass('is-modal-active')
+});
+
   h_uri = location.href.split("/");
   h_uri = h_uri[h_uri.length - 2];
   console.log(h_uri);

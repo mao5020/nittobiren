@@ -57,7 +57,7 @@
           <div class="C_more_btn_block">
             <a href="" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">都道府県連一覧</p>
-              <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+              <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>
           </div>
         </div>

@@ -24,7 +24,7 @@
           <div class="C_more_btn_block">
             <a href="" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">とび技能者能力評価基準詳細</p>
-              <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+              <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>
           </div>
         </div>
@@ -44,7 +44,7 @@
           <div class="C_more_btn_block">
             <a href="" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">とび技能者能力評価実施規程詳細</p>
-              <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+              <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>
           </div>
         </div>
@@ -62,7 +62,7 @@
           <div class="C_more_btn_block">
             <a href="" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">レベル判定申請の受付について</p>
-              <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+              <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>
           </div>
         </div>
@@ -70,7 +70,7 @@
           <div class="C_more_btn_block">
             <a href="" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">とび技能者レベル判定申請書等様式</p>
-              <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+              <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>
           </div>
         </div>
@@ -80,7 +80,7 @@
           <div class="C_more_btn_block">
             <a href="" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">能力評価基準</p>
-              <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+              <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>
           </div>
         </div>
@@ -88,7 +88,7 @@
           <div class="C_more_btn_block">
             <a href="" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">CCUS閲覧画面の操作説明</p>
-              <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+              <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>
           </div>
         </div>
