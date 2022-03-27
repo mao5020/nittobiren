@@ -27,7 +27,7 @@
         <div class="kikan-corse-btn"></div>
         <div class="C_more_btn kikan-corse-btn">
           <div class="C_more_btn_block">
-            <a href="" class="C_more_btn_block-link">
+            <a href="http://www.nittobiren.or.jp/contact3.html" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">お問い合わせはこちら</p>
               <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>

@@ -58,8 +58,8 @@
             <p class="course-one-txt">日鳶連では、各種作業主任者技能講習、 <br>及び玉掛け技能講習を全国で開催し、数多くの作業主任者を育成しています。</p>
             <div class="C_more_btn">
               <div class="C_more_btn_block ">
-                <a href="" class="C_more_btn_block-link">
-                  <p class="C_more_btn_block-link-txt">講習を受ける</p>
+                <a href="<?php echo get_theme_file_uri() ?>/lecture" class="C_more_btn_block-link">
+                  <p class="C_more_btn_block-link-txt">詳細こちら</p>
                   <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
                 </a>
               </div>
@@ -70,7 +70,7 @@
             <p class="course-two-txt">登録鳶・土工基幹技能者は、 建設業法に基づき国土交通省により認定された資格です。</p>
             <div class="C_more_btn">
               <div class="C_more_btn_block ">
-                <a href="" class="C_more_btn_block-link">
+                <a href="<?php echo get_theme_file_uri() ?>/kikan" class="C_more_btn_block-link">
                   <p class="C_more_btn_block-link-txt">講習を受ける</p>
                   <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
                 </a>
@@ -87,23 +87,24 @@
           <div class="support-one">
             <h2 class="h2_ttl">各種支援事業</h2>
             <h3 class="h3_ttl">建設キャリアアップシステム</h3>
-            <p>ダミーテキストダミーテキストダミーテキストダミーテキスト ダミーテキストダミーテキスト</p>
+            <p>
+              建設キャリアアップシステムは、技能者一人ひとりの就業実績や資格を登録し、技能の公正な評価、工事の品質向上、現場作業の効率化などに繋げるシステムです。
+            </p>
             <div class="C_more_btn">
               <div class="C_more_btn_block ">
-                <a href="" class="C_more_btn_block-link">
-                  <p class="C_more_btn_block-link-txt">申請手続き</p>
+                <a href="https://www.ccus.jp/p/about" target="blank" class="C_more_btn_block-link">
+                  <p class="C_more_btn_block-link-txt">CCUSについて</p>
                   <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
                 </a>
               </div>
             </div>
           </div>
           <div class="support-two">
-            <h3 class="h3_ttl">CCUSに伴うレベル判定</h3>
-            <p>ダミーテキストダミーテキストダミーテキストダミーテキスト ダミーテキストダミーテキスト</p>
+            <h3 class="h3_ttl">CCUSに伴うとび技能者能力評価について</h3>
             <div class="C_more_btn">
               <div class="C_more_btn_block ">
-                <a href="" class="C_more_btn_block-link">
-                  <p class="C_more_btn_block-link-txt">お問い合わせ</p>
+                <a href="<?php echo get_theme_file_uri() ?>/evaluation" class="C_more_btn_block-link">
+                  <p class="C_more_btn_block-link-txt">詳細はこちら</p>
                   <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
                 </a>
               </div>
@@ -120,8 +121,8 @@
           <p>日鳶連では令和２年１月31日付けで厚生労働省より<r>外国人実習生に係る監理団体の許可が承認されたことを受けて、<br>外国人技能実習生の受入事業を行っています。</p>
           <div class="C_more_btn">
             <div class="C_more_btn_block ">
-              <a href="" class="C_more_btn_block-link">
-                <p class="C_more_btn_block-link-txt">お問い合わせ</p>
+              <a href="<?php echo get_theme_file_uri() ?>/foreigner" class="C_more_btn_block-link">
+                <p class="C_more_btn_block-link-txt">詳細はこちら</p>
                 <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
               </a>
             </div>

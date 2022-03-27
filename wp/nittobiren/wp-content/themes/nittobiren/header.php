@@ -34,9 +34,8 @@
         <li id="report" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/report">活動報告</a></li>
         <li id="prefectures" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/prefectures">都道府県連一覧</a></li>
         <li id="join" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/join">入会案内</a></li>
-        <li id="support" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/support">各種支援事業</a></li>
         <li id="link" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/link">リンク</a></li>
-        <li id="evaluation" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/evaluation">とび技能者能力評価について</a></li>
+        <li id="evaluation" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/evaluation">CCUSに伴うとび技能者能力評価について</a></li>
       </ul>
     </nav>
     <div class="open-modal"><span></span><span></span><span></span></div>
@@ -48,19 +47,19 @@
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/report">活動方向</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/prefectures">都道府県連一覧</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/join">入会案内</a></li>
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/support">各種支援事業</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/link">リンク</a></li>
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/evaluation">会員ページ</a></li>
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/evaluation">講習会</a></li>
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/evaluation">登録基幹技能講習</a></li>
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/evaluation">建設労働者緊急<br>育成支援事業</a></li>
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/evaluation">建設業退職金<br>共済制度</a></li>
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/evaluation">外国人受入事業</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/evaluation">CCUSに伴う<br>とび技能者能力評価について</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="http://www.nittobiren.or.jp/kain/kaiin.html">会員ページ</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/lecture">講習会</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/kikan">登録基幹技能講習</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="https://kensetsu-welcome.com/" target="blank">建設労働者緊急<br>育成支援事業</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="https://www.kentaikyo.taisyokukin.go.jp/osirase/osirase.html" target="blank">建設業退職金<br>共済制度</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/foreigner">外国人受入事業</a></li>
         </ul>
       </nav>
     </div>
     <div class="header-content-form">
-      <a class="header-content-form-txt" href="">お問い合わせ</a>
+      <a class="header-content-form-txt" href="http://www.nittobiren.or.jp/contact3.html">お問い合わせ</a>
     </div>
   </div><!-- /header-content -->
 </header>
