@@ -753,20 +753,19 @@ about
   .main{
     background-position: 75%;
   }
+
   /* header-modal */
   .open-modal{
-    position: relative;/*ボタン内側の基点となるためrelativeを指定*/
+    position: relative;
     background:rgba(255, 255, 255, 0);
     cursor: pointer;
     width: 50px;
     height:50px;
     border-radius: 5px;
   }
-  
-  /*ボタン内側*/
   .open-modal span{
     display: inline-block;
-    transition: all .4s;/*アニメーションの設定*/
+    transition: all .4s;
     position: absolute;
     left: 14px;
     height: 3px;
@@ -794,7 +793,7 @@ about
   }
 
   .open-modal.is-active span:nth-of-type(2) {
-    opacity: 0;/*真ん中の線は透過*/
+    opacity: 0;
   }
 
   .open-modal.is-active span:nth-of-type(3){
@@ -803,9 +802,7 @@ about
     transform: translateY(-6px) rotate(45deg);
     width: 30%;
   }
-  .is-modal-active{
-    /* display: block; */
-  }
+
   .modal-sp{
     display: block;
     position: fixed;
