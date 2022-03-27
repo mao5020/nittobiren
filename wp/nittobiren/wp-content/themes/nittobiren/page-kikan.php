@@ -40,7 +40,7 @@
       <div class="kikan-corse">
         <div class="C_more_btn kikan-corse-btn">
           <div class="C_more_btn_block">
-            <a href="" class="C_more_btn_block-link">
+            <a href="<?php echo get_theme_file_uri() ?>/kikan_first" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">新規講習</p>
               <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>
@@ -48,7 +48,7 @@
         </div>
         <div class="C_more_btn kikan-corse-btn">
           <div class="C_more_btn_block">
-            <a href="" class="C_more_btn_block-link">
+            <a href="<?php echo get_theme_file_uri() ?>/kikan_second" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">更新講習</p>
               <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>
