@@ -574,6 +574,10 @@ about
   font-size: 1.4rem;
   color: #B50000;
 }
+.kikan-box-list-link{
+  color: #B50000;
+}
+
 /* kikan-second */
 .kikan_second-box{
   border:1px solid #000000;
@@ -618,6 +622,9 @@ about
 .report-box-list{
   font-size: 1.4rem;
 }
+.report-box-list-link{
+  color: #B50000;
+}
 .report-box-second{
   margin-top: 20px;
 }
@@ -643,6 +650,9 @@ about
 }
 .join-content-exp{
   margin-top: 60px;
+}
+.join-txt-link{
+  color: #B50000;
 }
 
 /* link */
