@@ -24,7 +24,7 @@
         </div>
       </div>
       <div class="member-wrapper">
-        <div class="member">
+        <div class="member-box">
           <p class="member-right"><img src="<?php echo get_theme_file_uri()?>/image/member/rijikai11.jpeg" alt=""></p>
           <div class="member-left">
             <p class="member-txt">日鳶連は、令和元年7月24日（水）神奈川県・湯河原「おんやど恵会議室」にて第2回理事会を開催した。</p>
@@ -40,7 +40,7 @@
         </div>
       </div>
       <div class="member-wrapper">
-        <div class="member">
+        <div class="member-box">
           <p class="member-right"><img src="<?php echo get_theme_file_uri()?>/image/member/soukai541.jpeg" alt=""></p>
           <div class="member-left">
             <p class="member-txt">日鳶連は令和元年5月28日（火）、自由民主会館にて第１回理事会、第54回定期総会を開催した。</p>
@@ -64,7 +64,7 @@
         </div>
       </div>
       <div class="member-wrapper">
-        <div class="member">
+        <div class="member-box">
           <p class="member-right"><img src="<?php echo get_theme_file_uri()?>/image/member/rijikai10.jpeg" alt=""></p>
           <div class="member-left">
             <p class="member-txt">日鳶連は、平成31年3月29日（金）東京都・港区「日鳶連会館地下会議室」にて第４回理事会を開催した。</p>
@@ -80,7 +80,7 @@
         </div>
       </div>
       <div class="member-wrapper">
-        <div class="member">
+        <div class="member-box">
           <p class="member-right"><img src="<?php echo get_theme_file_uri()?>/image/member/rijikai91.jpeg" alt=""></p>
           <div class="member-left">
             <p class="member-txt">日鳶連は、平成30年11月28日（水）東京都・港区「日鳶連会館地下会議室」にて第３回理事会を開催した。</p>
@@ -96,7 +96,7 @@
         </div>
       </div>
       <div class="member-wrapper">
-        <div class="member">
+        <div class="member-box">
           <p class="member-right"><img src="<?php echo get_theme_file_uri()?>/image/member/rijikai8.jpeg" alt=""></p>
           <div class="member-left">
             <p class="member-txt">日鳶連は、平成30年7月18日（水）大阪府・大阪市「ＴＫＰ新大阪ビジネスセンター」にて第２回理事会を開催した。</p>
@@ -112,7 +112,7 @@
         </div>
       </div>
       <div class="member-wrapper">
-        <div class="member">
+        <div class="member-box">
           <p class="member-right"><img src="<?php echo get_theme_file_uri()?>/image/member/soukai53.jpeg" alt=""></p>
           <div class="member-left">
             <p class="member-txt">日鳶連は平成30年５月24日（木）、自由民主会館で第１回理事会、第53回定期総会、都道府県連代表者・事務局長会議をひらいた。  </p>
