@@ -127,7 +127,7 @@
       <div class="C_more_btn">
         <div class="C_more_btn_block test">
           <a href="https://nihonkutai.or.jp/basic_technician/workshop/" class="C_more_btn_block-link" target="_blank" rel="noopener">
-            <p class="C_more_btn_block-link-txt">開催についてはこちら</p>
+            <p class="C_more_btn_block-link-txt">般社団法人日本建設躯体工事業団体連合会 開催についてはこちら</p>
             <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
           </a>
         </div>
@@ -146,8 +146,8 @@
       <ul class="kikan-box">
         <li class="kikan-box-list">受講申込書（事業主が証明したもの）：<br class="sp_br">　[ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/kikan_second/koushin_entry4.pdf" target="_blank" rel="noopener">PDF</a> ・ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/kikan_second/koushin_entry4.xlsx" download>Excel</a>　／　<a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/kikan_second/koushin_entry_ex4.pdf" target="_blank" rel="noopener">記入例</a> ] </li>
         <li class="kikan-box-list">実務経験証明書：<br class="sp_br">　[ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/kikan_second/koushin_jitumu4.pdf" target="_blank" rel="noopener">PDF</a> ・ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/kikan_second/koushin_jitumu4.xlsx" download>Excel</a> 　／　<a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/kikan_second/koushin_jitumu_ex4.pdf" target="_blank" rel="noopener">記入例</a> ] <br> - 労働安全衛生法第60条に規定する職長教育修了証の写し、または事業主以外の元請の建設業者による証明書類の写し<br> - ※ただし、修了証及び証明書類は、修了後5年以上経過しているもの </li>
-        <li class="kikan-box-list">資格証の写し（上記2．(4)の資格）</li>
         <li class="kikan-box-list">下記の資格のいずれかを有する者<br> - 1級とび技能士<br> - 1・2級建築士施工管理技師<br> - 1・2級土木施工管理技士</li>
+        <li class="kikan-box-list">レターパックプラス(修了証送付時に使用しますので送付先住所等記載して下さい)</li>
       </ul>
       <h4 class="h4_ttl">講習内容</h4>
       <ul class="kikan-box">
@@ -176,7 +176,6 @@
         <li class="kikan-box-list">※角2封筒（A4用紙用）に受講申込書等を折らずに入れ、必ず配達記録が残る方法(簡易書留、特定記録など)で郵送してください</li>
       </ul>
     </section>
-    
     <section class="sec_inner">
       <div class="kikan_second-box">
         <div class="kikan_second-box-txt">

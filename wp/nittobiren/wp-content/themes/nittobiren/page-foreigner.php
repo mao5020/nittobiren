@@ -18,7 +18,7 @@
       <div class="kikan-corse">
         <div class="C_more_btn kikan-corse-btn">
           <div class="C_more_btn_block">
-            <a href="http://www.nittobiren.or.jp/contact1.html" class="C_more_btn_block-link">
+            <a href="contact1.html" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">外国人技能実習生受入れのお問い合わせ</p>
               <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>
@@ -26,7 +26,7 @@
         </div>
         <div class="C_more_btn kikan-corse-btn">
           <div class="C_more_btn_block">
-            <a href="http://www.nittobiren.or.jp/contact2.html" class="C_more_btn_block-link">
+            <a href="contact2.html" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">外国人特定技能受入れのお問い合わせ</p>
               <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>
@@ -35,5 +35,6 @@
       </div>
     </section>
   </div><!-- /l_inner -->
+
 </div><!-- flex_inner -->
 <?php get_footer(); ?>

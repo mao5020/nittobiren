@@ -63,5 +63,6 @@
       </div>
     </section>
   </div><!-- /l_inner -->
+
 </div><!-- flex_inner -->
 <?php get_footer(); ?>

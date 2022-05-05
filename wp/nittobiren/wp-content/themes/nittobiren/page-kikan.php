@@ -23,24 +23,13 @@
           </p>
         </div>
       </div>
-      <div class="kikan-corse">
-        <div class="kikan-corse-btn"></div>
-        <div class="C_more_btn kikan-corse-btn">
-          <div class="C_more_btn_block">
-            <a href="http://www.nittobiren.or.jp/contact3.html" class="C_more_btn_block-link">
-              <p class="C_more_btn_block-link-txt">お問い合わせはこちら</p>
-              <img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img">
-            </a>
-          </div>
-        </div>
-      </div>
     </section>
     <div class="sec_inner">
       <p>登録鳶・土工基幹技能者講習会の受講資格、開催日程については下記の該当する項目をご確認ください。<p>
       <div class="kikan-corse">
         <div class="C_more_btn kikan-corse-btn">
           <div class="C_more_btn_block">
-            <a href="<?php echo get_theme_file_uri() ?>/kikan_first" class="C_more_btn_block-link">
+            <a href="kikan_first.html" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">新規講習</p>
               <img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img">
             </a>
@@ -48,7 +37,7 @@
         </div>
         <div class="C_more_btn kikan-corse-btn">
           <div class="C_more_btn_block">
-            <a href="<?php echo get_theme_file_uri() ?>/kikan_second" class="C_more_btn_block-link">
+            <a href="kikan_second.html" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">更新講習</p>
               <img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img">
             </a>

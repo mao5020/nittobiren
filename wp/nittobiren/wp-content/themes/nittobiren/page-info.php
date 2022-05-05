@@ -10,28 +10,28 @@
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2020/06/25</p>
         <span class="new-topics-item-link-category">講習関連</span>
-        <p class="new-topics-item-link-txt sp-new-topics-item-link-txt sp-new-topics-item-link-txt">登録鳶・土工基幹技能者講習の<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_first">新規講習</a>、<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_second">更新講習</a>のページを更新しました。</p>
+        <p class="new-topics-item-link-txt sp-new-topics-item-link-txt sp-new-topics-item-link-txt">登録鳶・土工基幹技能者講習の<a class="c_red" href="kikan.html_first">新規講習</a>、<a class="c_red" href="kikan.html_second">更新講習</a>のページを更新しました。</p>
       </div>
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2020/05/26</p>
         <span class="new-topics-item-link-category">講習関連</span>
-        <p class="new-topics-item-link-txt sp-new-topics-item-link-txt">登録鳶・土工基幹技能者講習の<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_first">新規講習</a>、<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_second">更新講習</a>のページを更新しました。</p>
+        <p class="new-topics-item-link-txt sp-new-topics-item-link-txt">登録鳶・土工基幹技能者講習の<a class="c_red" href="kikan.html_first">新規講習</a>、<a class="c_red" href="kikan.html_second">更新講習</a>のページを更新しました。</p>
       </div>
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2020/05/26</p>
         <span class="new-topics-item-link-category">講習関連</span>
-        <p class="new-topics-item-link-txt sp-new-topics-item-link-txt">登録鳶・土工基幹技能者更新講習熊本開催の会場が変更となりました。<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_second">更新</a></p>
+        <p class="new-topics-item-link-txt sp-new-topics-item-link-txt">登録鳶・土工基幹技能者更新講習熊本開催の会場が変更となりました。<a class="c_red" href="kikan.html_second">更新</a></p>
       </div>
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2020/04/27</p>
         <span class="new-topics-item-link-category">講習関連</span>
-        <p class="new-topics-item-link-txt sp-new-topics-item-link-txt">登録鳶・土工基幹技能者講習６月東京開催の会場が変更となりました。<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_first">新規</a>・<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_second">更新</a></p>
+        <p class="new-topics-item-link-txt sp-new-topics-item-link-txt">登録鳶・土工基幹技能者講習６月東京開催の会場が変更となりました。<a class="c_red" href="kikan.html_first">新規</a>・<a class="c_red" href="kikan.html_second">更新</a></p>
       </div>
     
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2020/04/03</p>
         <span class="new-topics-item-link-category">講習関連</span>
-        <p class="new-topics-item-link-txt sp-new-topics-item-link-txt">登録鳶・土工基幹技能者講習６月東京開催の会場が変更となりました。<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_first">新規</a>・<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_second">更新</a></p>
+        <p class="new-topics-item-link-txt sp-new-topics-item-link-txt">登録鳶・土工基幹技能者講習６月東京開催の会場が変更となりました。<a class="c_red" href="kikan.html_first">新規</a>・<a class="c_red" href="kikan.html_second">更新</a></p>
       </div>
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2020/03/27</p>
@@ -76,7 +76,7 @@
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2020/03/18</p>
         <span class="new-topics-item-link-category">講習関連</span>
-        <p class="new-topics-item-link-txt sp-new-topics-item-link-txt">登録鳶・土工基幹技能者講習の<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_first">新規講習</a>、<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_second">更新講習</a>のページを更新しました。</p></p>
+        <p class="new-topics-item-link-txt sp-new-topics-item-link-txt">登録鳶・土工基幹技能者講習の<a class="c_red" href="kikan.html_first">新規講習</a>、<a class="c_red" href="kikan.html_second">更新講習</a>のページを更新しました。</p></p>
       </div>
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2020/03/11</p>
@@ -106,12 +106,12 @@
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2019/12/05</p>
         <span class="new-topics-item-link-category">その他</span>
-        <p class="new-topics-item-link-txt sp-new-topics-item-link-txt"><a class="c_red" href="<?php echo get_theme_file_uri() ?>/report">活動報告</a>のページを更新しました。</p>
+        <p class="new-topics-item-link-txt sp-new-topics-item-link-txt"><a class="c_red" href="report.html">活動報告</a>のページを更新しました。</p>
       </div>
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2019/11/06</p>
         <span class="new-topics-item-link-category">講習関連</span>
-        <p class="new-topics-item-link-txt sp-new-topics-item-link-txt">登録鳶・土工基幹技能者講習の<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_first">新規講習</a>、<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_second">更新講習</a>のページを更新しました。</p></p>
+        <p class="new-topics-item-link-txt sp-new-topics-item-link-txt">登録鳶・土工基幹技能者講習の<a class="c_red" href="kikan.html_first">新規講習</a>、<a class="c_red" href="kikan.html_second">更新講習</a>のページを更新しました。</p></p>
       </div>
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2019/09/05</p>
@@ -126,7 +126,7 @@
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2019/04/27</p>
         <span class="new-topics-item-link-category">講習関連</span>
-        <p class="new-topics-item-link-txt sp-new-topics-item-link-txt">登録鳶・土工基幹技能者講習の<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_first">新規講習</a>、<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_second">更新講習</a>のページを更新しました。</p></p>
+        <p class="new-topics-item-link-txt sp-new-topics-item-link-txt">登録鳶・土工基幹技能者講習の<a class="c_red" href="kikan.html_first">新規講習</a>、<a class="c_red" href="kikan.html_second">更新講習</a>のページを更新しました。</p></p>
       </div>
     </section>
   </div>

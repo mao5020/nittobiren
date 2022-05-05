@@ -21,7 +21,7 @@
         <div class="kikan-corse-btn"></div>
         <div class="C_more_btn kikan-corse-btn">
           <div class="C_more_btn_block lecture-btn">
-            <a href="http://www.nittobiren.or.jp/contact3.html" class="C_more_btn_block-link">
+            <a href="contact3.html" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">講習会についてのお問い合わせ</p>
               <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>
@@ -63,7 +63,7 @@
               </a>
             </div>
           </div>
-          <h2 class="h2_ttl">講習日程</h2>
+          <!-- <h2 class="h2_ttl">講習日程</h2>
           <div class="lecture-modal-table">
             <p class="lecture-modal-table-txt">北海道</p>
             <p class="lecture-modal-table-txt">帯広市</p>
@@ -73,7 +73,7 @@
             <p class="lecture-modal-table-txt">岡山県</p>
             <p class="lecture-modal-table-txt">倉敷市</p>
             <p class="lecture-modal-table-txt">2月</p>
-          </div>
+          </div> -->
         </div>
       </div>
       <div class="l_chart lecture-modal-open" data-target="lecture-modal02">
@@ -100,12 +100,12 @@
               </a>
             </div>
           </div>
-          <h2 class="h2_ttl">講習日程</h2>
+          <!-- <h2 class="h2_ttl">講習日程</h2>
           <div class="lecture-modal-table">
             <p class="lecture-modal-table-txt">岡山県</p>
             <p class="lecture-modal-table-txt">倉敷市</p>
             <p class="lecture-modal-table-txt">2月</p>
-          </div>
+          </div> -->
         </div>
       </div>
       <div class="l_chart lecture-modal-open" data-target="lecture-modal03">
@@ -132,12 +132,12 @@
               </a>
             </div>
           </div>
-          <h2 class="h2_ttl">講習日程</h2>
+          <!-- <h2 class="h2_ttl">講習日程</h2>
           <div class="lecture-modal-table">
             <p class="lecture-modal-table-txt">北海道</p>
             <p class="lecture-modal-table-txt">帯広市</p>
             <p class="lecture-modal-table-txt">2月</p>
-          </div>
+          </div> -->
         </div>
       </div>
       <div class="l_chart lecture-modal-open" data-target="lecture-modal04">
@@ -164,12 +164,12 @@
               </a>
             </div>
           </div>
-          <h2 class="h2_ttl">講習日程</h2>
+          <!-- <h2 class="h2_ttl">講習日程</h2>
           <div class="lecture-modal-table">
             <p class="lecture-modal-table-txt">北海道</p>
             <p class="lecture-modal-table-txt">帯広市</p>
             <p class="lecture-modal-table-txt">2月</p>
-          </div>
+          </div> -->
         </div>
       </div>
       <div class="l_chart lecture-modal-open" data-target="lecture-modal05">
@@ -222,12 +222,12 @@
               </a>
             </div>
           </div>
-          <h2 class="h2_ttl">講習日程</h2>
+          <!-- <h2 class="h2_ttl">講習日程</h2>
           <div class="lecture-modal-table">
             <p class="lecture-modal-table-txt">北海道</p>
             <p class="lecture-modal-table-txt">帯広市</p>
             <p class="lecture-modal-table-txt">2月</p>
-          </div>
+          </div> -->
         </div>
       </div>
       <div class="l_chart lecture-modal-open" data-target="lecture-modal07">
@@ -268,7 +268,7 @@
       </div>
       <div class="l_chart lecture-modal-open" data-target="lecture-modal08">
         <p class="lecture-num l_chart_row">01</p>
-        <p class="lecture-num-txt l_chart_data">足場の組立て等作業主任者技能講習</p>
+        <p class="lecture-num-txt l_chart_data">玉掛け技能講習</p>
         <img class="lecture-num-img" src="<?php echo get_theme_file_uri()?>/image/common/arrow.svg" alt="">
       </div>
       <div id="lecture-modal08" class="lecture-modal">
@@ -290,12 +290,12 @@
               </a>
             </div>
           </div>
-          <h2 class="h2_ttl">講習日程</h2>
+          <!-- <h2 class="h2_ttl">講習日程</h2>
           <div class="lecture-modal-table">
             <p class="lecture-modal-table-txt">北海道</p>
             <p class="lecture-modal-table-txt">帯広市</p>
             <p class="lecture-modal-table-txt">3月</p>
-          </div>
+          </div> -->
         </div>
       </div>
       <div class="l_chart lecture-modal-open" data-target="lecture-modal09">
@@ -332,7 +332,7 @@
       </div>
       <div class="l_chart lecture-modal-open" data-target="lecture-modal10">
         <p class="lecture-num l_chart_row">03</p>
-        <p class="lecture-num-txt l_chart_data">足場の組立て等作業主任者技能講習</p>
+        <p class="lecture-num-txt l_chart_data">高所作業者運転技能講習</p>
         <img class="lecture-num-img" src="<?php echo get_theme_file_uri()?>/image/common/arrow.svg" alt="">
       </div>
       <div id="lecture-modal10" class="lecture-modal">
