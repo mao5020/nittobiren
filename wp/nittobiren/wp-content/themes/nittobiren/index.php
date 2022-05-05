@@ -33,6 +33,14 @@
             <p class="new-topics-item-link-txt">登録鳶・土工基幹技能者更新講習熊本開催の会場が変更となりました。<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_second">更新</a></p>
           </div>
         </div>
+        <div class="C_more_btn">
+          <div class="C_more_btn_block E_more_btn_right">
+            <a href="<?php echo get_theme_file_uri() ?>/info" class="C_more_btn_block-link">
+              <p class="C_more_btn_block-link-txt">View All</p>
+              <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+            </a>
+          </div>
+        </div>
       </section><!-- /new -->
       <section class="document sec_inner">
         <h2 class="document-ttl h2_ttl">各省庁発表資料等</h2>
@@ -48,14 +56,6 @@
             <h2 class="h2_ttl">技能検定、各種講習</h2>
             <h3 class="h3_ttl">各種技能講習会について</h3>
             <p class="course-one-txt">日鳶連では、各種作業主任者技能講習、 <br>及び就業制限に基づく技能講習を全国で開催し、数多くの作業主任者を排出しています。</p>
-            <div class="C_more_btn">
-              <div class="C_more_btn_block E_more_btn_right">
-                <a href="<?php echo get_theme_file_uri() ?>/info" class="C_more_btn_block-link">
-                  <p class="C_more_btn_block-link-txt">View All</p>
-                  <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
-                </a>
-              </div>
-            </div>
           </div>
           <div class="course-two">
             <h3 class="h3_ttl">登録鳶・土工基幹技能者講習</h3>
