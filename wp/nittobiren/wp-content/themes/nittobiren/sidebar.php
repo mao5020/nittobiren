@@ -8,13 +8,13 @@
       <div class="menu-card">
         <a class="menu-card-link" href="<?php echo get_theme_file_uri() ?>/lecture">
           <img class="menu-card-link-icon" src="<?php echo get_theme_file_uri()?>/image/common/card_02.png" alt="" width="44px" height="40px">
-          <p class="menu-card-link-txt">講習会</p>
+          <p class="menu-card-link-txt">各種技能講習会</p>
         </a>
       </div>
       <div class="menu-card">
         <a class="menu-card-link" href="<?php echo get_theme_file_uri() ?>/kikan">
           <img class="menu-card-link-icon" src="<?php echo get_theme_file_uri()?>/image/common/card_03.png" alt="" width="44px" height="40px">
-          <p class="menu-card-link-txt">登録基幹技能講習</p>
+          <p class="menu-card-link-txt">登録鳶・土工基幹<br>技能者講習</p>
         </a>
       </div>
       <div class="menu-card">
