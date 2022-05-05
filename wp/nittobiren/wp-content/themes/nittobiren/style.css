@@ -652,33 +652,6 @@ about
 .report-box-second{
   margin-top: 20px;
 }
-/* join */
-.join-content{
-  display: flex;
-}
-.join-content-left-number{
-  color: #B50000;
-  font-size: 7rem;
-  padding-right: 20px;
-}
-.under-line{
-  width: 3px;
-  height: 150px;
-  background-color: #B50000;
-  margin-left: 20px;
-}
-.join-content-txt{
-  display: flex;
-  align-items: center;
-  margin-top: 60px;
-}
-.join-content-exp{
-  margin-top: 60px;
-}
-.join-txt-link{
-  color: #B50000;
-}
-
 /* link */
 .link-content{
   margin-top: 20px;
