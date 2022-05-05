@@ -5,14 +5,8 @@
 <div class="flex_inner">
   <?php get_sidebar();?>
   <div class="l_inner">
-    <section class="report sec_inner">
-      <h2 class="h2_ttl">技能五輪</h2>
-      <p class="report-txt">第５９回技能五輪全国大会の実施結果</p>
-      <p><img class="report-img" src="<?php echo get_theme_file_uri()?>/image/report/技能五輪.png" alt=""></p>
-      <p class="report-img-txt">第５９回技能五輪全国大会出場選手</p>
-    </section>
-    
     <div class="sec_inner">
+      <h2 class="h2_ttl">技能五輪</h2>
       <p class="report-content-txt">日鳶連では、第５９回技能五輪全国大会「とび職種」競技に協力しました。</p>
       <div class="report-content">
         <div class="report-content-left">
