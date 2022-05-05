@@ -554,6 +554,9 @@ about
 }
 
 /* kikan */
+.kikan-table{
+  margin-bottom: 80px;
+}
 .kikan-content{
   display: flex;
   justify-content: space-between;

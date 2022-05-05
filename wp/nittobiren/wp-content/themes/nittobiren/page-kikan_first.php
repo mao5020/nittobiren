@@ -7,7 +7,48 @@
   <div class="l_inner">
     <section class="sec_inner">
       <h2 class="h2_ttl">新規講習</h2>
-      <h4 class="h4_ttl">開催日程</h4>
+      <h4 class="h4_ttl">2021年度開催日程</h4>
+      <div class="sp-scroll kikan-table">
+        <table class="C_kikan-table" border="1">
+          <tbody>
+            <tr>
+              <td> 開催日</td>
+              <td>開催地</td>
+              <td>定員</td>
+              <td>会場</td>
+              <td>住所</td>
+              <td>申込期間</td>
+            </tr>
+            <tr>
+              <td rowspan="4" >2022年<br>2月12日(土)～13日(日)</td>
+              <td>山形</td>
+              <td>40</td>
+              <td><a href="http://www3.ic-net.or.jp/~smcp-1/access.html">寒河江市技術交流プラザ</a></td>
+              <td>寒河江市中央工業団地153-1</td>
+              <td rowspan="4">2021年3月1日(月)～2022年1月21日(金)</td>
+            </tr>
+            <tr>
+              <td>大阪</td>
+              <td>40</td>
+              <td><a href="https://www.josansi.org/map.html">大阪府助産師会館</a></td>
+              <td>大阪市天王寺区細工谷１丁目１番５号</td>
+            </tr>
+            <tr>
+              <td>鳥取</td>
+              <td>40</td>
+              <td><a href="http://tottori-shinkoukai.or.jp/fukubun-access.html">鳥取福祉文化会館</a></td>
+              <td> 鳥取市西町2丁目311番地</td>
+            </tr>
+            <tr>
+              <td>福岡</td>
+              <td>40</td>
+              <td><a href="http://www.joho-fukuoka.or.jp/hall/map/index.html">福岡中小企業振興センター</a></td>
+              <td>福岡県博多区吉塚本町9-15</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <h4 class="h4_ttl">2022年度開催日程</h4>
       <div class="sp-scroll">
         <table class="C_kikan-table" border="1">
           <tbody>
