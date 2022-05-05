@@ -8,7 +8,7 @@
     <section class="sec_inner">
       <h2 class="h2_ttl">会議関連報告</h2>
       <div class="member-wrapper">
-        <div class="member">
+        <div class="member-box">
           <p class="member-right"><img src="<?php echo get_theme_file_uri()?>/image/member/rijikai111.jpg" alt=""></p>
           <div class="member-left">
             <p class="member-txt">日鳶連は、令和元年11月27日（水）東京都・港区「日鳶連会館地下会議室」にて第3回理事会を開催した。</p>

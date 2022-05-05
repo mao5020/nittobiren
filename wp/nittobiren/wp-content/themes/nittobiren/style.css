@@ -856,7 +856,7 @@ about
 .member-wrapper{
   margin-bottom: 120px;
 }
-.member{
+.member-box{
   display: flex;
   flex-direction:row-reverse;
   justify-content: space-between;
