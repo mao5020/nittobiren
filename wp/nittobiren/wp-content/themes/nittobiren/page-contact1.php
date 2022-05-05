@@ -19,7 +19,7 @@
     <div class="contact-form-txt">
       <p>「※」は、必須項目です。</p>
     </div>
-    <?php echo do_shortcode('[contact-form-7 id="61" title="contact1"]'); ?>  
+    <?php echo do_shortcode('[contact-form-7 id="43" title="contact1"]'); ?>  
   </div>
 </div>
 <?php get_footer(); ?>
