@@ -32,9 +32,6 @@
         <div class="link-content">
           <a class="link-content-img" href="http://www.kensetsukokuho.or.jp/" target="_blank" rel="noopener"><img src="<?php echo get_theme_file_uri()?>/image/link/kokuho.jpg" alt="建設国保HP"></a>
         </div>
-        <div class="link-content">
-          <a class="link-content-img" href="https://www.daiwast.co.jp/" target="_blank" rel="noopener"><img src="<?php echo get_theme_file_uri()?>/image/link/daiwa.jpg" alt="大和銅管"></a>
-        </div>
       </div>
     </section>
     

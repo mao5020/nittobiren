@@ -117,11 +117,12 @@
         <p class="kikan-table-note-txt">※開催予定、人数により会場が変更される場合がございます。ホームページにてご確認下さい。</p>
         <p class="kikan-table-note-txt">※受講申込者数が10名未満の場合は開催中止となる場合があります。</p>
         <p class="kikan-table-note-txt">※定員になり次第受付終了となります。</p>
+        <p class="kikan-table-note-txt">※受講申込状況により追加、または中止となる場合があります。この場合はHPや関係者に連絡します。</p>
       </div>
       <div class="C_more_btn">
         <div class="C_more_btn_block test">
           <a href="https://nihonkutai.or.jp/basic_technician/workshop/" class="C_more_btn_block-link" target="_blank" rel="noopener">
-            <p class="C_more_btn_block-link-txt">開催についてはこちら</p>
+            <p class="C_more_btn_block-link-txt">一般社団法人日本建設躯体工事業団体連合会　開催についてはこちら</p>
             <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
           </a>
         </div>
@@ -131,27 +132,36 @@
       <h4 class="h4_ttl">受講資格</h4>
       <p class="activities-txt">下記条件を全てを充たす必要がある。</p>
       <ul class="kikan-box">
-        <li class="kikan-box-list">10年以上のとび・土工工事の実務経験を有する者</li>
-        <li class="kikan-box-list">8年以上のとび・土工工事の職長経験のある者</li>
-        <li class="kikan-box-list">下記の条件を充たしている者<br> - 安衛法第60条に基づき安衛則第40条第2項で定める職長教育を受講し、修了後5年以上経過している者</li>
-        <li class="kikan-box-list">下記の資格のいずれかを有する者<br> - 1級とび技能士<br> - 1・2級建築士施工管理技師<br> - 1・2級土木施工管理技士</li>
+        <li class="kikan-box-list">(1)10年以上のとび・土工工事の実務経験を有する者</li>
+        <li class="kikan-box-list">(2)8年以上のとび・土工工事の職長経験のある者</li>
+        <li class="kikan-box-list">(3)下記の条件を充たしている者<br> - 安衛法第60条に基づき安衛則第40条第2項で定める職長教育を受講し、修了後5年以上経過している者</li>
+        <li class="kikan-box-list">(4)下記の資格のいずれかを有する者<br> - 1級とび技能士<br> - 1・2級建築士施工管理技師<br> - 1・2級土木施工管理技士</li>
       </ul>
-      <h4 class="h4_ttl">開催受講申込提出書類</h4>
+      <h4 class="h4_ttl">受講申込提出書類</h4>
       <ul class="kikan-box">
-        <li class="kikan-box-list">受講申込書（事業主が証明したもの）：　<br class="sp_br">[ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/kikan_first/kikan_entry4.pdf" target="_blank" rel="noopener">PDF</a> ・ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/kikan_first/kikan_entry4.xlsx" download>Excel</a>　／　<a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/kikan_first/kikan_entry_ex4.pdf" target="_blank" rel="noopener">記入例</a> ] </li>
-        <li class="kikan-box-list">実務経験証明書：　<br class="sp_br">[ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/kikan_first/kikan_jitumu3.pdf" target="_blank" rel="noopener">PDF</a> ・ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/kikan_first/kikan_jitumu3.xlsx" download>Excel</a> 　／　<a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/kikan_first/kikan_jitumu_ex3.pdf" target="_blank" rel="noopener">記入例</a> ] <br> - 労働安全衛生法第60条に規定する職長教育修了証の写し、または事業主以外の元請の建設業者による証明書類の写し<br> - ※ただし、修了証及び証明書類は、修了後5年以上経過しているもの </li>
-        <li class="kikan-box-list">資格証の写し（上記2．(4)の資格）</li>
-        <li class="kikan-box-list">下記の資格のいずれかを有する者<br> - 1級とび技能士<br> - 1・2級建築士施工管理技師<br> - 1・2級土木施工管理技士</li>
+        <li class="kikan-box-list">(1)受講申込書（事業主が証明したもの）：　<br class="sp_br">[ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/kikan_first/kikan_entry4.pdf" target="_blank" rel="noopener">PDF</a> ・ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/kikan_first/kikan_entry4.xlsx" download>Excel</a>　／　<a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/kikan_first/kikan_entry_ex4.pdf" target="_blank" rel="noopener">記入例</a> ] </li>
+        <li class="kikan-box-list">(2)実務経験証明書：　<br class="sp_br">[ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/kikan_first/kikan_jitumu3.pdf" target="_blank" rel="noopener">PDF</a> ・ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/kikan_first/kikan_jitumu3.xlsx" download>Excel</a> 　／　<a class="kikan-box-list-link" href="<?php echo get_theme_file_uri()?>/image/kikan_first/kikan_jitumu_ex3.pdf" target="_blank" rel="noopener">記入例</a> ]</li>
+        <li class="kikan-box-list">(3)労働安全衛生法第60条に規定する職長教育修了証（上記2．(3)イ）の写し、<br>　または事業主以外の元請の建設業者による証明書類の写し<br>　※ただし、修了証及び証明書類は、修了後5年以上経過しているもの</li>
+        <li class="kikan-box-list">(4)資格証の写し（上記2．(4)の資格）</li>
+        <li class="kikan-box-list">(5)顔写真2枚（タテ30mm・ヨコ24mm、上半身無帽、無背景で鮮明なもの）<br>　※申請書に貼り付ける以外に1枚を袋に入れる<br>　※写真裏には必ず所属会社及び氏名を記入</li>
+        <li class="kikan-box-list">(6)レターパックプラス(修了証送付時に使用しますので送付先住所等記載して下さい)</li>
       </ul>
       <h4 class="h4_ttl">講習内容</h4>
       <ul class="kikan-box">
         <li class="kikan-box-list">講義（10時間）　／　修了試験（45分）</li>
       </ul>
+      <h4 class="h4_ttl">申請手数料</h4>
+      <ul class="kikan-box">
+        <li class="kikan-box-list">35,000円 + 消費税10％</li>
+        <li class="kikan-box-list">※申請手数料には教材費が含まれる。</li>
+        <li class="kikan-box-list">※振込手数料は振込人の負担。</li>
+        <li class="kikan-box-list">※申請手数料の領収書は発行しない。（振込票にて代用）</li>
+        <li class="kikan-box-list">※欠席・キャンセルの場合、申請手数料は返金しない。</li>
+      </ul>
       <h4 class="h4_ttl">振込先口座</h4>
       <ul class="kikan-box">
         <li class="kikan-box-list">三井住友銀行　日比谷支店（店番632） </li>
         <li class="kikan-box-list">普通預金　口座番号 7100898</li>
-        <li class="kikan-box-list">資格証の写し（上記2．(4)の資格）</li>
         <li class="kikan-box-list">名義　一般社団法人日本鳶工業連合会</li>
       </ul>
       <h4 class="h4_ttl">受講票送付</h4>

@@ -54,8 +54,8 @@
         <div class="course-left">
           <div class="course-one">
             <h2 class="h2_ttl">技能検定、各種講習</h2>
-            <h3 class="h3_ttl">講習会について</h3>
-            <p class="course-one-txt">日鳶連では、各種作業主任者技能講習、 <br>及び玉掛け技能講習を全国で開催し、数多くの作業主任者を育成しています。</p>
+            <h3 class="h3_ttl">各種技能講習会について</h3>
+            <p class="course-one-txt">日鳶連では、各種作業主任者技能講習、 <br>及び就業制限に基づく技能講習を全国で開催し、数多くの作業主任者を排出しています。</p>
             <div class="C_more_btn">
               <div class="C_more_btn_block ">
                 <a href="<?php echo get_theme_file_uri() ?>/lecture" class="C_more_btn_block-link">
@@ -66,7 +66,7 @@
             </div>
           </div>
           <div class="course-two">
-            <h3 class="h3_ttl">登録鳶基幹技能者講習</h3>
+            <h3 class="h3_ttl">登録鳶・土工基幹技能者講習</h3>
             <p class="course-two-txt">登録鳶・土工基幹技能者は、 建設業法に基づき国土交通省により認定された資格です。</p>
             <div class="C_more_btn">
               <div class="C_more_btn_block ">

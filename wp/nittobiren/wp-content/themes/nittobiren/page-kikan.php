@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 <div class="page_cover">
-  <h1 class="page_ttl">登録基幹技能講習</h1>
+  <h1 class="page_ttl">登録鳶・土工基幹技能者講習</h1>
 </div>
 <?php get_template_part('p-header'); ?>
 </body>
@@ -21,17 +21,6 @@
             経営事項審査の加点（3点）対象とされます。<br>
             ※特例講習は平成24年度で終了しました。
           </p>
-        </div>
-      </div>
-      <div class="kikan-corse">
-        <div class="kikan-corse-btn"></div>
-        <div class="C_more_btn kikan-corse-btn">
-          <div class="C_more_btn_block">
-            <a href="http://www.nittobiren.or.jp/contact3.html" class="C_more_btn_block-link">
-              <p class="C_more_btn_block-link-txt">お問い合わせはこちら</p>
-              <img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img">
-            </a>
-          </div>
         </div>
       </div>
     </section>
