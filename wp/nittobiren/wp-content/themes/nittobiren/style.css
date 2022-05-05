@@ -52,9 +52,10 @@ component
 }
 .sec_inner{
   margin-bottom: 100px;
-
 }
-
+.single_inner {
+  margin: 70px 70px 0 70px;
+}
 /* component */
 .c_red{
   color: #B50000;
@@ -763,6 +764,118 @@ about
 .lecture-modal-close::after {
 	transform: rotate(45deg);
 }
+
+  /* ------------------------------ 
+  contact
+ ------------------------------ */
+
+.contact{
+  text-align: center;
+}
+.contact-ttl{
+  display: inline-block;
+  font-size: 26px;
+  border-bottom:solid 5px #B50000;
+  padding: 0 30px;
+}
+.contact-txt{
+  margin: 30px 0;
+}
+.contact-address{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #B50000;
+  color: #fff;
+  border-radius: 10px;
+  width: 35%;
+  height: 130px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.contact-address-box-tel{
+  font-size: 26px;
+}
+.contact-address-box-num{
+  font-size: 46px;
+}
+
+.contact-form-inner{
+  width: 90%;
+  margin: 0 auto;
+  background-color: rgba(255, 255, 255, 0.5);
+  margin-bottom: 60px;
+  border-radius: 20px;
+}
+.contact-form-txt{
+  padding:50px 0 20px;
+  text-align: center;
+  color: #B50000;
+}
+.formTable{
+  text-align: left;
+  margin: 0 auto;
+  font-size: 20px;
+}
+.wpcf7-form p{
+  text-align: center;
+}
+.formTable button,
+.formTable input,
+.formTable select,
+.formTable textarea{
+  background-color: #fff;
+  border: solid 1px #70707080;
+}
+.formTable td,
+.formTable th{
+  padding-top: 30px;
+}
+.formTable th{
+  padding-right:20px;
+}
+.contact-content{
+  vertical-align: baseline;
+}
+.contact-submit{
+  display: inline-block;
+  color: #fff;
+  background-color: #000;
+  font-size: 26px;
+  padding: 15px 130px;
+  margin-bottom: 70px;
+}
+.contact-bg{
+  background-image: linear-gradient(to top, transparent 0%, transparent 5%, #fff 100%), url(image/contact/contact-bg.png);
+  background-size:cover;
+  padding-bottom: 60px;
+}
+  /* ------------------------------ 
+  member
+ ------------------------------ */
+.member-wrapper{
+  margin-bottom: 120px;
+}
+.member{
+  display: flex;
+  flex-direction:row-reverse;
+  justify-content: space-between;
+}
+.member-left{
+  width: 60%;
+}
+.member-right{
+  width: 30%;
+}
+.member-paper{
+  margin-bottom: 120px;
+}
+.member-paper-list{
+  color: #B50000;
+}
+.wpcf7-response-output{
+  display: none;
+}
 @media all and (max-width: 480px) { 
   /* ------------------------------ 
   base
@@ -790,6 +903,9 @@ about
   .flex_inner{
     display: block;
     margin: 0;
+  }
+  .single_inner{
+    margin: 20px 20px 0 20px;
   }
 
   .h2_ttl{
@@ -1180,5 +1296,83 @@ about
   }
   .new-topics-item{
     height: auto;
+  }
+  /* ------------------------------ 
+  contact
+  ------------------------------ */
+  .contact-ttl{
+    font-size: 5.333vw;
+  }
+  .contact-txt{
+    font-size: 4vw;
+  }
+  .contact-address-box-num{
+    font-size: 6.933vw;
+  }
+  .contact-address-box-tel{
+    font-size: 4.8vw;
+  }
+  .contact-address-box-day{
+    font-size: 3.733vw;
+  }
+  .contact-address {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #B50000;
+    color: #fff;
+    border-radius: 2.667vw;
+    width: 100%;
+    height: 26.667vw;
+    margin: 0 auto;
+    margin-top: 5.333vw;
+  }
+  .contact-form-inner{
+    width: 100%;
+    margin: 0;
+    border-radius: 0%;
+  }
+  .contact-form-txt{
+    padding: 5.333vw 0 2.667vw;
+  }
+  .formTable{
+    font-size: 4vw;
+    width: 90%;
+  }
+  .formTable th,
+  .formTable td{
+    width:100%;
+    display:block;
+    padding-top: 2.667vw;
+  }
+  .formTable input,
+  .formTable textarea{
+    width: 100%;
+  }
+  .contact-check input{
+    width: 10%;
+  }
+  .contact-submit{
+    font-size: 5.333vw;
+  }
+  .bg-box-img{
+    height: 1100px;
+  }
+  /* ------------------------------ 
+  member
+  ------------------------------ */
+  .member{
+    display: block;
+  }
+  .member-left{
+    width: 80%;
+  }
+  .member-wrapper{
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+    border-bottom: solid 1px #dcdcdc;
+  }
+  .member-paper{
+    margin-bottom: 60px;
   }
 }

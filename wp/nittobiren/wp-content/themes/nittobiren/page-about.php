@@ -4,7 +4,7 @@
 </div>
 <div class="flex_inner">
   <?php get_sidebar();?>
-  <div class="l_inner">
+  <div class="l_inner">  
     <section class="exp sec_inner">
       <h2 class="h2_ttl">一般社団法人 日本鳶工業連合会</h2>
       <p class="exp-txt">日鳶連は、とび・土工工事業者により組織化された全国団体で、 昭和41年 5月に建設省（現：国土交通省）から許可を受けた公益法人です。 <br>個々の企業では困難なことも、力を合わせれば可能になります。 <br>日鳶連は全国のとび、土工工事業者の強い要望と期待を担って、諸事業を推進しています。</p>

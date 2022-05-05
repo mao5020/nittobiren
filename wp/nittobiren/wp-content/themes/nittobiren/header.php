@@ -33,8 +33,8 @@
         <li id="about" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/about">概要</a></li>
         <li id="report" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/report">活動報告</a></li>
         <li id="prefectures" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/prefectures">都道府県連一覧</a></li>
-        <li id="join" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/join">入会案内</a></li>
         <li id="link" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/link">リンク</a></li>
+        <li id="foreigner" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/foreigner">外国人受入事業</a></li>
         <li id="evaluation" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/evaluation">CCUSに伴うとび技能者能力評価について</a></li>
       </ul>
     </nav>
@@ -46,7 +46,6 @@
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/about">概要</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/report">活動報告</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/prefectures">都道府県連一覧</a></li>
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/join">入会案内</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/link">リンク</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/evaluation">CCUSに伴う<br>とび技能者能力評価について</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/member">会員ページ</a></li>
@@ -59,7 +58,7 @@
       </nav>
     </div>
     <div class="header-content-form">
-      <a class="header-content-form-txt" href="http://www.nittobiren.or.jp/contact3.html">お問い合わせ</a>
+      <a class="header-content-form-txt" href="<?php echo get_theme_file_uri() ?>/contact3">お問い合わせ</a>
     </div>
   </div><!-- /header-content -->
 </header>
