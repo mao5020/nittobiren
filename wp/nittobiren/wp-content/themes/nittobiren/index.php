@@ -12,7 +12,7 @@
     <div class="l_inner">
         <section class="notice sec_inner">
           <h2 class="notice-ttl h2_ttl">お知らせ</h2>
-          <p class="notice-txt">日鳶連では建設分野における外国人の受け入れ事業を行なっています。<br>詳しくは<a href="foreigner.html" class="notice-ttl-link">こちら</a>をご覧ください。</p>
+          <p class="notice-txt">日鳶連では建設分野における外国人の受け入れ事業を行なっています。<br>詳しくは<a href="<?php echo get_theme_file_uri() ?>/foreigner" class="notice-ttl-link">こちら</a>をご覧ください。</p>
         </section>
         <section class="new sec_inner">
           <h2 class="new-ttl h2_ttl">新着情報</h2>
@@ -20,21 +20,21 @@
             <div class="new-topics-item">
               <p class="new-topics-item-link-date">2020/06/25</p>
               <span class="new-topics-item-link-category">講習関連</span>
-              <p class="new-topics-item-link-txt">登録鳶・土工基幹技能者講習の<a class="c_red" href="kikan.html_first">新規講習</a>、<a class="c_red" href="kikan.html_second">更新講習</a>のページを更新しました。</p>
+              <p class="new-topics-item-link-txt">登録鳶・土工基幹技能者講習の<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan.html_first">新規講習</a>、<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_second">更新講習</a>のページを更新しました。</p>
             </div>
             <div class="new-topics-item">
               <p class="new-topics-item-link-date">2020/05/26</p>
               <span class="new-topics-item-link-category">講習関連</span>
-              <p class="new-topics-item-link-txt">登録鳶・土工基幹技能者講習の<a class="c_red" href="kikan.html_first">新規講習</a>、<a class="c_red" href="kikan.html_second">更新講習</a>のページを更新しました。</p>
+              <p class="new-topics-item-link-txt">登録鳶・土工基幹技能者講習の<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_first">新規講習</a>、<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_second">更新講習</a>のページを更新しました。</p>
             </div>
             <div class="new-topics-item">
               <p class="new-topics-item-link-date">2020/05/26</p>
               <span class="new-topics-item-link-category">講習関連</span>
-              <p class="new-topics-item-link-txt">登録鳶・土工基幹技能者更新講習熊本開催の会場が変更となりました。<a class="c_red" href="kikan.html_second">更新</a></p>
+              <p class="new-topics-item-link-txt">登録鳶・土工基幹技能者更新講習熊本開催の会場が変更となりました。<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_second">更新</a></p>
             </div>
             <div class="C_more_btn">
               <div class="C_more_btn_block E_more_btn_right">
-                <a href="info.html" class="C_more_btn_block-link">
+                <a href="<?php echo get_theme_file_uri() ?>/info" class="C_more_btn_block-link">
                   <p class="C_more_btn_block-link-txt">View All</p>
                   <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
                 </a>
@@ -56,7 +56,7 @@
               <p class="course-one-txt">日鳶連では、各種作業主任者技能講習、 <br>及び玉掛け技能講習を全国で開催し、数多くの作業主任者を育成しています。</p>
               <div class="C_more_btn">
                 <div class="C_more_btn_block ">
-                  <a href="lecture.html" class="C_more_btn_block-link">
+                  <a href="<?php echo get_theme_file_uri() ?>/lecture" class="C_more_btn_block-link">
                     <p class="C_more_btn_block-link-txt">詳細こちら</p>
                     <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
                   </a>
@@ -68,7 +68,7 @@
               <p class="course-two-txt">登録鳶・土工基幹技能者は、 建設業法に基づき国土交通省により認定された資格です。</p>
               <div class="C_more_btn">
                 <div class="C_more_btn_block ">
-                  <a href="kikan.html" class="C_more_btn_block-link">
+                  <a href="<?php echo get_theme_file_uri() ?>/kikan" class="C_more_btn_block-link">
                     <p class="C_more_btn_block-link-txt">講習を受ける</p>
                     <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
                   </a>
@@ -101,7 +101,7 @@
               <h3 class="h3_ttl">CCUSに伴うとび技能者能力評価について</h3>
               <div class="C_more_btn">
                 <div class="C_more_btn_block ">
-                  <a href="evaluation.html" class="C_more_btn_block-link">
+                  <a href="<?php echo get_theme_file_uri() ?>/evaluation" class="C_more_btn_block-link">
                     <p class="C_more_btn_block-link-txt">詳細はこちら</p>
                     <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
                   </a>
@@ -119,7 +119,7 @@
             <p>日鳶連では令和２年１月31日付けで厚生労働省より<r>外国人実習生に係る監理団体の許可が承認されたことを受けて、<br>外国人技能実習生の受入事業を行っています。</p>
             <div class="C_more_btn">
               <div class="C_more_btn_block ">
-                <a href="foreigner.html" class="C_more_btn_block-link">
+                <a href="<?php echo get_theme_file_uri() ?>/foreigner" class="C_more_btn_block-link">
                   <p class="C_more_btn_block-link-txt">詳細はこちら</p>
                   <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
                 </a>

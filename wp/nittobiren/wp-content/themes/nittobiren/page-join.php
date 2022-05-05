@@ -12,7 +12,7 @@
         また、県連によっては、組合から構成されております。<br>
         入会をご希望の方は、最寄りの地域組合または各都道府県連に入会していただくことにより、<br>
         日鳶連の会員になることができます。<br>
-        なお、特定技能外国人の受け入れにつきましては<a class="join-txt-link" href="foreigner.html">こちら</a>をご確認ください。
+        なお、特定技能外国人の受け入れにつきましては<a class="join-txt-link" href="<?php echo get_theme_file_uri() ?>/foreigner">こちら</a>をご確認ください。
       </p>
     </section>
     
@@ -55,7 +55,7 @@
         <p class="join-content-exp-txt">入会についてのお問い合わせは、最寄りの県連にお気軽にお尋ねください。</p>
         <div class="C_more_btn">
             <div class="C_more_btn_block">
-              <a href="prefectures.html" class="C_more_btn_block-link">
+              <a href="<?php echo get_theme_file_uri() ?>/prefectures" class="C_more_btn_block-link">
                 <p class="C_more_btn_block-link-txt">都道府県連一覧</p>
                 <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
               </a>

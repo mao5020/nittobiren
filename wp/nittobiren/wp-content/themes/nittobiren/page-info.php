@@ -10,7 +10,7 @@
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2020/06/25</p>
         <span class="new-topics-item-link-category">講習関連</span>
-        <p class="new-topics-item-link-txt sp-new-topics-item-link-txt sp-new-topics-item-link-txt">登録鳶・土工基幹技能者講習の<a class="c_red" href="kikan.html_first">新規講習</a>、<a class="c_red" href="kikan.html_second">更新講習</a>のページを更新しました。</p>
+        <p class="new-topics-item-link-txt sp-new-topics-item-link-txt sp-new-topics-item-link-txt">登録鳶・土工基幹技能者講習の<a class="c_red" href="<?php echo get_theme_file_uri() ?>/kikan_first">新規講習</a>、<a class="c_red" href="kikan.html_second">更新講習</a>のページを更新しました。</p>
       </div>
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2020/05/26</p>
