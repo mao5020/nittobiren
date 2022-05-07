@@ -29,36 +29,36 @@
     </div>
     <nav class="header-content-nav">
       <ul class="header-content-nav-list">
-        <li id="top" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/top">TOP</a></li>
-        <li id="about" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/about">概要</a></li>
-        <li id="report" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/report">活動報告</a></li>
-        <li id="prefectures" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/prefectures">都道府県連一覧</a></li>
-        <li id="link" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/link">リンク</a></li>
-        <li id="foreigner" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/foreigner">外国人受入事業</a></li>
-        <li id="evaluation" class="header-content-nav-list-item"><a href="<?php echo get_theme_file_uri() ?>/evaluation">CCUSに伴うとび技能者能力評価について</a></li>
+        <li id="top" class="header-content-nav-list-item"><a href="<?php echo get_site_url(); ?>/top">TOP</a></li>
+        <li id="about" class="header-content-nav-list-item"><a href="<?php echo get_site_url(); ?>/about">概要</a></li>
+        <li id="report" class="header-content-nav-list-item"><a href="<?php echo get_site_url(); ?>/report">活動報告</a></li>
+        <li id="prefectures" class="header-content-nav-list-item"><a href="<?php echo get_site_url(); ?>/prefectures">都道府県連一覧</a></li>
+        <li id="link" class="header-content-nav-list-item"><a href="<?php echo get_site_url(); ?>/link">リンク</a></li>
+        <li id="foreigner" class="header-content-nav-list-item"><a href="<?php echo get_site_url(); ?>/foreigner">外国人受入事業</a></li>
+        <li id="evaluation" class="header-content-nav-list-item"><a href="<?php echo get_site_url(); ?>/evaluation">CCUSに伴うとび技能者能力評価について</a></li>
       </ul>
     </nav>
     <div class="open-modal"><span></span><span></span><span></span></div>
     <div class="modal-sp">
       <nav class="modal-sp-nav">
         <ul class="modal-sp-nav-list">
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/top">TOP</a></li>
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/about">概要</a></li>
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/report">活動報告</a></li>
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/prefectures">都道府県連一覧</a></li>
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/link">リンク</a></li>
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/evaluation">CCUSに伴う<br>とび技能者能力評価について</a></li>
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/member">会員ページ</a></li>
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/lecture">講習会</a></li>
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/kikan">登録基幹技能講習</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/top">TOP</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/about">概要</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/report">活動報告</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/prefectures">都道府県連一覧</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/link">リンク</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/evaluation">CCUSに伴う<br>とび技能者能力評価について</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/member">会員ページ</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/lecture">講習会</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/kikan">登録基幹技能講習</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="https://kensetsu-welcome.com/" target="_blank" rel="noopener">建設労働者緊急<br>育成支援事業</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="https://www.kentaikyo.taisyokukin.go.jp/osirase/osirase.html" target="_blank" rel="noopener">建設業退職金<br>共済制度</a></li>
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_theme_file_uri() ?>/foreigner">外国人受入事業</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/foreigner">外国人受入事業</a></li>
         </ul>
       </nav>
     </div>
     <div class="header-content-form">
-      <a class="header-content-form-txt" href="<?php echo get_theme_file_uri() ?>/contact3">お問い合わせ</a>
+      <a class="header-content-form-txt" href="<?php echo get_site_url(); ?>/contact3">お問い合わせ</a>
     </div>
   </div><!-- /header-content -->
 </header>

@@ -1,18 +1,18 @@
     <section class="menu">
       <div class="menu-card">
-        <a class="menu-card-link" href="<?php echo get_theme_file_uri() ?>/member">
+        <a class="menu-card-link" href="<?php echo get_site_url(); ?>/member">
           <img class="menu-card-link-icon" src="<?php echo get_theme_file_uri()?>/image/common/card_01.png" alt="" width="44px" height="40px">
           <p class="menu-card-link-txt">会員ページ</p>
         </a>
       </div>
       <div class="menu-card">
-        <a class="menu-card-link" href="<?php echo get_theme_file_uri() ?>/lecture">
+        <a class="menu-card-link" href="<?php echo get_site_url(); ?>/lecture">
           <img class="menu-card-link-icon" src="<?php echo get_theme_file_uri()?>/image/common/card_02.png" alt="" width="44px" height="40px">
           <p class="menu-card-link-txt">各種技能講習会</p>
         </a>
       </div>
       <div class="menu-card">
-        <a class="menu-card-link" href="<?php echo get_theme_file_uri() ?>/kikan">
+        <a class="menu-card-link" href="<?php echo get_site_url(); ?>/kikan">
           <img class="menu-card-link-icon" src="<?php echo get_theme_file_uri()?>/image/common/card_03.png" alt="" width="44px" height="40px">
           <p class="menu-card-link-txt">登録鳶・土工基幹<br>技能者講習</p>
         </a>
@@ -30,7 +30,7 @@
         </a>
       </div>
       <div class="menu-card">
-        <a class="menu-card-link" href="<?php echo get_theme_file_uri() ?>/foreigner">
+        <a class="menu-card-link" href="<?php echo get_site_url(); ?>/foreigner">
           <img class="menu-card-link-icon" src="<?php echo get_theme_file_uri()?>/image/common/card_06.png" alt="" width="44px" height="40px">
           <p class="menu-card-link-txt">外国人受入事業</p>
         </a>
