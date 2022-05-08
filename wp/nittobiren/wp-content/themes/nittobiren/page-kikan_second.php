@@ -22,7 +22,7 @@
               <td class="kikan-table-title">開催地</td>
               <td class="kikan-table-title">会場</td>
               <td class="kikan-table-title">住所</td>
-              <td class="kikan-table-title">申込期間</td>
+              <td class="kikan-table-title">申込受付期日</td>
             </tr>
             <tr>
               <td rowspan="3" >2022年<br>6月12日(日)</td>
@@ -57,8 +57,7 @@
             </tr>
             <tr>
               <td>石川</td>
-              <td><a href="http://www.ishikawa-seisoken.jp/newkoutuuannai.html">ユースパルいしかわ<br>
-              大研修室</a></td>
+              <td><a href="http://www.ishikawa-seisoken.jp/newkoutuuannai.html">ユースパルいしかわ大研修室</a></td>
               <td>石川県金沢市常磐町212-1</td>
             </tr>
             <tr>
@@ -84,8 +83,7 @@
             </tr>
             <tr>
               <td>山形</td>
-              <td><a href="https://www.city.sagae.yamagata.jp/kurashi/shisetsu/bunkashogaigakusyu/gijutukouryuplaza.html">寒川江市<br>
-              技術交流プラザ(予定)</a></td>
+              <td><a href="https://www.city.sagae.yamagata.jp/kurashi/shisetsu/bunkashogaigakusyu/gijutukouryuplaza.html">寒川江市技術交流プラザ<br>(予定)</a></td>
               <td>寒河江市中央工業団地153-1</td>
             </tr>
           </tbody>
@@ -116,12 +114,12 @@
       </ul>
       <h4 class="h4_ttl">受講申込提出書類</h4>
       <ul class="kikan-box">
-        <li class="kikan-box-list">(1)受講申込書（事業主が証明したもの）：<br class="sp_br">　[ <a class="kikan-box-list-link" href="<?php echo get_site_url();?>/image/kikan_second/koushin_entry4.pdf" target="_blank" rel="noopener">PDF</a> ・ <a class="kikan-box-list-link" href="<?php echo get_site_url();?>/image/kikan_second/koushin_entry4.xlsx" download>Excel</a>　／　<a class="kikan-box-list-link" href="<?php echo get_site_url();?>/image/kikan_second/koushin_entry_ex4.pdf" target="_blank" rel="noopener">記入例</a> ] </li>
-        <li class="kikan-box-list">(2)実務経験証明書：<br class="sp_br">　[ <a class="kikan-box-list-link" href="<?php echo get_site_url();?>/image/kikan_second/koushin_jitumu4.pdf" target="_blank" rel="noopener">PDF</a> ・ <a class="kikan-box-list-link" href="<?php echo get_site_url();?>/image/kikan_second/koushin_jitumu4.xlsx" download>Excel</a> 　／　<a class="kikan-box-list-link" href="<?php echo get_site_url();?>/image/kikan_second/koushin_jitumu_ex4.pdf" target="_blank" rel="noopener">記入例</a> ] </li>
+        <li class="kikan-box-list">(1)受講申込書（事業主が証明したもの）：<br class="sp_br">　[ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri();?>/image/kikan_second/koushin_entry4.pdf" target="_blank" rel="noopener">PDF</a> ・ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri();?>/image/kikan_second/koushin_entry4.xlsx" download>Excel</a>　／　<a class="kikan-box-list-link" href="<?php echo get_theme_file_uri();?>/image/kikan_second/koushin_entry_ex4.pdf" target="_blank" rel="noopener">記入例</a> ] </li>
+        <li class="kikan-box-list">(2)実務経験証明書：<br class="sp_br">　[ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri();?>/image/kikan_second/koushin_jitumu4.pdf" target="_blank" rel="noopener">PDF</a> ・ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri();?>/image/kikan_second/koushin_jitumu4.xlsx" download>Excel</a> 　／　<a class="kikan-box-list-link" href="<?php echo get_theme_file_uri();?>/image/kikan_second/koushin_jitumu_ex4.pdf" target="_blank" rel="noopener">記入例</a> ] </li>
         <li class="kikan-box-list">(3)登録鳶・土工基幹技能者修了証のコピー</li>
         <li class="kikan-box-list">(4)顔写真2枚（タテ30mm・ヨコ24mm、上半身無帽、無背景で鮮明なもの）<br>　 ※ 申請書に貼り付ける以外に1枚を袋に入れる<br>　 ※ 写真裏には必ず所属会社及び氏名を記入</li>
         <li class="kikan-box-list">(5)受講資格証明書類・・・登録後新規取得又は更新がある場合のみ。資格証（写し）</li>
-        <li class="kikan-box-list">(6)レターパックプラス(修了証送付時に使用しますので、送付先住所等記載して下さい)</li>
+        <li class="kikan-box-list">(6)レターパックプラス(赤)(修了証送付時に使用しますので、送付先住所等記載して下さい)</li>
       </ul>
       <h4 class="h4_ttl">講習内容</h4>
       <ul class="kikan-box">
@@ -142,7 +140,7 @@
       </ul>
       <h4 class="h4_ttl">受講票送付</h4>
       <ul class="kikan-box">
-        <li class="kikan-box-list">受講申込みをされた方には、受講資格及び申請手数料入金等確認後、 「受講票」を送付する。</li>
+        <li class="kikan-box-list">受講申込みをされた方には、受講資格及び申請手数料入金等確認後「受講票」を送付する。</li>
       </ul>
       <h4 class="h4_ttl">助成金</h4>
       <ul class="kikan-box">
@@ -150,9 +148,10 @@
       </ul>
       <h4 class="h4_ttl">問い合せ先及び申請書送付先</h4>
       <ul class="kikan-box">
-        <li class="kikan-box-list">一般社団法人日本鳶工業連合会</li>
-        <li class="kikan-box-list">〒105-0011　東京都港区芝公園3-5-20　日鳶連会館内<br>「登録基幹技能者　更新講習担当　行」</li>
+        <li class="kikan-box-list">一般社団法人日本鳶工業連合会 登録鳶・土工基幹技能者講習事務局</li>
+        <li class="kikan-box-list">〒105-0011　東京都港区芝公園3-5-20　日鳶連会館内</li>
         <li class="kikan-box-list">TEL：03-3434-8805　FAX：03-5472-5747</li>
+        <li class="kikan-box-list">Email：jtci@nittobiren.or.jp</li>
         <li class="kikan-box-list">※角2封筒（A4用紙用）に受講申込書等を折らずに入れ、必ず配達記録が残る方法(簡易書留、特定記録など)で郵送してください。</li>
       </ul>
     </section>

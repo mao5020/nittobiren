@@ -133,12 +133,25 @@
       </ul>
       <h4 class="h4_ttl">受講申込提出書類</h4>
       <ul class="kikan-box">
-        <li class="kikan-box-list">(1)受講申込書（事業主が証明したもの）：　<br class="sp_br">[ <a class="kikan-box-list-link" href="<?php echo get_site_url();?>/image/kikan_first/kikan_entry4.pdf" target="_blank" rel="noopener">PDF</a> ・ <a class="kikan-box-list-link" href="<?php echo get_site_url();?>/image/kikan_first/kikan_entry4.xlsx" download>Excel</a>　／　<a class="kikan-box-list-link" href="<?php echo get_site_url();?>/image/kikan_first/kikan_entry_ex4.pdf" target="_blank" rel="noopener">記入例</a> ] </li>
-        <li class="kikan-box-list">(2)実務経験証明書：　<br class="sp_br">[ <a class="kikan-box-list-link" href="<?php echo get_site_url();?>/image/kikan_first/kikan_jitumu3.pdf" target="_blank" rel="noopener">PDF</a> ・ <a class="kikan-box-list-link" href="<?php echo get_site_url();?>/image/kikan_first/kikan_jitumu3.xlsx" download>Excel</a> 　／　<a class="kikan-box-list-link" href="<?php echo get_site_url();?>/image/kikan_first/kikan_jitumu_ex3.pdf" target="_blank" rel="noopener">記入例</a> ]</li>
+        <li class="kikan-box-list">(1)受講申込書（事業主が証明したもの）：　<br class="sp_br">[ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri();?>/image/kikan_first/kikan_entry4.pdf" target="_blank" rel="noopener">PDF</a> ・ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri();?>/image/kikan_first/kikan_entry4.xlsx" download>Excel</a>　／　<a class="kikan-box-list-link" href="<?php echo get_theme_file_uri();?>/image/kikan_first/kikan_entry_ex4.pdf" target="_blank" rel="noopener">記入例</a> ] </li>
+        <li class="kikan-box-list">(2)実務経験証明書：　<br class="sp_br">[ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri();?>/image/kikan_first/kikan_jitumu3.pdf" target="_blank" rel="noopener">PDF</a> ・ <a class="kikan-box-list-link" href="<?php echo get_theme_file_uri();?>/image/kikan_first/kikan_jitumu3.xlsx" download>Excel</a> 　／　<a class="kikan-box-list-link" href="<?php echo get_theme_file_uri();?>/image/kikan_first/kikan_jitumu_ex3.pdf" target="_blank" rel="noopener">記入例</a> ]</li>
         <li class="kikan-box-list">(3)労働安全衛生法第60条に規定する職長教育修了証（上記「受講資格」(3)）の写し、<br>　または事業主以外の元請の建設業者による証明書類の写し<br>　※ただし、修了証及び証明書類は、修了後5年以上経過しているもの</li>
         <li class="kikan-box-list">(4)資格証の写し（上記「受講資格」(4)の資格）</li>
         <li class="kikan-box-list">(5)顔写真2枚（タテ30mm・ヨコ24mm、上半身無帽、無背景で鮮明なもの）<br>　※申請書に貼り付ける以外に1枚を袋に入れる<br>　※写真裏には必ず所属会社及び氏名を記入</li>
         <li class="kikan-box-list">(6)レターパックプラス(赤)(修了証送付時に使用しますので送付先住所等記載して下さい)</li>
+      </ul>
+      <h4 class="h4_ttl">記載上の注意事項</h4>
+      <ul class="kikan-box">
+        <li class="kikan-box-list">①添付の職長教育修了証は、労働安全衛生法第60条に基づく平成18年4月1日以降交付され修了後5年を経過していること。</li>
+        <li class="kikan-box-list">②平成18年3月31日以前交付の修了証の場合、平成18年4月1日以降受講の再教育またはリスクアセスメント教育受講の修了証コピーを併せて提出して下さい。</li>
+        <li class="kikan-box-list">③8年以上の職長経験があるもので①及び②の修了証がない場合は、実務経験証明（別紙2）に事業主以外の元請けの建設業者による証明(押印)を受け提出して下さい。</li>
+        <li class="kikan-box-list">④18歳未満は実務経験として認められません。</li>
+        <li class="kikan-box-list">⑤実務経験証明書(別紙2) 工事経歴は工事ごとに記入して下さい。○○工事他等は認められません。</li>
+        <li class="kikan-box-list">⑥実務経験証明書(別紙2) 工事期間は現場ごとに記入して下さい。○○工事他1月～12月は認められません。</li>
+        <li class="kikan-box-list">⑦実務経験証明書(別紙2) 工事期間で重複する期間は重複して計算できません。</li>
+        <li class="kikan-box-list">例：○○工事　1～5月（5ヶ月）+△△工事　4月～7月（4ヶ月）＝計9ヶ月　×誤り</li>
+        <li class="kikan-box-list">　　○○工事　1～5月（5ヶ月）+△△工事　4月～7月（4ヶ月）＝計7ヶ月　○正解</li>
+        <li class="kikan-box-list">　　※4.5月は重複して計算できません</li>
       </ul>
       <h4 class="h4_ttl">講習内容</h4>
       <ul class="kikan-box">
