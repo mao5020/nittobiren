@@ -90,11 +90,11 @@
       <h4 class="h4_ttl">名誉役員</h4>
       <div class="l_table member">
         <p class="l_table_row">顧問</p>
-        <p class="l_table_data member-table"><span class="member-name">石破 茂</span><span class="member-name">鈴木 隆道</span><span class="member-name">鴨下 一郎</span></p>
+        <p class="l_table_data member-table"><span class="member-name">石破 茂</span><span class="member-name">鴨下 一郎</span><span class="member-name">鈴木 隆道</span></p>
       </div>
       <div class="l_table">
         <p class="l_table_row">相談役</p>
-        <p class="l_table_data member-table"><span class="member-name">向井 敏雄</span><span class="member-name">中村 隆輔</span><span class="member-name">小野 辰雄</span><span class="member-name">遠藤 信義</span></p>
+        <p class="l_table_data member-table"><span class="member-name">向井 敏雄</span><span class="member-name">小野 辰雄</span><span class="member-name">遠藤 信義</span><span class="member-name">中村 隆輔</span></p>
       </div>
       <h4 class="h4_ttl member-ttl">理事・幹事</h4>
       <div class="l_table">
@@ -111,7 +111,7 @@
       </div>
       <div class="l_table">
         <p class="l_table_row">理事</p>
-        <p class="l_table_data member-table"><span class="member-name">栗栖 龍男</span><span class="member-name">松原 繁光</span><span class="member-name">広川 幸則</span><span class="member-name">丹波 信二</span><span class="member-name">春瀬 隆昭</span><span class="member-name">遠藤 正樹</span><span class="member-name">筒井 弘</span></p>
+        <p class="l_table_data member-table"><span class="member-name">栗栖 龍男</span><span class="member-name">丹波 信二</span><span class="member-name">松原 繁光</span><span class="member-name">広川 幸則</span><span class="member-name">春瀬 隆昭</span><span class="member-name">筒井 弘</span><span class="member-name">遠藤 正樹</span></p>
       </div>
       <div class="l_table">
         <p class="l_table_row">監事</p>
@@ -123,7 +123,7 @@
       <div class="docment_item">
         <div class="C_more_btn document-more_btn">
           <div class="C_more_btn_block">
-            <a href="<?php echo get_site_url();?>/image/about/teiyaku20210723.pdf" class="C_more_btn_block-link" target="_blank" rel="noopener">
+            <a href="<?php echo get_theme_file_uri();?>/image/about/teiyaku20210723.pdf" class="C_more_btn_block-link" target="_blank" rel="noopener">
               <p class="C_more_btn_block-link-txt">定款（PDF形式）</p>
               <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>
@@ -131,9 +131,9 @@
         </div>
         <div class="C_more_btn document-more_btn">
           <div class="C_more_btn_block">
-            <a href="<?php echo get_site_url();?>/image/about/zaimu.pdf" class="C_more_btn_block-link" target="_blank" rel="noopener">
+            <a href="<?php echo get_theme_file_uri();?>/image/about/zaimu.pdf" class="C_more_btn_block-link" target="_blank" rel="noopener">
               <p class="C_more_btn_block-link-txt">財務資料（PDF形式）</p>
-              <p><img src="<?php echo get_theme_file_uri()?>/<image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
+              <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>
           </div>
         </div>

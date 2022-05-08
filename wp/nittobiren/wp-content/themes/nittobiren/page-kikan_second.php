@@ -18,11 +18,11 @@
         <table class="C_kikan-table" border="1">
           <tbody>
             <tr>
-              <td> 開催日</td>
-              <td>開催地</td>
-              <td>会場</td>
-              <td>住所</td>
-              <td>申込期間</td>
+              <td class="kikan-table-title">開催日</td>
+              <td class="kikan-table-title">開催地</td>
+              <td class="kikan-table-title">会場</td>
+              <td class="kikan-table-title">住所</td>
+              <td class="kikan-table-title">申込期間</td>
             </tr>
             <tr>
               <td rowspan="3" >2022年<br>6月12日(日)</td>

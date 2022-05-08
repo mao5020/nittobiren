@@ -7,124 +7,79 @@
   <div class="l_inner">
     <section class="sec_inner">
       <h2 class="h2_ttl">新規講習</h2>
-      <h4 class="h4_ttl">2021年度開催日程</h4>
-      <div class="sp-scroll kikan-table">
-        <table class="C_kikan-table" border="1">
-          <tbody>
-            <tr>
-              <td> 開催日</td>
-              <td>開催地</td>
-              <td>定員</td>
-              <td>会場</td>
-              <td>住所</td>
-              <td>申込期間</td>
-            </tr>
-            <tr>
-              <td rowspan="4" >2022年<br>2月12日(土)～13日(日)</td>
-              <td>山形</td>
-              <td>40</td>
-              <td><a href="http://www3.ic-net.or.jp/~smcp-1/access.html">寒河江市技術交流プラザ</a></td>
-              <td>寒河江市中央工業団地153-1</td>
-              <td rowspan="4">2021年3月1日(月)～2022年1月21日(金)</td>
-            </tr>
-            <tr>
-              <td>大阪</td>
-              <td>40</td>
-              <td><a href="https://www.josansi.org/map.html">大阪府助産師会館</a></td>
-              <td>大阪市天王寺区細工谷１丁目１番５号</td>
-            </tr>
-            <tr>
-              <td>鳥取</td>
-              <td>40</td>
-              <td><a href="http://tottori-shinkoukai.or.jp/fukubun-access.html">鳥取福祉文化会館</a></td>
-              <td> 鳥取市西町2丁目311番地</td>
-            </tr>
-            <tr>
-              <td>福岡</td>
-              <td>40</td>
-              <td><a href="http://www.joho-fukuoka.or.jp/hall/map/index.html">福岡中小企業振興センター</a></td>
-              <td>福岡県博多区吉塚本町9-15</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
       <h4 class="h4_ttl">2022年度開催日程</h4>
       <div class="sp-scroll">
         <table class="C_kikan-table" border="1">
           <tbody>
             <tr>
-              <td> 開催日</td>
-              <td>開催地</td>
-              <td>定員</td>
-              <td>会場</td>
-              <td>住所</td>
-              <td>申込期間</td>
+              <td class="kikan-table-title">開催日</td>
+              <td class="kikan-table-title">開催地</td>
+              <td class="kikan-table-title">定員</td>
+              <td class="kikan-table-title">会場</td>
+              <td class="kikan-table-title">住所</td>
+              <td class="kikan-table-title">申込受付期日</td>
             </tr>
             <tr>
               <td rowspan="3" >2022年<br>6月11日(土)～12日(日)</td>
               <td>東京</td>
-              <td>40</td>
+              <td>40名</td>
               <td><a href="http://www.jspmi.or.jp/kaigishitsu/access.html">機会振興会館6D-4</a></td>
               <td>東京都港区芝公園3-5-8</td>
-              <td rowspan="3" >2022年1月1日(土)～2022年5月20日(金)</td>
+              <td rowspan="3" >2022年5月20日(金)</td>
             </tr>
             <tr>
               <td>神戸</td>
-              <td>40</td>
+              <td>40名</td>
               <td><a href="http://www.kobekhall.com/akusesu/">神戸市教育会館501会議室</a></td>
               <td>神戸市中央区<br>
               中山手通4丁目10番5号</td>
             </tr>
             <tr>
               <td>鹿児島</td>
-              <td>40</td>
-              <td><a href="https://www.houzanhall.com/access/">宝山<br>ホール第6</a></td>
+              <td>40名</td>
+              <td><a href="https://www.houzanhall.com/access/">宝山ホール第6</a></td>
               <td>鹿児島県鹿児島市山下町5-3</td>
             </tr>
             <tr>
               <td rowspan="3" >2022年<br>
               9月10日(土)～11日(日)</td>
               <td>帯広</td>
-              <td>40</td>
-              <td><a href="http://obi-syokuno.ac.jp/access.html">帯広地方職業能力開発協会<br>教室4･5</a></td>
+              <td>40名</td>
+              <td><a href="http://obi-syokuno.ac.jp/access.html">帯広地方職業能力開発協会教室4･5</a></td>
               <td>帯広市西22条北2丁目29番4号<br>
               帯広職業能力開発センター内</td>
-              <td rowspan="3" >2022年1月1日(土)～2022年8月19日(金)</td>
+              <td rowspan="3" >2022年8月19日(金)</td>
             </tr>
             <tr>
               <td>石川</td>
-              <td>40</td>
-              <td><a href="http://www.ishikawa-seisoken.jp/newkoutuuannai.html">ユースパルいしかわ<br>
-              研修室1</a></td>
+              <td>40名</td>
+              <td><a href="http://www.ishikawa-seisoken.jp/newkoutuuannai.html">ユースパルいしかわ研修室1</a></td>
               <td>石川県金沢市常盤町212-1</td>
             </tr>
             <tr>
               <td>大坂</td>
-              <td>40</td>
-              <td><a href="http://www.pss-kasikaigi.com/access/">堺市<br>
-              東洋ビル<br>
-              4F-7</a></td>
+              <td>40名</td>
+              <td><a href="http://www.pss-kasikaigi.com/access/">堺市東洋ビル4F-7</a></td>
               <td>大阪府堺市堺区北花田口町3丁1番15号</td>
             </tr>
             <tr>
               <td rowspan="3" >2022年<br>
               11月12日(土)～13日(日)</td>
               <td>東京</td>
-              <td>40</td>
+              <td>40名</td>
               <td><a href="http://www.jspmi.or.jp/kaigishitsu/access.html">機械振興会館6D-4</a></td>
               <td>東京都港区芝公園3-5-8</td>
-              <td rowspan="3" >2022年1月1日(土)～2022年10月21日(金)</td>
+              <td rowspan="3" >2022年10月21日(金)</td>
             </tr>
             <tr>
               <td>広島</td>
-              <td>40</td>
-              <td><a href="https://intelligent-hotel.co.jp/oc/t_fronts/access">広島<br>
-              オフィスセンター 第1</a></td>
+              <td>40名</td>
+              <td><a href="https://intelligent-hotel.co.jp/oc/t_fronts/access">広島オフィスセンター第1</a></td>
               <td>広島県広島市南区東荒神町3-35</td>
             </tr>
             <tr>
               <td>札 幌</td>
-              <td>40</td>
+              <td>40名</td>
               <td><a href="https://www.google.co.jp/maps/place/%E3%80%92003-0807+%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E7%99%BD%E7%9F%B3%E5%8C%BA%E8%8F%8A%E6%B0%B4%EF%BC%97%E6%9D%A1%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%92%E2%88%92%EF%BC%92%EF%BC%90/@43.061394,141.379452,17z/data=!4m5!3m4!1s0x5f0b2962e8ba0c8b:0x494384acdab33312!8m2!3d43.061146!4d141.379452?hl=ja">菊水地区会館</a></td>
               <td>札幌市白石区菊水7条2丁目2-20</td>
             </tr>
@@ -132,23 +87,21 @@
               <td rowspan="3" >2023年<br>
               2月11日(土)～12日(日)</td>
               <td>山形</td>
-              <td>40</td>
-              <td><a href="https://www.city.sagae.yamagata.jp/kurashi/shisetsu/bunkashogaigakusyu/gijutukouryuplaza.html">寒川江市技術交流プラザ<br>
-              (予定)</a></td>
+              <td>40名</td>
+              <td><a href="https://www.city.sagae.yamagata.jp/kurashi/shisetsu/bunkashogaigakusyu/gijutukouryuplaza.html">寒川江市技術交流プラザ<br>(予定)</a></td>
               <td>寒河江市中央工業団地153の1</td>
-              <td rowspan="3" >2022年1月1日(土)～2023年1月20日(金)</td>
+              <td rowspan="3" >2023年1月20日(金)</td>
             </tr>
             <tr>
               <td>大坂</td>
-              <td>40</td>
-              <td><a href="大阪府堺市堺区北花田口町3丁1番15号">堺市<br>東洋ビル<br>4F-7</a></td>
+              <td>40名</td>
+              <td><a href="大阪府堺市堺区北花田口町3丁1番15号">堺市東洋ビル4F-7</a></td>
               <td>大阪府堺市堺区北花田口町3丁1番15号</td>
             </tr>
             <tr>
               <td>大分</td>
-              <td>40</td>
-              <td><a href="http://www.horutohall-oita.jp/access/">ホルトホール大分<br>
-              (予定)</a></td>
+              <td>40名</td>
+              <td><a href="http://www.horutohall-oita.jp/access/">ホルトホール大分<br>(予定)</a></td>
               <td>大分県大分市金池南一丁目5番1号</td>
             </tr>
           </tbody>
@@ -182,10 +135,10 @@
       <ul class="kikan-box">
         <li class="kikan-box-list">(1)受講申込書（事業主が証明したもの）：　<br class="sp_br">[ <a class="kikan-box-list-link" href="<?php echo get_site_url();?>/image/kikan_first/kikan_entry4.pdf" target="_blank" rel="noopener">PDF</a> ・ <a class="kikan-box-list-link" href="<?php echo get_site_url();?>/image/kikan_first/kikan_entry4.xlsx" download>Excel</a>　／　<a class="kikan-box-list-link" href="<?php echo get_site_url();?>/image/kikan_first/kikan_entry_ex4.pdf" target="_blank" rel="noopener">記入例</a> ] </li>
         <li class="kikan-box-list">(2)実務経験証明書：　<br class="sp_br">[ <a class="kikan-box-list-link" href="<?php echo get_site_url();?>/image/kikan_first/kikan_jitumu3.pdf" target="_blank" rel="noopener">PDF</a> ・ <a class="kikan-box-list-link" href="<?php echo get_site_url();?>/image/kikan_first/kikan_jitumu3.xlsx" download>Excel</a> 　／　<a class="kikan-box-list-link" href="<?php echo get_site_url();?>/image/kikan_first/kikan_jitumu_ex3.pdf" target="_blank" rel="noopener">記入例</a> ]</li>
-        <li class="kikan-box-list">(3)労働安全衛生法第60条に規定する職長教育修了証（上記2．(3)イ）の写し、<br>　または事業主以外の元請の建設業者による証明書類の写し<br>　※ただし、修了証及び証明書類は、修了後5年以上経過しているもの</li>
-        <li class="kikan-box-list">(4)資格証の写し（上記2．(4)の資格）</li>
+        <li class="kikan-box-list">(3)労働安全衛生法第60条に規定する職長教育修了証（上記「受講資格」(3)）の写し、<br>　または事業主以外の元請の建設業者による証明書類の写し<br>　※ただし、修了証及び証明書類は、修了後5年以上経過しているもの</li>
+        <li class="kikan-box-list">(4)資格証の写し（上記「受講資格」(4)の資格）</li>
         <li class="kikan-box-list">(5)顔写真2枚（タテ30mm・ヨコ24mm、上半身無帽、無背景で鮮明なもの）<br>　※申請書に貼り付ける以外に1枚を袋に入れる<br>　※写真裏には必ず所属会社及び氏名を記入</li>
-        <li class="kikan-box-list">(6)レターパックプラス(修了証送付時に使用しますので送付先住所等記載して下さい)</li>
+        <li class="kikan-box-list">(6)レターパックプラス(赤)(修了証送付時に使用しますので送付先住所等記載して下さい)</li>
       </ul>
       <h4 class="h4_ttl">講習内容</h4>
       <ul class="kikan-box">
@@ -207,7 +160,7 @@
       </ul>
       <h4 class="h4_ttl">受講票送付</h4>
       <ul class="kikan-box">
-        <li class="kikan-box-list">受講申込みをされた方には、受講資格及び申請手数料入金等確認後、 「受講票」を送付する。</li>
+        <li class="kikan-box-list">受講申込みをされた方には、受講資格及び申請手数料入金等確認後「受講票」を送付する。</li>
       </ul>
       <h4 class="h4_ttl">助成金</h4>
       <ul class="kikan-box">
@@ -215,9 +168,10 @@
       </ul>
       <h4 class="h4_ttl">問い合せ先及び申請書送付先</h4>
       <ul class="kikan-box">
-        <li class="kikan-box-list">一般社団法人日本鳶工業連合会</li>
+        <li class="kikan-box-list">一般社団法人日本鳶工業連合会 登録鳶・土工基幹技能者講習事務局</li>
         <li class="kikan-box-list">〒105-0011　東京都港区芝公園3-5-20　日鳶連会館内</li>
-        <li class="kikan-box-list">TEL：03-3434-8805</li>
+        <li class="kikan-box-list">TEL：03-3434-8805　FAX：03-5472-5747</li>
+        <li class="kikan-box-list">Email：jtci@nittobiren.or.jp</li>
         <li class="kikan-box-list">※角2封筒（A4用紙用）に受講申込書等を折らずに入れ、必ず配達記録が残る方法(簡易書留、特定記録など)で郵送してください</li>
       </ul>
     </section>

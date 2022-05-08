@@ -582,6 +582,9 @@ about
 }
 
 /* kikan-first */
+.kikan-table-title{
+  text-align: center;
+}
 .kikan-table-note{
   text-align: right;
 }
