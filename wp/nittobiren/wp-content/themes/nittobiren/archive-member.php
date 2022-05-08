@@ -50,19 +50,16 @@ Template Name: member
       <div class="member-paper">
         <h3 class="h3_ttl">過去の日鳶連新聞</h3>
         <ul>
-          <li><a class="member-paper-list" target=”_blank” href="<?php echo get_site_url();?>/document/member/1372gou.pdf">1372号</a></li>
-          <li><a class="member-paper-list" target=”_blank” href="<?php echo get_site_url();?>/document/member/1371gou.pdf">1371号</a></li>
-          <li><a class="member-paper-list" target=”_blank” href="<?php echo get_site_url();?>/document/member/1370gou.pdf">1370号</a></li>
-          <li><a class="member-paper-list" target=”_blank” href="<?php echo get_site_url();?>/document/member/1369gou.pdf">1369号</a></li>
-          <li><a class="member-paper-list" target=”_blank” href="<?php echo get_site_url();?>/document/member/1368gou.pdf">1368号</a></li>
-          <li><a class="member-paper-list" target=”_blank” href="<?php echo get_site_url();?>/document/member/1367gou.pdf">1367号</a></li>
-          <li><a class="member-paper-list" target=”_blank” href="<?php echo get_site_url();?>/document/member/1366gou.pdf">1366号</a></li>
-          <li><a class="member-paper-list" target=”_blank” href="<?php echo get_site_url();?>/document/member/1365gou.pdf">1365号</a></li>
-          <li><a class="member-paper-list" target=”_blank” href="<?php echo get_site_url();?>/document/member/1364gou.pdf">1364号</a></li>
-          <li><a class="member-paper-list" target=”_blank” href="<?php echo get_site_url();?>/document/member/28.3gatugo.pdf">1363号</a></li>
-          <li><a class="member-paper-list" target=”_blank” href="<?php echo get_site_url();?>/document/member/28.1gatugo.pdf">1362号</a></li>
-          <li><a class="member-paper-list" target=”_blank” href="<?php echo get_site_url();?>/document/member/11gatugo.pdf">1361号</a></li>
-          <li><a class="member-paper-list" target=”_blank” href="<?php echo get_site_url();?>/document/member/9gatugo.pdf">1360号</a></li>
+        <?php 
+          $args = array(
+            'post_type' => 'newspaper', //お知らせページ読み込み
+            'post_per_page' => '10' //最大件数
+          );
+          $my_query = new WP_Query($args);
+        ?>
+        <?php while($my_query->have_posts()) : $my_query->the_post(); ?>
+        <li><a class="member-paper-list" target=”_blank” href="<?php echo CFS()->get('newspaper_pdf'); ?>"><?php echo CFS()->get('newspaper_number'); ?></a></li>
+        <?php endwhile; ?>
         </ul>
       </div>
     </section>

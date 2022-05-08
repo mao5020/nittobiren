@@ -24,7 +24,7 @@
           );
           $my_query = new WP_Query($args);
         ?>
-        <?php while ( $my_query->have_posts() ) : $my_query->the_post(); ?>
+        <?php while ($my_query->have_posts() ) : $my_query->the_post(); ?>
         <div class="new-topics-item">
         <p class="new-topics-item-link-date"><?php echo get_the_date(); ?></p>
         <?php 
