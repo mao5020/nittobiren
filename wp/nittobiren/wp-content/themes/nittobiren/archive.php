@@ -1,4 +1,11 @@
 <?php get_header(); ?>
+<?php 
+/*
+Template Name: news
+*/
+?>
+
+
 <div class="page_cover">
   <h1 class="page_ttl">お知らせ</h1>
 </div>
