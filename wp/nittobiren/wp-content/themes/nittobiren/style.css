@@ -879,6 +879,60 @@ about
 .wpcf7-response-output{
   display: none;
 }
+/* page-contact_complete */
+.contact-button{
+  margin: 50px 0 100px;
+}
+
+.contact-button a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  margin: 0 auto;
+  padding: 1em 2em;
+  width: 300px;
+  color: #333;
+  font-size: 18px;
+  font-weight: 700;
+  background-color: #cccccc;
+  transition: 0.3s;
+}
+
+.contact-button a::before {
+  content: '';
+  position: absolute;
+  top: calc(50% - 2px);
+  right: 1em;
+  transform: translateY(calc(-50% - 2px)) rotate(30deg);
+  width: 12px;
+  height: 2px;
+  background-color: #B50000;
+  transition: 0.3s;
+}
+
+.contact-button a::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: 1em;
+  transform: translateY(-50%);
+  width: 70px;
+  height: 2px;
+  background-color: #B50000;
+  transition: 0.3s;
+}
+
+.contact-button a:hover {
+  text-decoration: none;
+  background-color: #bbbbbb;
+}
+
+.contact-button a:hover::before,
+.contact-button a:hover::after {
+  right: 0.5em;
+}
+
 @media all and (max-width: 480px) { 
   /* ------------------------------ 
   base
