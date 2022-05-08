@@ -56,7 +56,10 @@ $(function() {
   })
 
   h_uri = location.href.split("/");
-  h_uri = h_uri[h_uri.length - 1];
-  console.log(h_uri);
-  $('#'+h_uri).addClass("is-h_active");
+  h_uri = h_uri[h_uri.length -1];
+  if(!h_uri){
+    console.log("test");
+    $('#top').addClass("is-h_active");
+  }
+  $('#' + h_uri).addClass("is-h_active");
 });

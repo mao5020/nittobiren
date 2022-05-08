@@ -15,8 +15,6 @@ Template Name: news
     <section class="info sec_inner">
       <h2 class="h2_ttl">お知らせ一覧</h2>
       <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
-      <?php var_dump(the_post()); ?>
-
         <div class="new-topics-item">
         <p class="new-topics-item-link-date"><?php echo get_the_date(); ?></p>
         <?php 
