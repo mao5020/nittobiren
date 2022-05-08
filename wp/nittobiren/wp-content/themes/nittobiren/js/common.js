@@ -57,6 +57,5 @@ $(function() {
 
   h_uri = location.href.split("/");
   h_uri = h_uri[h_uri.length - 1];
-  console.log(h_uri);
   $('#'+h_uri).addClass("is-h_active");
 });
