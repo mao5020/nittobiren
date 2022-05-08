@@ -39,7 +39,7 @@
       <p class="report-sinbun-txt">日鳶連では、都道府県連、国土交通省・厚生労働省はじめ関係官庁、関係企業等から投稿や資料提供をいただき、<br>
         内容の検討、研究を重ね、業界に関する情報及び各県連等の動きについて全国の会員他、<br>
         関係団体に機関紙「日鳶連新聞」を発行し配布しております。<br>
-        今年度発行分については<a class="report-box-list-link" href="http://www.nittobiren.or.jp/kain/kaiin.html">会員のページ</a>よりご覧ください。</p>
+        今年度発行分については<a class="report-box-list-link" href="<?php echo get_site_url(); ?>/member">会員のページ</a>よりご覧ください。</p>
     </section>
   </div><!-- /l_inner -->
 </div><!-- flex_inner -->

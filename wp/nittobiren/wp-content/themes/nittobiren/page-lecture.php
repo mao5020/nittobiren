@@ -21,7 +21,7 @@
         <div class="kikan-corse-btn"></div>
         <div class="C_more_btn kikan-corse-btn">
           <div class="C_more_btn_block lecture-btn">
-            <a href="http://www.nittobiren.or.jp/contact3.html" class="C_more_btn_block-link">
+            <a href="<?php echo get_theme_file_uri(); ?>/contact3" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">各種技能講習会についてのお問い合わせ</p>
               <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>
@@ -57,7 +57,7 @@
           <p class="lecture-modal-txt">13時間（2日間）※試験時間は含まない。</p>
           <div class="C_more_btn">
             <div class="C_more_btn_block lecture-btn">
-              <a href="<?php echo get_site_url();?>/image/lecture/asiba.pdf" target="_brank" class="C_more_btn_block-link">
+              <a href="<?php echo get_theme_file_uri();?>/image/lecture/asiba.pdf" target="_brank" class="C_more_btn_block-link">
                 <p class="C_more_btn_block-link-txt">講習範囲詳細ダウンロード</p>
                 <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
               </a>
@@ -94,7 +94,7 @@
           <p class="lecture-modal-txt">13時間（2日間）※試験時間は含まない。</p>
           <div class="C_more_btn">
             <div class="C_more_btn_block lecture-btn">
-              <a href="<?php echo get_site_url();?>/image/lecture/katawaku.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
+              <a href="<?php echo get_theme_file_uri();?>/image/lecture/katawaku.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
                 <p class="C_more_btn_block-link-txt">講習範囲詳細ダウンロード</p>
                 <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
               </a>
@@ -126,7 +126,7 @@
           <p class="lecture-modal-txt">１７時間（３日間）※試験時間は含まない。</p>
           <div class="C_more_btn">
             <div class="C_more_btn_block lecture-btn">
-              <a href="<?php echo get_site_url();?>/image/lecture/jimen.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
+              <a href="<?php echo get_theme_file_uri();?>/image/lecture/jimen.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
                 <p class="C_more_btn_block-link-txt">講習範囲詳細ダウンロード</p>
                 <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
               </a>
@@ -158,7 +158,7 @@
           <p class="lecture-modal-txt">11時間（2日間）※試験時間は含まない。</p>
           <div class="C_more_btn">
             <div class="C_more_btn_block lecture-btn">
-              <a href="<?php echo get_site_url();?>/image/lecture/tekkotu.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
+              <a href="<?php echo get_theme_file_uri();?>/image/lecture/tekkotu.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
                 <p class="C_more_btn_block-link-txt">講習範囲詳細ダウンロード</p>
                 <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
               </a>
@@ -190,7 +190,7 @@
           <p class="lecture-modal-txt">13時間（2日間）※試験時間は含まない。</p>
           <div class="C_more_btn">
             <div class="C_more_btn_block lecture-btn">
-              <a href="<?php echo get_site_url();?>/image/lecture/mokuzou.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
+              <a href="<?php echo get_theme_file_uri();?>/image/lecture/mokuzou.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
                 <p class="C_more_btn_block-link-txt">講習範囲詳細ダウンロード</p>
                 <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
               </a>
@@ -216,7 +216,7 @@
           <p class="lecture-modal-txt">13時間（2日間）※試験時間は含まない。</p>
           <div class="C_more_btn">
             <div class="C_more_btn_block lecture-btn">
-              <a href="<?php echo get_site_url();?>/image/lecture/konkuri.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
+              <a href="<?php echo get_theme_file_uri();?>/image/lecture/konkuri.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
                 <p class="C_more_btn_block-link-txt">講習範囲詳細ダウンロード</p>
                 <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
               </a>
@@ -248,7 +248,7 @@
           <p class="lecture-modal-txt">11時間（2日間）※試験時間は含まない。</p>
           <div class="C_more_btn">
             <div class="C_more_btn_block lecture-btn">
-              <a href="<?php echo get_site_url();?>/image/lecture/koukyou.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
+              <a href="<?php echo get_theme_file_uri();?>/image/lecture/koukyou.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
                 <p class="C_more_btn_block-link-txt">講習範囲詳細ダウンロード</p>
                 <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
               </a>
@@ -284,7 +284,7 @@
           <p class="lecture-modal-txt">19時間（3日間）※試験時間は含まない。</p>
           <div class="C_more_btn">
             <div class="C_more_btn_block lecture-btn">
-              <a href="<?php echo get_site_url();?>/image/lecture/tamagake.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
+              <a href="<?php echo get_theme_file_uri();?>/image/lecture/tamagake.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
                 <p class="C_more_btn_block-link-txt">講習範囲詳細ダウンロード</p>
                 <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
               </a>
@@ -316,17 +316,11 @@
           <p class="lecture-modal-txt">20時間（3日間）※試験時間は含まない。</p>
           <div class="C_more_btn">
             <div class="C_more_btn_block lecture-btn">
-              <a href="<?php echo get_site_url();?>/image/lecture/kuren.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
+              <a href="<?php echo get_theme_file_uri();?>/image/lecture/kuren.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
                 <p class="C_more_btn_block-link-txt">講習範囲詳細ダウンロード</p>
                 <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
               </a>
             </div>
-          </div>
-          <h2 class="h2_ttl">講習日程</h2>
-          <div class="lecture-modal-table">
-            <p class="lecture-modal-table-txt">北海道</p>
-            <p class="lecture-modal-table-txt">帯広市</p>
-            <p class="lecture-modal-table-txt">3月</p>
           </div>
         </div>
       </div>
@@ -348,7 +342,7 @@
           <p class="lecture-modal-txt">17時間（3日間）※試験時間は含まない</p>
           <div class="C_more_btn">
             <div class="C_more_btn_block lecture-btn">
-              <a href="<?php echo get_site_url();?>/image/lecture/kousyo.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
+              <a href="<?php echo get_theme_file_uri();?>/image/lecture/kousyo.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
                 <p class="C_more_btn_block-link-txt">講習範囲詳細ダウンロード</p>
                 <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
               </a>
