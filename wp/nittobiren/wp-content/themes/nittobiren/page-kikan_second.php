@@ -29,13 +29,12 @@
               <td>東京</td>
               <td><a href="http://www.jspmi.or.jp/kaigishitsu/access.html">機会振興会館6-66</a></td>
               <td>東京都港区芝公園3-5-8</td>
-              <td rowspan="3" >2022年1月1日(土)～2022年5月20日(金)</td>
+              <td rowspan="3" >2022年5月20日(金)</td>
             </tr>
             <tr>
               <td>大阪</td>
               <td><a href="https://www.gco.co.jp/access/">グランキューブ大阪10階会議室</a></td>
-              <td>大阪府大阪市北区<br>
-              中之島5丁目3-51</td>
+              <td>大阪府大阪市北区中之島5丁目3-51</td>
             </tr>
             <tr>
               <td>鹿児島</td>
@@ -48,7 +47,7 @@
               <td>帯広</td>
               <td><a href="https://okamotopbc.jp/tokachi-plaza/guide/access/">とかちプラザ（予定）</a></td>
               <td>帯広市西4条南13丁目1</td>
-              <td rowspan="3" >2022年1月1日(土)～2022年8月19日(金)</td>
+              <td rowspan="3" >2022年8月19日(金)</td>
             </tr>
             <tr>
               <td>東京</td>
@@ -66,7 +65,7 @@
               <td>広島</td>
               <td><a href="https://intelligent-hotel.co.jp/oc/t_fronts/access">広島オフィスセンター G</a></td>
               <td>広島県広島市南区東荒神町3-35</td>
-              <td>2022年1月1日(土)～2022年10月21日(金)</td>
+              <td>2022年10月21日(金)</td>
             </tr>
             <tr>
               <td rowspan="3" >2023年<br>
@@ -74,7 +73,7 @@
               <td>大阪</td>
               <td><a href="http://www.pss-kasikaigi.com/access/">堺市東洋ビル4F-5</a></td>
               <td>大阪府堺市堺区北花田口町3丁1番15号</td>
-              <td rowspan="3" >2022年1月1日(土)～2023年1月20日(金)</td>
+              <td rowspan="3" >2023年1月20日(金)</td>
             </tr>
             <tr>
               <td>大分</td>
