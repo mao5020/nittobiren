@@ -7,6 +7,11 @@
   <div class="l_inner">
     <section class="info sec_inner">
       <h2 class="h2_ttl">お知らせ一覧</h2>
+      <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+      <?php // タイトルを表示させる start ?>
+        <h3 class="blog-item__title"><?php the_title(); ?></h3>
+        <?php // タイトルを表示させる end ?>
+      <?php endwhile; endif; ?>
       <div class="new-topics-item">
         <p class="new-topics-item-link-date">2020/06/25</p>
         <span class="new-topics-item-link-category">講習関連</span>
