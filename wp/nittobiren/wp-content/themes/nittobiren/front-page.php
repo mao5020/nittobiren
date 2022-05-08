@@ -16,26 +16,29 @@
       </section>
       <section class="new sec_inner">
         <h2 class="new-ttl h2_ttl">新着情報</h2>
-        <div class="new-topics">
-          <div class="new-topics-item">
-            <p class="new-topics-item-link-date">2020/06/25</p>
-            <span class="new-topics-item-link-category">講習関連</span>
-            <p class="new-topics-item-link-txt">登録鳶・土工基幹技能者講習の<a class="c_red" href="<?php echo get_site_url(); ?>/kikan.html_first">新規講習</a>、<a class="c_red" href="<?php echo get_site_url(); ?>/kikan_second">更新講習</a>のページを更新しました。</p>
-          </div>
-          <div class="new-topics-item">
-            <p class="new-topics-item-link-date">2020/05/26</p>
-            <span class="new-topics-item-link-category">講習関連</span>
-            <p class="new-topics-item-link-txt">登録鳶・土工基幹技能者講習の<a class="c_red" href="<?php echo get_site_url(); ?>/kikan_first">新規講習</a>、<a class="c_red" href="<?php echo get_site_url(); ?>/kikan_second">更新講習</a>のページを更新しました。</p>
-          </div>
-          <div class="new-topics-item">
-            <p class="new-topics-item-link-date">2020/05/26</p>
-            <span class="new-topics-item-link-category">講習関連</span>
-            <p class="new-topics-item-link-txt">登録鳶・土工基幹技能者更新講習熊本開催の会場が変更となりました。<a class="c_red" href="<?php echo get_site_url(); ?>/kikan_second">更新</a></p>
-          </div>
-        </div>
+
+        <?php 
+          $args = array(
+            'post_type' => 'news', //お知らせページ読み込み
+            'post_per_page' => '3' //最大件数
+          );
+          $my_query = new WP_Query($args);
+        ?>
+        <?php while ( $my_query->have_posts() ) : $my_query->the_post(); ?>
+        <div class="new-topics-item">
+        <p class="new-topics-item-link-date"><?php echo get_the_date(); ?></p>
+        <?php 
+          $values = CFS()->get('news_category'); 
+          foreach($values as $Key => $label):
+        ?>
+        <span class="new-topics-item-link-category"><?php echo $label; ?></span>
+        <?php endforeach; ?>
+        <a href="" class="new-topics-item-link-txt sp-new-topics-item-link-txt sp-new-topics-item-link-txt"><?php echo $cfs->get('news_txt'); ?></a>
+      </div>
+      <?php endwhile; ?>
         <div class="C_more_btn">
           <div class="C_more_btn_block E_more_btn_right">
-            <a href="<?php echo get_site_url(); ?>/info" class="C_more_btn_block-link">
+            <a href="<?php echo get_site_url(); ?>/news" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">View All</p>
               <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>

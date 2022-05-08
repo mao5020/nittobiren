@@ -4,12 +4,12 @@ function twpp_deregister_styles() {
 }
 add_action( 'wp_enqueue_scripts', 'twpp_deregister_styles' );
 
-function post_has_archive($args, $post_type){
-  if('post' == $post_type){
-    $args['rewrite'] = true;
-    $args['has_archive'] = 'news';
-    $args['label'] = "お知らせ";
-  }
-  return $args;
-}
-add_filter('register_post_type_args','post_has_archive', 10, 2);
+// // クエリカスタマイズ【お知らせ新着表示】
+// function foo_modify_main_queries ( $query ) {
+//   if ( ! is_admin() && $query->is_main_query() ) { // 管理画面以外かつメインクエリーを対象とする
+//     if ( $query->is_home() ) {
+//       $query->set( 'post_type', array('news')); // 投稿とカスタム投稿（blog）を含める
+//     }
+//   }
+// }
+// add_action( 'pre_get_posts', 'foo_modify_main_queries' );
