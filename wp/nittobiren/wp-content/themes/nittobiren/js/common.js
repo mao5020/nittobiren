@@ -64,6 +64,6 @@ $(function() {
   $('#' + h_uri).addClass("is-h_active");
 
   $(function(){ 
-    document.addEventListener( 'wpcf7mailsent', function( event ) { location = 'http://wispy-takeo-8723.lolitapunk.jp/contact_complete'; }, 
+    document.addEventListener( 'wpcf7mailsent', function( event ) { location = 'https://nittobiren.or.jp/wordpress/contact_complete'; }, 
   false );});
 });
