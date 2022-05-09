@@ -1365,7 +1365,8 @@ select[name="your-month"]{
   overflow:inherit;
   width: 100%;
   padding-bottom: 10px;
-  }
+  display: block;
+  }  
   .new-topics-item{
     height: auto;
   }
@@ -1430,6 +1431,16 @@ select[name="your-month"]{
   .bg-box-img{
     height: 1100px;
   }
+  .formTable th{
+  padding-left: 0;
+}
+.req::before{
+  margin-left: 0;
+}
+.contact-submit{
+  display: block;
+  margin: 0 auto;
+}
   /* ------------------------------ 
   member
   ------------------------------ */
@@ -1447,4 +1458,8 @@ select[name="your-month"]{
   .member-paper{
     margin-bottom: 60px;
   }
+}
+/* page-contact_complete */
+.br-sp{
+  display: none;
 }
