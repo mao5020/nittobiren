@@ -935,6 +935,9 @@ about
 .contact-button a:hover::after {
   right: 0.5em;
 }
+.req{
+  color: #B50000;
+}
 
 @media all and (max-width: 480px) { 
   /* ------------------------------ 

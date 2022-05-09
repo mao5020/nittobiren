@@ -12,7 +12,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&display=swap" rel="stylesheet">
   <script type="text/javascript" src="<?php echo get_template_directory_uri() ?>/js/jquery-3.6.0.min.js"></script>
   <link href="<?php echo get_stylesheet_directory_uri()?>/css/ress.css" rel="stylesheet">
-  <link href="<?php echo get_stylesheet_directory_uri()?>/style.css" rel="stylesheet">
+  <link href="<?php echo get_stylesheet_directory_uri()?>/style.css?20220509" rel="stylesheet">
   <?php wp_head();?>
 </head>
 <body>
