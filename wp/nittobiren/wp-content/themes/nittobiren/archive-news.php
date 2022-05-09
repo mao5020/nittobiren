@@ -23,7 +23,13 @@ Template Name: news
         ?>
         <span class="new-topics-item-link-category"><?php echo $label; ?></span>
         <?php endforeach; ?>
-        <a href="" class="new-topics-item-link-txt sp-new-topics-item-link-txt sp-new-topics-item-link-txt"><?php echo $cfs->get('news_txt'); ?></a>
+        <?php if($cfs->get('news_link')): ?>
+        <a href="<?php echo $cfs->get('news_link');?>" class="new-topics-item-link-txt sp-new-topics-item-link-txt sp-new-topics-item-link-txt"><?php echo $cfs->get('news_txt'); ?></a>
+        <?php elseif($cfs->get('news_pdf')): ?>
+        <a href="<?php echo $cfs->get('news_pdf');?>" class="new-topics-item-link-txt sp-new-topics-item-link-txt sp-new-topics-item-link-txt" target="_blank"><?php echo $cfs->get('news_txt'); ?></a>
+        <?php else:?>
+        <p class="new-topics-item-link-txt sp-new-topics-item-link-txt sp-new-topics-item-link-txt"><?php echo $cfs->get('news_txt'); ?></p>
+        <?php endif; ?>
       </div>
       <?php endwhile; endif; ?>
     </section>
