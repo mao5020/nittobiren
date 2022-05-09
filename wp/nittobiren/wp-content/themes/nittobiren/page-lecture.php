@@ -21,7 +21,7 @@
         <div class="kikan-corse-btn"></div>
         <div class="C_more_btn kikan-corse-btn">
           <div class="C_more_btn_block lecture-btn">
-            <a href="<?php echo get_theme_file_uri(); ?>/contact3" class="C_more_btn_block-link">
+            <a href="<?php echo get_site_url(); ?>/contact3" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">各種技能講習会についてのお問い合わせ</p>
               <p><img src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>
