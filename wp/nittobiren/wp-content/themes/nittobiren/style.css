@@ -37,6 +37,9 @@ p{
 .no-scroll{
   overflow: hidden;
 }
+.wrapper{
+  min-height: calc(100vh - 100px);
+}
 
 /* ------------------------------ 
 component
