@@ -1458,8 +1458,8 @@ select[name="your-month"]{
   .member-paper{
     margin-bottom: 60px;
   }
-}
 /* page-contact_complete */
-.br-sp{
+.contact-br{
   display: none;
+}
 }

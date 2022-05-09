@@ -54,6 +54,7 @@
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="https://www.kentaikyo.taisyokukin.go.jp/osirase/osirase.html" target="_blank" rel="noopener">建設業退職金<br>共済制度</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/foreigner">外国人受入事業</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/link">リンク</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/contact3">お問い合わせ</a></li>
         </ul>
       </nav>
     </div>

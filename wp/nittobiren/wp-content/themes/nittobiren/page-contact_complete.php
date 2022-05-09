@@ -8,13 +8,13 @@
       <h2 class="contact-ttl">お問い合わせ完了</h2>
       <div class="contact">
         <p class="contact-txt">
-          この度は、お問合せいただき、誠にありがとうございました。<br class="br-sp">
-          お送りいただきました内容を確認の上、折り返しご連絡させていただきます。<br class="br-sp">
-          今しばらくお待ちくださいますようよろしくお願い申し上げます。<br class="br-sp">
+          この度は、お問合せいただき、誠にありがとうございました。<br class="contact-br">
+          お送りいただきました内容を確認の上、折り返しご連絡させていただきます。<br class="contact-br">
+          今しばらくお待ちくださいますようよろしくお願い申し上げます。<br class="contact-br">
         </p>  
         <p class="contact-txt">
-          なお、しばらくたっても返信、返答がない場合は、<br class="br-sp">
-          入力いただいたメールアドレスに誤りがあった可能性がございます。<br class="br-sp">
+          なお、しばらくたっても返信、返答がない場合は、<br class="contact-br">
+          入力いただいたメールアドレスに誤りがあった可能性がございます。<br class="contact-br">
           再度ご確認の上、もう一度フォームよりお問合せ頂きますようお願い申し上げます。
         </p>
       </div>
