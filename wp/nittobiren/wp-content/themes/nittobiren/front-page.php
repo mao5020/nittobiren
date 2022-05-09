@@ -2,7 +2,7 @@
   <div class="main">
     <div class="main-ttl">
       <p><img class="main-ttl-icon" src="<?php echo get_theme_file_uri()?>/image/common/logo_white.png" alt=""></p>
-      <h1 class="main-ttl-txt">日本鳶工業連合会</h1>
+      <h1 class="main-ttl-txt">一般社団法人 日本鳶工業連合会</h1>
     </div>
     <h2 class="main-catch">私たちは<br class="sp_br">鳶・土工工事事業の技術と<br>経営の向上を目指します</h2>
   </div><!-- main -->

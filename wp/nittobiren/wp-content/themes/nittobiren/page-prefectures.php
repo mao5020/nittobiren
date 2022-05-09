@@ -30,8 +30,8 @@
           <a href="#gunma" class="prefectures-table-link">群馬県</a>
           <a href="#chiba" class="prefectures-table-link">千葉県</a>
           <a href="#tokyo" class="prefectures-table-link">東京都</a>
-          <a href="#sizuoka" class="prefectures-table-link">静岡県</a>
           <a href="#niigata" class="prefectures-table-link">新潟県</a>
+          <a href="#sizuoka" class="prefectures-table-link">静岡県</a>
         </p>
       </div>
       <div class="l_table">
@@ -102,7 +102,7 @@
       </div>
       <div id="fukushima" class="l_chart">
         <p class="l_chart_row">福島県鳶土木工業連合会</p>
-        <p class="l_chart_data">〒963-8024<br>郡山市朝日1丁目27-8　㈲宍戸建設内<br>TEL：024-923-4150／FAX：024-923-4684</p>
+        <p class="l_chart_data">〒975-0034<br>南相馬市原町区上渋佐字原田88　㈱大橋建設内<br>TEL：0244-22-3874／FAX：0284-24-5475</p>
       </div>
     </section>
 
@@ -110,7 +110,7 @@
       <h2 class="h2_ttl">第2ブロック</h2>
       <div id="tochigi" class="l_chart">
         <p class="l_chart_row">栃木県鳶工業連合会</p>
-        <p class="l_chart_data">〒321-0157<br>宇都宮市幕田町383-2　㈱大勝建設内<br>TEL：028-616-6202／FAX：028-616-6203</p>
+        <p class="l_chart_data">〒328-0042<br>栃木市沼和田町53-1　㈲大有工業内<br>TEL：0282-25-3138／FAX：0282-25-3148</p>
       </div>
       <div id="gunma" class="l_chart">
         <p class="l_chart_row">（一社）群馬県鳶工業連合会</p>
@@ -124,13 +124,13 @@
         <a class="prefectures-link" href="http://www.tokyotobi.or.jp/" target="_blank" rel="noopener">（一社）東京都鳶工業会</a>
         <p class="l_chart_data">〒105-0011<br>港区芝公園3-5-20　日鳶連会館4階<br>TEL：03-6435-9022／FAX：03-6435-9023</p>
       </div>
-      <div id="sizuoka" class="l_chart">
-        <p class="l_chart_row">静岡県鳶工業会</p>
-        <p class="l_chart_data">〒411-0807<br>三島市竹倉286-1<br>TEL：055-972-5145／FAX：055-975-9610</p>
-      </div>
       <div id="niigata" class="l_chart">
         <a class="prefectures-link" href="https://www.chuokai-niigata.or.jp/nagaokatobi/index.html" target="_blank" rel="noopener">新潟県鳶土工職組合連合会</a>
         <p class="l_chart_data">〒940-0092<br>長岡市昭和2-1-15　鳶協会館内<br>TEL：0258-36-6310／FAX：0258-36-8681<br>※長岡鳶工業協同組合ホームページへのリンクになります</p>
+      </div>
+      <div id="sizuoka" class="l_chart">
+        <p class="l_chart_row">静岡県鳶工業会</p>
+        <p class="l_chart_data">〒411-0807<br>三島市竹倉286-1<br>TEL：055-972-5145／FAX：055-975-9610</p>
       </div>
     </section>
 

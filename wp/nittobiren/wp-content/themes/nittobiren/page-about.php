@@ -21,7 +21,7 @@
       </div>
       <div class="l_table">
         <p class="l_table_row">住所</p>
-        <p class="l_table_data">〒 1105 - 0011<br>東京都港区芝公園 3-5-20 鳶連会館</p>
+        <p class="l_table_data">〒 105 - 0011<br>東京都港区芝公園 3-5-20 日鳶連会館</p>
       </div>
       <div class="l_table">
         <p class="l_table_row">電話番号</p>
@@ -30,6 +30,10 @@
       <div class="l_table">
         <p class="l_table_row">FAX番号</p>
         <p class="l_table_data">03-5472-5747</p>
+      </div>
+      <div class="l_table">
+        <p class="l_table_row">Email</p>
+        <p class="l_table_data">jtci@nittobiren.or.jp</p>
       </div>
     </section>
     <div class="activities">
@@ -61,7 +65,6 @@
       <p class="activities-txt">安全で快適な作業環境の整備等を図ります。</p>
       <ul class="md_box">
         <li class="md_box_list">川島共済基金による会員支援事業</li>
-        <li class="md_box_list">関係福祉活動団体の普及と加入促進事業<br>全国建設工事業国民健康保険組合<br>日本建設工事業厚生年金基金</li>
         <li class="md_box_list">建設雇用改善支援事業</li>
         <li class="md_box_list">環境問題に対応した工夫、新建築材等の調査研究</li>
       </ul>

@@ -31,8 +31,7 @@
               <td>神戸</td>
               <td>40名</td>
               <td><a href="http://www.kobekhall.com/akusesu/">神戸市教育会館501会議室</a></td>
-              <td>神戸市中央区<br>
-              中山手通4丁目10番5号</td>
+              <td>神戸市中央区中山手通4丁目10番5号</td>
             </tr>
             <tr>
               <td>鹿児島</td>
