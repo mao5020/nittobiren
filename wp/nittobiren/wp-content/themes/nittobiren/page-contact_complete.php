@@ -21,7 +21,7 @@
     </div>  
   </div>
   <div class="contact-button">
-    <a href="<?php echo get_site_url(); ?>/top">TOPに戻る</a>
+    <a href="<?php echo get_site_url(); ?>">TOPに戻る</a>
   </div>
 </div>
 <?php get_footer(); ?>
