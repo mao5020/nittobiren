@@ -20,7 +20,7 @@
         <?php 
           $args = array(
             'post_type' => 'news', //お知らせページ読み込み
-            'post_per_page' => '3' //最大件数
+            'posts_per_page' => '3' //最大件数
           );
           $my_query = new WP_Query($args);
         ?>
