@@ -62,4 +62,8 @@ $(function() {
     $('#top').addClass("is-h_active");
   }
   $('#' + h_uri).addClass("is-h_active");
+
+  $(function(){ 
+    document.addEventListener( 'wpcf7mailsent', function( event ) { location = 'http://wispy-takeo-8723.lolitapunk.jp/contact_complete'; }, 
+  false );});
 });
