@@ -29,9 +29,6 @@
         <div class="link-content">
           <a class="link-content-txt" href="https://www.kentaikyo.taisyokukin.go.jp/" target="_blank" rel="noopener">独立行政法人　勤労者退職金共済機構（建設業退職金共済事業本部）</a>
         </div>
-        <div class="link-content">
-          <a class="link-content-img" href="http://www.kensetsukokuho.or.jp/" target="_blank" rel="noopener"><img src="<?php echo get_theme_file_uri()?>/image/link/kokuho.jpg" alt="建設国保HP"></a>
-        </div>
       </div>
     </section>
     
