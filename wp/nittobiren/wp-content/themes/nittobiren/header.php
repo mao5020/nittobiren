@@ -47,7 +47,7 @@
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/report">活動報告</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/prefectures">都道府県連一覧</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/evaluation">CCUSに伴う<br>とび技能者能力評価について</a></li>
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/member">会員ページ</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="https://nittobiren.or.jp/member">会員ページ</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/lecture">講習会</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/kikan">登録基幹技能講習</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="https://kensetsu-welcome.com/" target="_blank" rel="noopener">建設労働者緊急<br>育成支援事業</a></li>
