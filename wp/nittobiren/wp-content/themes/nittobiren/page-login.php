@@ -2,13 +2,21 @@
 /*
 Template Name: login
 */
-
+get_header();
+?>
+<div class="page_cover">
+    <h1 class="page_ttl">会員ページ</h1>
+</div>
+<div class="flex_inner">
+    <?php get_sidebar();?>
+    <div class="l_inner">
+    <?php
 $auth = SwpmAuth::get_instance();
 $setting = SwpmSettings::get_instance();
 $password_reset_url = $setting->get_value('reset-page-url');
 $join_url = $setting->get_value('join-us-page-url');
 // Filter that allows changing of the default value of the username label on login form.
-$label_username_or_email = __( 'Username or Email', 'simple-membership' );
+$label_username_or_email = __( 'ユーザー名' );
 $swpm_username_label = apply_filters('swpm_login_form_set_username_label', $label_username_or_email);
 ?>
 <div class="swpm-login-widget-form">
@@ -26,10 +34,6 @@ $swpm_username_label = apply_filters('swpm_login_form_set_username_label', $labe
             <div class="swpm-password-input">
                 <input type="password" class="swpm-text-field swpm-password-field" id="swpm_password" value="" size="25" name="swpm_password" />
             </div>
-            <div class="swpm-remember-me">
-                <span class="swpm-remember-checkbox"><input type="checkbox" name="rememberme" value="checked='checked'"></span>
-                <span class="swpm-rember-label"> <?php echo SwpmUtils::_('Remember Me') ?></span>
-            </div>
 
             <div class="swpm-before-login-submit-section"><?php echo apply_filters('swpm_before_login_form_submit_button', ''); ?></div>
 
@@ -41,5 +45,8 @@ $swpm_username_label = apply_filters('swpm_login_form_set_username_label', $labe
             </div>
         </div>
     </form>
+</div>
+
+    </div>
 </div>
 
