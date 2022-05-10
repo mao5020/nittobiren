@@ -29,7 +29,7 @@
     </div>
     <nav class="header-content-nav">
       <ul class="header-content-nav-list">
-        <li id="top" class="header-content-nav-list-item"><a href="http://nittobiren.or.jp/>">TOP</a></li>
+        <li id="top" class="header-content-nav-list-item"><a href="http://nittobiren.or.jp">TOP</a></li>
         <li id="about" class="header-content-nav-list-item"><a href="<?php echo get_site_url(); ?>/about">概要</a></li>
         <li id="report" class="header-content-nav-list-item"><a href="<?php echo get_site_url(); ?>/report">活動報告</a></li>
         <li id="prefectures" class="header-content-nav-list-item"><a href="<?php echo get_site_url(); ?>/prefectures">都道府県連一覧</a></li>
