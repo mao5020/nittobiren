@@ -948,27 +948,6 @@ select[name="your-month"]{
   text-align: center;
 }
 
-/* login */
-.swpm-label{
-  font-size: 18px;
-  margin-bottom: 10px;
-}
-.swpm-text-field{
-  border: solid 1px #000;
-  padding: 10px;
-  font-size: 19px;
-}
-.swpm-login-form-inner .swpm-username-input,
-.swpm-login-form-inner .swpm-username-input{
-  margin-bottom: 20px;
-}
-.swpm-login-form-submit{
-  background-color: #000;
-  padding: 10px 15px;
-  color: #fff;
-  font-size: 18px;
-  margin-top: 20px;
-}
 @media all and (max-width: 480px) { 
   /* ------------------------------ 
   base
