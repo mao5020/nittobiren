@@ -45,7 +45,7 @@
         <div class="C_more_btn">
           <div class="C_more_btn_block E_more_btn_right">
             <a href="<?php echo get_site_url(); ?>/news" class="C_more_btn_block-link">
-              <p class="C_more_btn_block-link-txt">View All</p>
+              <p class="C_more_btn_block-link-txt">もっと見る</p>
               <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>
           </div>

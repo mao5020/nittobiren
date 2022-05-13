@@ -29,7 +29,7 @@
     </div>
     <nav class="header-content-nav">
       <ul class="header-content-nav-list">
-        <li id="top" class="header-content-nav-list-item"><a href="http://nittobiren.or.jp">TOP</a></li>
+        <li id="top" class="header-content-nav-list-item"><a href="<?php echo get_site_url(); ?>">TOP</a></li>
         <li id="about" class="header-content-nav-list-item"><a href="<?php echo get_site_url(); ?>/about">概要</a></li>
         <li id="report" class="header-content-nav-list-item"><a href="<?php echo get_site_url(); ?>/report">活動報告</a></li>
         <li id="prefectures" class="header-content-nav-list-item"><a href="<?php echo get_site_url(); ?>/prefectures">都道府県連一覧</a></li>
@@ -42,12 +42,12 @@
     <div class="modal-sp">
       <nav class="modal-sp-nav">
         <ul class="modal-sp-nav-list">
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="http://nittobiren.or.jp">TOP</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>">TOP</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/about">概要</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/report">活動報告</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/prefectures">都道府県連一覧</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/evaluation">CCUSに伴う<br>とび技能者能力評価について</a></li>
-          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="http://nittobiren.or.jp/member">会員ページ</a></li>
+          <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/member">会員ページ</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/lecture">講習会</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="<?php echo get_site_url(); ?>/kikan">登録基幹技能講習</a></li>
           <li class="modal-sp-nav-list-item"><a class="modal-sp-nav-list-item-link" href="https://kensetsu-welcome.com/" target="_blank" rel="noopener">建設労働者緊急<br>育成支援事業</a></li>

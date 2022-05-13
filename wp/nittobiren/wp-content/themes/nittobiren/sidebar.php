@@ -1,6 +1,6 @@
     <section class="menu">
       <div class="menu-card">
-        <a class="menu-card-link" href="http://nittobiren.or.jp/member">
+        <a class="menu-card-link" href="<?php echo get_site_url(); ?>/member">
           <img class="menu-card-link-icon" src="<?php echo get_theme_file_uri()?>/image/common/card_01.png" alt="" width="44px" height="40px">
           <p class="menu-card-link-txt">会員ページ</p>
         </a>
