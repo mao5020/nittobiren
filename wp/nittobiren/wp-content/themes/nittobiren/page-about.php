@@ -24,14 +24,6 @@
         <p class="l_table_data">〒 105 - 0011<br>東京都港区芝公園 3-5-20 日鳶連会館</p>
       </div>
       <div class="l_table">
-        <p class="l_table_row">電話番号</p>
-        <p class="l_table_data">03-3434-8805</p>
-      </div>
-      <div class="l_table">
-        <p class="l_table_row">FAX番号</p>
-        <p class="l_table_data">03-5472-5747</p>
-      </div>
-      <div class="l_table">
         <p class="l_table_row">Email</p>
         <p class="l_table_data">jtci@nittobiren.or.jp</p>
       </div>
