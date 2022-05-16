@@ -12,7 +12,9 @@
     <section class="kikan sec_inner">
       <h2 class="h2_ttl">登録鳶・土工基幹技能者</h2>
       <div class="kikan-content">
-        <p class="kikan-content-img"><img src="<?php echo get_theme_file_uri()?>/image/kikan/kikan.png" alt=""></p>
+        <a href="https://www.kensetsu-kikin.or.jp/humanresources/technician/data_search.php?no=16">
+          <p class="kikan-content-img"><img src="<?php echo get_theme_file_uri()?>/image/kikan/kikan.png" alt=""></p>
+        </a>
         <div class="kitan-content-right">
           <p class="kikan-txt">「登録鳶・土工基幹技能者」は、<br>建設業法に基づき国土交通省により認定された資格です。<br>
             日鳶連では、（一社）日本建設躯体工事業団体連合会（略称「日本躯体」）

@@ -564,9 +564,10 @@ about
   display: flex;
   justify-content: space-between;
 }
-.kikan-content-img{
+.kikan-content a{
   width: 50%;
 }
+
 .kitan-content-right{
   width: 90%;
 }
@@ -803,7 +804,7 @@ about
   font-size: 26px;
 }
 .contact-address-box-num{
-  font-size: 46px;
+  font-size: 35px;
 }
 
 .contact-form-inner{
