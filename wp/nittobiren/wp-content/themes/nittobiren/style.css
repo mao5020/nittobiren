@@ -565,11 +565,10 @@ about
   justify-content: space-between;
 }
 .kikan-content a{
-  width: 50%;
+  display: block;
 }
-
 .kitan-content-right{
-  width: 90%;
+  width: 65%;
 }
 .kikan-corse{
   display: flex;
@@ -1304,6 +1303,9 @@ select[name="your-month"]{
 
   .kikan-content{
     display: block;
+  }
+  .kitan-content-right{
+    width: 100%;
   }
   .kikan-corse{
     display: block;
