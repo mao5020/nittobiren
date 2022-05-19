@@ -246,14 +246,13 @@ header
   margin-top: -10px;
 }
 .header-content-nav{
-  width: 55%;
+  width: 59%;
   display: grid;
 }
 .header-content-nav-list{
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-  margin-left: 15px;
   margin-bottom: 15px;
 }
 .header-content-nav-list-item{
@@ -270,7 +269,6 @@ header
   right: 0;
   width: 10%;
   height: 100px;
-  margin-left:10px;
 }
 .header-content-form-txt{
   display: flex;

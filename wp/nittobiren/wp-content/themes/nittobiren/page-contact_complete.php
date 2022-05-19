@@ -21,7 +21,7 @@
     </div>  
   </div>
   <div class="contact-button">
-    <a href="https://nittobiren.or.jp/>TOPに戻る</a>
+    <a href="https://nittobiren.or.jp/">TOPに戻る</a>
   </div>
 </div>
 <?php get_footer(); ?>
