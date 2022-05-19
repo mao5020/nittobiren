@@ -42,7 +42,7 @@
       <div class="kikan-corse">
         <div class="C_more_btn kikan-corse-btn">
           <div class="C_more_btn_block">
-            <a href="<?php echo get_theme_file_uri();?>/image/evaluation/とび技能者能力評価基準.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
+            <a href="<?php echo get_theme_file_uri();?>/image/evaluation/%E3%81%A8%E3%81%B2%E3%82%99%E6%8A%80%E8%83%BD%E8%80%85%E8%83%BD%E5%8A%9B%E8%A9%95%E4%BE%A1%E5%9F%BA%E6%BA%96.pdf" target="_blank" rel="noopener" class="C_more_btn_block-link">
               <p class="C_more_btn_block-link-txt">とび技能者能力評価基準詳細</p>
               <p><img class="C_more_btn_block-link-img" src="<?php echo get_theme_file_uri()?>/image/common/more.png" alt="" class="C_more_btn_block-link-img"></p>
             </a>

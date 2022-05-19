@@ -35,7 +35,6 @@
       <ul class="md_box">
         <li class="md_box_list">機関紙（日鳶連新聞）の発行</li>
         <li class="md_box_list">出版物（鳶技能検定ガイドブックなど）の発行及び販売</li>
-        <li class="md_box_list">出版物（鳶技能検定ガイドブックなど）の発行及び販売</li>
         <li class="md_box_list">（一財）建設業振興基金、（一社）建設産業専門団体連合会等の関係団体との連携</li>
       </ul>
       <h4 class="h4_ttl">経営対策活動</h4>
