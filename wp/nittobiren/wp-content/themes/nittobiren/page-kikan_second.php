@@ -127,7 +127,6 @@
       <h4 class="h4_ttl">申請手数料</h4>
       <ul class="kikan-box">
         <li class="kikan-box-list">申請手数料は日鳶連事務局までお問い合わせください。</li>
-        <li class="kikan-box-list">◆日鳶連事務局　TEL：03-3434-8805</li>
         <li class="kikan-box-list">※振込手数料は振込人の負担。</li>
         <li class="kikan-box-list">※欠席・キャンセルの場合、申請手数料は返金しない。</li>
       </ul>
@@ -149,7 +148,6 @@
       <ul class="kikan-box">
         <li class="kikan-box-list">一般社団法人日本鳶工業連合会 登録鳶・土工基幹技能者講習事務局</li>
         <li class="kikan-box-list">〒105-0011　東京都港区芝公園3-5-20　日鳶連会館内</li>
-        <li class="kikan-box-list">TEL：03-3434-8805　FAX：03-5472-5747</li>
         <li class="kikan-box-list">Email：jtci@nittobiren.or.jp</li>
         <li class="kikan-box-list">※角2封筒（A4用紙用）に受講申込書等を折らずに入れ、必ず配達記録が残る方法(簡易書留、特定記録など)で郵送してください。</li>
       </ul>
