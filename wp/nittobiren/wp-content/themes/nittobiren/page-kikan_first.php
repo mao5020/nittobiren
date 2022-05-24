@@ -23,7 +23,7 @@
               <td rowspan="3" >2022年<br>6月11日(土)～12日(日)</td>
               <td>東京</td>
               <td>40名</td>
-              <td><a href="http://www.jspmi.or.jp/kaigishitsu/access.html">機会振興会館6D-4</a></td>
+              <td><a href="http://www.jspmi.or.jp/kaigishitsu/access.html">機械振興会館研修室-1</a></td>
               <td>東京都港区芝公園3-5-8</td>
               <td rowspan="3" >2022年5月20日(金)</td>
             </tr>
@@ -66,7 +66,7 @@
               11月12日(土)～13日(日)</td>
               <td>東京</td>
               <td>40名</td>
-              <td><a href="http://www.jspmi.or.jp/kaigishitsu/access.html">機械振興会館6D-4</a></td>
+              <td><a href="http://www.jspmi.or.jp/kaigishitsu/access.html">機械振興会館研修室-1</a></td>
               <td>東京都港区芝公園3-5-8</td>
               <td rowspan="3" >2022年10月21日(金)</td>
             </tr>
