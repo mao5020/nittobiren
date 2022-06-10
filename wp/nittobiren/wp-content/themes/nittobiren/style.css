@@ -953,6 +953,7 @@ select[name="your-month"]{
   margin-bottom: 20px;
 }
 .test-box{
+  margin-top: 50px;
   display: flex;
   gap: 20px;
 }
