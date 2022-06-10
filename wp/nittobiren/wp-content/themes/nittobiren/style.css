@@ -946,6 +946,34 @@ select[name="your-month"]{
   text-align: center;
 }
 
+  /* ------------------------------ 
+  foreigner__test
+ ------------------------------ */
+.test-txt{
+  margin-bottom: 20px;
+}
+.test-box{
+  display: flex;
+  gap: 20px;
+}
+.test-box-list{
+  width: 20%;
+  border: solid 1px #000;
+  display: flex;
+}
+.test-box-list-link{
+  box-sizing: border-box;
+  text-align: center;
+  width: 100%;
+  display: block;
+  padding: 10px;
+}
+.test-box-list:hover{
+  background-color: #B50000;
+}
+.test-box-list-link:hover{
+  color: #fff;
+}
 @media all and (max-width: 480px) { 
   /* ------------------------------ 
   base
@@ -1463,4 +1491,14 @@ select[name="your-month"]{
 .contact-br{
   display: none;
 }
+  /* ------------------------------ 
+  foreigner__test
+ ------------------------------ */
+  .test-box{
+    display: block;
+  }
+  .test-box-list{
+    width: 100%;
+    margin-bottom: 20px;
+  }
 }
