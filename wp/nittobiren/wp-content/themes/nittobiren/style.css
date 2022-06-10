@@ -167,6 +167,9 @@ component
 .C_more_btn_block-link{
   display: flex;
 }
+.C_more_btn_block-link:hover{
+  color: #B50000;
+}
 
 .C_more_btn_block-link-txt{
   margin-top: 20px;
