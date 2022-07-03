@@ -795,7 +795,7 @@ about
   background-color: #B50000;
   color: #fff;
   border-radius: 10px;
-  width: 35%;
+  max-width: 700px;
   height: 130px;
   margin: 0 auto;
   margin-top: 50px;

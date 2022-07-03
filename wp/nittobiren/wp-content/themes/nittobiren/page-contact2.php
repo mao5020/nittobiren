@@ -8,7 +8,7 @@
     <p class="contact-txt">お問い合わせご希望の方は、下記フォームよりお送りください。</p>
     <div class="contact-address">
       <div class="contact-address-box">
-        <p class="contact-address-box-num">jtci@nittobiren.or.jp</p>
+        <p class="contact-address-box-num">jtci-tokutei@nittobiren.or.jp</p>
         <p class="contact-address-box-day">平日 9:00 ~ 17:00</p>
       </div>
     </div>
