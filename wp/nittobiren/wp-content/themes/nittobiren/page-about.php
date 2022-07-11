@@ -90,7 +90,7 @@
         <p class="l_table_row">相談役</p>
         <p class="l_table_data member-table"><span class="member-name">向井 敏雄</span><span class="member-name">小野 辰雄</span><span class="member-name">遠藤 信義</span><span class="member-name">中村 隆輔</span></p>
       </div>
-      <h4 class="h4_ttl member-ttl">理事・幹事</h4>
+      <h4 class="h4_ttl member-ttl">理事・監事</h4>
       <div class="l_table">
         <p class="l_table_row">会長</p>
         <p class="l_table_data member-table">清水 武</p>
@@ -105,7 +105,7 @@
       </div>
       <div class="l_table">
         <p class="l_table_row">理事</p>
-        <p class="l_table_data member-table"><span class="member-name">栗栖 龍男</span><span class="member-name">丹波 信二</span><span class="member-name">松原 繁光</span><span class="member-name">広川 幸則</span><span class="member-name">春瀬 隆昭</span><span class="member-name">筒井 弘</span><span class="member-name">遠藤 正樹</span></p>
+        <p class="l_table_data member-table"><span class="member-name">栗栖 龍男</span><span class="member-name">丹波 信二</span><span class="member-name">松原 繁光</span><span class="member-name">広川 幸則</span><span class="member-name">春瀬 隆昭</span><span class="member-name">筒井 弘</span><span class="member-name">遠藤 正樹</span><span class="member-name">鉄 謙一</span><span class="member-name">赤松 智明</span></p>
       </div>
       <div class="l_table">
         <p class="l_table_row">監事</p>
