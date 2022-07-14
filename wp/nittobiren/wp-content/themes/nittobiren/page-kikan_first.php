@@ -20,26 +20,6 @@
               <td class="kikan-table-title">申込受付期日</td>
             </tr>
             <tr>
-              <td rowspan="3" >2022年<br>6月11日(土)～12日(日)</td>
-              <td>東京</td>
-              <td>40名</td>
-              <td><a href="http://www.jspmi.or.jp/kaigishitsu/access.html">機械振興会館研修室-1</a></td>
-              <td>東京都港区芝公園3-5-8</td>
-              <td rowspan="3" >2022年5月20日(金)</td>
-            </tr>
-            <tr>
-              <td>神戸</td>
-              <td>40名</td>
-              <td><a href="http://www.kobekhall.com/akusesu/">神戸市教育会館501会議室</a></td>
-              <td>神戸市中央区中山手通4丁目10番5号</td>
-            </tr>
-            <tr>
-              <td>鹿児島</td>
-              <td>40名</td>
-              <td><a href="https://www.houzanhall.com/access/">宝山ホール第6</a></td>
-              <td>鹿児島県鹿児島市山下町5-3</td>
-            </tr>
-            <tr>
               <td rowspan="3" >2022年<br>
               9月10日(土)～11日(日)</td>
               <td>帯広</td>
@@ -94,8 +74,8 @@
             <tr>
               <td>大坂</td>
               <td>40名</td>
-              <td><a href="大阪府堺市堺区北花田口町3丁1番15号">堺市東洋ビル4F-7</a></td>
-              <td>大阪府堺市堺区北花田口町3丁1番15号</td>
+              <td><a href="https://www.gco.co.jp/floor/">グランキューブ大阪 702会議室</a></td>
+              <td>大阪市北区中之島5丁目3-51</td>
             </tr>
             <tr>
               <td>大分</td>
@@ -128,7 +108,7 @@
         <li class="kikan-box-list">(1)10年以上のとび・土工工事の実務経験を有する者</li>
         <li class="kikan-box-list">(2)8年以上のとび・土工工事の職長経験のある者</li>
         <li class="kikan-box-list">(3)下記の条件を充たしている者<br> - 安衛法第60条に基づき安衛則第40条第2項で定める職長教育を受講し、修了後5年以上経過している者</li>
-        <li class="kikan-box-list">(4)下記の資格のいずれかを有する者<br> - 1級とび技能士<br> - 1・2級建築士施工管理技師<br> - 1・2級土木施工管理技士</li>
+        <li class="kikan-box-list">(4)下記の資格のいずれかを有する者<br> - とび1級技能士<br> - 1・2級建築施工管理技士<br> - 1・2級土木施工管理技士</li>
       </ul>
       <h4 class="h4_ttl">受講申込提出書類</h4>
       <ul class="kikan-box">
@@ -137,7 +117,7 @@
         <li class="kikan-box-list">(3)労働安全衛生法第60条に規定する職長教育修了証（上記「受講資格」(3)）の写し、<br>　または事業主以外の元請の建設業者による証明書類の写し<br>　※ただし、修了証及び証明書類は、修了後5年以上経過しているもの</li>
         <li class="kikan-box-list">(4)資格証の写し（上記「受講資格」(4)の資格）</li>
         <li class="kikan-box-list">(5)顔写真2枚（タテ30mm・ヨコ24mm、上半身無帽、無背景で鮮明なもの）<br>　※申請書に貼り付ける以外に1枚を袋に入れる<br>　※写真裏には必ず所属会社及び氏名を記入</li>
-        <li class="kikan-box-list">(6)レターパックプラス(赤)(修了証送付時に使用しますので送付先住所等記載して下さい)</li>
+        <li class="kikan-box-list">(6)レターパックプラス(赤)(修了証送付時に使用します)</li>
       </ul>
       <h4 class="h4_ttl">記載上の注意事項</h4>
       <ul class="kikan-box">

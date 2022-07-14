@@ -25,28 +25,11 @@
               <td class="kikan-table-title">申込受付期日</td>
             </tr>
             <tr>
-              <td rowspan="3" >2022年<br>6月12日(日)</td>
-              <td>東京</td>
-              <td><a href="http://www.jspmi.or.jp/kaigishitsu/access.html">機会振興会館6-66</a></td>
-              <td>東京都港区芝公園3-5-8</td>
-              <td rowspan="3" >2022年5月20日(金)</td>
-            </tr>
-            <tr>
-              <td>大阪</td>
-              <td><a href="https://www.gco.co.jp/access/">グランキューブ大阪10階会議室</a></td>
-              <td>大阪府大阪市北区中之島5丁目3-51</td>
-            </tr>
-            <tr>
-              <td>鹿児島</td>
-              <td><a href="https://www.houzanhall.com/access/">宝山ホール第3</a></td>
-              <td>鹿児島県鹿児島市山下町5-3</td>
-            </tr>
-            <tr>
               <td rowspan="3" >2022年<br>
               9月11日(日)</td>
               <td>帯広</td>
-              <td><a href="https://okamotopbc.jp/tokachi-plaza/guide/access/">とかちプラザ（予定）</a></td>
-              <td>帯広市西4条南13丁目1</td>
+              <td><a href="http://obi-syokuno.ac.jp/access.html">帯広地方職業能力開発協会実習室1</a></td>
+              <td>北海道帯広市西22条北2丁目29番4号（帯広職業能力開発センター内）</td>
               <td rowspan="3" >2022年8月19日(金)</td>
             </tr>
             <tr>
@@ -118,7 +101,7 @@
         <li class="kikan-box-list">(3)登録鳶・土工基幹技能者修了証のコピー</li>
         <li class="kikan-box-list">(4)顔写真2枚（タテ30mm・ヨコ24mm、上半身無帽、無背景で鮮明なもの）<br>　 ※ 申請書に貼り付ける以外に1枚を袋に入れる<br>　 ※ 写真裏には必ず所属会社及び氏名を記入</li>
         <li class="kikan-box-list">(5)受講資格証明書類・・・登録後新規取得又は更新がある場合のみ。資格証（写し）</li>
-        <li class="kikan-box-list">(6)レターパックプラス(赤)(修了証送付時に使用しますので、送付先住所等記載して下さい)</li>
+        <li class="kikan-box-list">(6)レターパックプラス(赤)(修了証送付時に使用します)</li>
       </ul>
       <h4 class="h4_ttl">講習内容</h4>
       <ul class="kikan-box">
