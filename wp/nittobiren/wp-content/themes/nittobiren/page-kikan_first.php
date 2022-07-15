@@ -38,8 +38,8 @@
             <tr>
               <td>大坂</td>
               <td>40名</td>
-              <td><a href="http://www.pss-kasikaigi.com/access/">堺市東洋ビル4F-7</a></td>
-              <td>大阪府堺市堺区北花田口町3丁1番15号</td>
+              <td><a href="https://www.gco.co.jp/access/" target="_blank">グランキューブ大阪 702会議室</a></td>
+              <td>大阪府大阪市北区中之島5丁目3-51</td>
             </tr>
             <tr>
               <td rowspan="3" >2022年<br>
