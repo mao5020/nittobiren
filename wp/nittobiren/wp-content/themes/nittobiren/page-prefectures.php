@@ -77,7 +77,7 @@
     <section class="prefectures sec_inner">
       <h2 class="h2_ttl">第1ブロック</h2>
       <div id="hokkaido" class="l_chart">
-        <p class="l_chart_row">北海道鳶工業会</p>
+        <p class="l_chart_row">（一社）北海道鳶工業会</p>
         <p class="l_chart_data">〒003-0806<br>札幌市白石区菊水6条2丁目1-15　札幌鳶組合内<br>TEL：011-822-5635／FAX：011-822-9487</p>
       </div>
       <div id="aomori" class="l_chart">
