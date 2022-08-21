@@ -17,7 +17,7 @@
               <td class="kikan-table-title">定員</td>
               <td class="kikan-table-title">会場</td>
               <td class="kikan-table-title">住所</td>
-              <td class="kikan-table-title">申込受付期日</td>
+              <td class="kikan-table-title">申込受付締切日</td>
             </tr>
             <tr>
               <td rowspan="3" >2022年<br>
