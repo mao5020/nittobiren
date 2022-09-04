@@ -27,7 +27,7 @@
               <td><a href="http://obi-syokuno.ac.jp/access.html">帯広地方職業能力開発協会教室4･5</a></td>
               <td>帯広市西22条北2丁目29番4号<br>
               帯広職業能力開発センター内</td>
-              <td rowspan="3" >2022年8月19日(金)</td>
+              <td rowspan="3" >受付終了</td>
             </tr>
             <tr>
               <td>石川</td>
@@ -42,13 +42,18 @@
               <td>大阪府大阪市北区中之島5丁目3-51</td>
             </tr>
             <tr>
-              <td rowspan="3" >2022年<br>
-              11月12日(土)～13日(日)</td>
+              <td rowspan="3" >2022年<br>11月12日(土)～13日(日)</td>
+              <td>札 幌</td>
+              <td>40名</td>
+              <td><a href="https://www.google.co.jp/maps/place/%E3%80%92003-0807+%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E7%99%BD%E7%9F%B3%E5%8C%BA%E8%8F%8A%E6%B0%B4%EF%BC%97%E6%9D%A1%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%92%E2%88%92%EF%BC%92%EF%BC%90/@43.061394,141.379452,17z/data=!4m5!3m4!1s0x5f0b2962e8ba0c8b:0x494384acdab33312!8m2!3d43.061146!4d141.379452?hl=ja">菊水地区会館</a></td>
+              <td>札幌市白石区菊水7条2丁目2-20</td>
+              <td rowspan="3" >2022年10月21日(金)</td>
+            </tr>
+            <tr>
               <td>東京</td>
               <td>40名</td>
               <td><a href="http://www.jspmi.or.jp/kaigishitsu/access.html">機械振興会館研修室-1</a></td>
               <td>東京都港区芝公園3-5-8</td>
-              <td rowspan="3" >2022年10月21日(金)</td>
             </tr>
             <tr>
               <td>広島</td>
@@ -57,18 +62,12 @@
               <td>広島県広島市南区東荒神町3-35</td>
             </tr>
             <tr>
-              <td>札 幌</td>
-              <td>40名</td>
-              <td><a href="https://www.google.co.jp/maps/place/%E3%80%92003-0807+%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E7%99%BD%E7%9F%B3%E5%8C%BA%E8%8F%8A%E6%B0%B4%EF%BC%97%E6%9D%A1%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%92%E2%88%92%EF%BC%92%EF%BC%90/@43.061394,141.379452,17z/data=!4m5!3m4!1s0x5f0b2962e8ba0c8b:0x494384acdab33312!8m2!3d43.061146!4d141.379452?hl=ja">菊水地区会館</a></td>
-              <td>札幌市白石区菊水7条2丁目2-20</td>
-            </tr>
-            <tr>
               <td rowspan="3" >2023年<br>
               2月11日(土)～12日(日)</td>
               <td>山形</td>
               <td>40名</td>
-              <td><a href="https://www.city.sagae.yamagata.jp/kurashi/shisetsu/bunkashogaigakusyu/gijutukouryuplaza.html">寒川江市技術交流プラザ<br>(予定)</a></td>
-              <td>寒河江市中央工業団地153の1</td>
+              <td><a href="https://www.yamagataterrsa.or.jp/access/">山形テルサ1F 大会議室</a></td>
+              <td>山形県山形市双葉町1-2-3</td>
               <td rowspan="3" >2023年1月20日(金)</td>
             </tr>
             <tr>

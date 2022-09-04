@@ -30,7 +30,7 @@
               <td>帯広</td>
               <td><a href="http://obi-syokuno.ac.jp/access.html">帯広地方職業能力開発協会実習室1</a></td>
               <td>北海道帯広市西22条北2丁目29番4号（帯広職業能力開発センター内）</td>
-              <td rowspan="3" >2022年8月19日(金)</td>
+              <td rowspan="3" >受付終了</td>
             </tr>
             <tr>
               <td>東京</td>
@@ -51,22 +51,21 @@
               <td>2022年10月21日(金)</td>
             </tr>
             <tr>
-              <td rowspan="3" >2023年<br>
-              2月12日(日)</td>
+              <td rowspan="3" >2023年<br>2月12日(日)</td>
+              <td>山形</td>
+              <td><a href="https://www.yamagataterrsa.or.jp/access/">山形テルサ1F 大会議室</a></td>
+              <td>山形県山形市双葉町1-2-3</td>
+              <td rowspan="3" >2023年1月20日(金)</td>
+            </tr>
+            <tr>
               <td>大阪</td>
               <td><a href="http://www.pss-kasikaigi.com/access/">堺市東洋ビル4F-5</a></td>
               <td>大阪府堺市堺区北花田口町3丁1番15号</td>
-              <td rowspan="3" >2023年1月20日(金)</td>
             </tr>
             <tr>
               <td>大分</td>
               <td><a href="http://www.horutohall-oita.jp/access/peripheral.php">ホルトホール大分（予定）</a></td>
               <td>大分県大分市金池南一丁目5番1号</td>
-            </tr>
-            <tr>
-              <td>山形</td>
-              <td><a href="https://www.city.sagae.yamagata.jp/kurashi/shisetsu/bunkashogaigakusyu/gijutukouryuplaza.html">寒川江市技術交流プラザ<br>(予定)</a></td>
-              <td>寒河江市中央工業団地153-1</td>
             </tr>
           </tbody>
         </table>
