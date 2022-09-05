@@ -73,14 +73,14 @@
             <tr>
               <td>大坂</td>
               <td>40名</td>
-              <td><a href="https://www.gco.co.jp/floor/">グランキューブ大阪 702会議室</a></td>
-              <td>大阪市北区中之島5丁目3-51</td>
+              <td><a href="http://www.pss-kasikaigi.com/access/">堺市東洋ビル4F-5 (予定)</a></td>
+              <td>大阪府堺市堺区北花田口町3-1-15</td>
             </tr>
             <tr>
               <td>大分</td>
               <td>40名</td>
               <td><a href="http://www.horutohall-oita.jp/access/">ホルトホール大分<br>(予定)</a></td>
-              <td>大分県大分市金池南一丁目5番1号</td>
+              <td>大分県大分市金池南1-5-1</td>
             </tr>
           </tbody>
         </table>

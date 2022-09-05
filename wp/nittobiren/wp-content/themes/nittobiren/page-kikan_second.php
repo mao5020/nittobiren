@@ -53,7 +53,7 @@
             <tr>
               <td rowspan="3" >2023年<br>2月12日(日)</td>
               <td>山形</td>
-              <td><a href="https://www.yamagataterrsa.or.jp/access/">山形テルサ1F 大会議室</a></td>
+              <td><a href="https://www.yamagataterrsa.or.jp/access/">山形テルサ 研修室A</a></td>
               <td>山形県山形市双葉町1-2-3</td>
               <td rowspan="3" >2023年1月20日(金)</td>
             </tr>
