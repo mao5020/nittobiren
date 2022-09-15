@@ -52,7 +52,7 @@
             <tr>
               <td>東京</td>
               <td>40名</td>
-              <td><a href="http://www.jspmi.or.jp/kaigishitsu/access.html">機械振興会館研修室-1</a></td>
+              <td><a href="http://www.jspmi.or.jp/kaigishitsu/access.html">機械振興会館6D-4</a></td>
               <td>東京都港区芝公園3-5-8</td>
             </tr>
             <tr>
